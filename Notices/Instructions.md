@@ -1,6 +1,8 @@
 ### Instructions to be followed for submitting data for Newsletter 2023
 
-The Newsletter 2023 is to be released containing data from January 2021 to December 2021. For executing the same, kindly follow the instructions below -
+The Newsletter 2023 is to be released containing data from January 2022 to December 2022 (or till date).
+
+For executing the same, kindly follow the instructions below -
 
 1. Create an account at [https://github.com/](https://github.com/).
 2. Also install a text editor named **ATOM** from [https://atom.io/](https://atom.io/).
