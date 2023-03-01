@@ -1,13 +1,11 @@
 ### Instructions to be followed for submitting data for Newsletter 2023
 
-The Newsletter 2023 is to be released containing data from January 2022 to December 2022 (or till date).
-
-For executing the same, kindly follow the instructions below -
+The Newsletter 2023 is to be released containing data from January 2021 to December 2021. For executing the same, kindly follow the instructions below -
 
 1. Create an account at [https://github.com/](https://github.com/).
 2. Also install a text editor named **ATOM** from [https://atom.io/](https://atom.io/).
 3. Once you have created a GitHub account, `fork` a repository named `Newsletter_2023` from [https://github.com/gndec-2021/Newsletter_2023](https://github.com/gndec-2021/Newsletter_2023).
-4. Once `forked`, open **Atom** and click on `Version control with Git and GitHub` followed by `Open the GitHub Panel`.
+4. Once `forked`, open **Atom** and click on `Version control with Git and GitHub` followed by `Open the GitHub PThe Newsletter 2023 is to be released containing data from January 2021 to December 2021. For executing the same, kindly follow the instructions below -anel`.
 5. You will get a `Welcome Screen`, where you will have to click on `Clone an existing GitHub repository`.
 6. A new dialogue box will pop-up asking **Clone from**. Type url of the type https://github.com/UserID/Newsletter_2023.git [Replace **UserID** with your **GitHub UserID**]. *Alternatively, you can get the link to clone repository by clicking on green tab named `Code` on your GitHub Account*.
 7. The above step will `clone` the forked repository named `Newsletter_2023` on your computer.
