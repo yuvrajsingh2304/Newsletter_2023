@@ -20,7 +20,7 @@ The Department of Business Administration has experienced and competent faculty 
 <p align=justify>
 Guest Lecture on World Investor’s week by CS.Pooja Kohli, SEBI India on 11th October,2022
 </p>
-
+![SDT](Images/CS Pooja Kohli.jpg)
 **[Click Here to View Inaugural Session](https://youtu.be/uMKn29iBRlQ)**  
 **[Click Here to View Valedictory Session](https://youtu.be/ZDI1Tff4LLE)**
 
