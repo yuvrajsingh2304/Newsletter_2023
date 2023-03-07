@@ -18,7 +18,7 @@ The Department of Business Administration has experienced and competent faculty 
 ***Organising Team -AICTE Sponsored Ist FDP***
 
 <p align=justify>
-AICTE (New Delhi), AICTE Quality improvement scheme (AQIS) sponsored Faculty Development Program organized by Department of Business Administration Guru Nanak Dev Engineering College, Ludhiana on “Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education” from 26th October, 2020 to 7th November, 2020 through online mode. Go to meeting app has been purchased for this faculty development program and 150 participants PAN India were participated in this program.  
+Guest Lecture on World Investor’s week by CS.Pooja Kohli, SEBI India on 11th October,2022
 </p>
 
 **[Click Here to View Inaugural Session](https://youtu.be/uMKn29iBRlQ)**  
