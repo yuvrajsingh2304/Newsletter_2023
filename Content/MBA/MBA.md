@@ -25,15 +25,18 @@ The Department of Business Administration has experienced and competent faculty 
 |                                                                                                                                                                                                                                           
 
 # Professional Activities
-|Activities: - | Speakers: -                                                                                      | Dates: -                    |
+
+|Activities:  | Speakers:                                                                                    | Dates:                  |
 |:------- |:------------------------------------------------------------------------------------------------------ |:------------------------------------ |:--------- |:---------------------------------------- |:----------------- |
 |Entrepreneurship Cell & Department of Business Administartion organized a session on Business StartUp Program| Mr.Bernard Curren(Programme Director)and Mr.S.K. Rai(Vice Chairman Hero Cycle)| 2nd June,2022    |
 | Guest lecture on World Investor’s week	|CS Pooja Kohli, SEBI, India	|11 October,2022             |
 |Industrial visit |Avon Cycles Ltd , Ludhiana|	27 October,2022|
 |Industrial Visit  |	Neva Garments Ltd, Phagwara Road.     |	09 November,2022                |
 |CII SKILL -WILL- LEAD 2ND EDITION	|   Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana.     |	10,11,12 November,2022
+
 # Cultural and Sports Activities
-Activities: _ |  Department: _                                                                                    |  dates: -                  |
+
+Activities: |  Department:                                                                                     |  dates:                 |
 |:---------| :----------------------------------------------------------------------------------------------------|                                 |
 Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
 |Deepawali DIVA competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
@@ -41,6 +44,7 @@ Mehndi Competition	|Held in Department of Business Administration, Guru Nanak De
 <P align=justify>
 The students of Department of Business Administration organized the langar on November7,2022 in connection with the worth of Jagat Guru, "Guru Nanak Dev Ji's". The motive was to instill the principles of Vand Shako among the students.
 </P>
+
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
