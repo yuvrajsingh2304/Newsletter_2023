@@ -37,7 +37,7 @@ The Department of Business Administration has experienced and competent faculty 
 # Cultural and Sports Activities
 
 Activities: |  Department:                                                                                     |  dates:                 |
-|:---------| :----------------------------------------------------------------------------------------------------|                                 
+|:---------| :----------------------------------------------------------------------------------------------------|--------------|                          
 Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
 |Deepawali DIVA competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
 |Volley ball& Tug of war Competition for  MBA &BBA	|Held in Sports Complex , Guru Nanak Dev Engineering College, Ludhiana	| 31 October,2022       |
