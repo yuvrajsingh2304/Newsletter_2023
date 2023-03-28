@@ -27,7 +27,7 @@ The Department of Business Administration has experienced and competent faculty 
 # Professional Activities
 
 |Activities:  | Speakers:                                                                                    | Dates:                  |
-|:------- |:------------------------------------------------------------------------------------------------------ |:------------------------------------ |:--------- |:---------------------------------------- |:----------------- |
+|:------- |:------------------------------------------------------------------------------------------------------ |:------------------------------------ |
 |Entrepreneurship Cell & Department of Business Administartion organized a session on Business StartUp Program| Mr.Bernard Curren(Programme Director)and Mr.S.K. Rai(Vice Chairman Hero Cycle)| 2nd June,2022    |
 | Guest lecture on World Investor’s week	|CS Pooja Kohli, SEBI, India	|11 October,2022             |
 |Industrial visit |Avon Cycles Ltd , Ludhiana|	27 October,2022|
@@ -37,7 +37,7 @@ The Department of Business Administration has experienced and competent faculty 
 # Cultural and Sports Activities
 
 Activities: |  Department:                                                                                     |  dates:                 |
-|:---------| :----------------------------------------------------------------------------------------------------|                                 |
+|:---------| :----------------------------------------------------------------------------------------------------|                                 
 Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
 |Deepawali DIVA competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
 |Volley ball& Tug of war Competition for  MBA &BBA	|Held in Sports Complex , Guru Nanak Dev Engineering College, Ludhiana	| 31 October,2022       |
