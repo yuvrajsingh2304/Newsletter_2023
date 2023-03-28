@@ -36,6 +36,16 @@ Open air theatre is a central point of attraction for the students where various
 
 ## Achievements
 
+- 2023  
+    
+    - College Bhangra and Theatre Team participated in North Inter University Youth Festival held at Jammu University, Jammu
+
+    - College Bhangra participated in All India Open National Youth Festival held at Hubbali-Dharwad
+
+- 2022  
+    - College Won Overall Trophy in Zonal and Runners Up Trophy in InterZonal in IKGPTU Youth Festival
+    - College Bhangra Team Participated in Punjab State Inter University Youth Festival held at Punjabi University, Patiala and bagged 3rd Position
+
 - 2020  
     - College Bhangra Team participated in National Youth Festival held at Amity University, Noida
 
