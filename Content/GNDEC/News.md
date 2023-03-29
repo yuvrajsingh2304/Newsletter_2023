@@ -3,16 +3,15 @@
 ## Pedal for sidhu moosewala
 
 ###### |🕒 Published on June 6,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
- <div>
- <imgsrc="IMG1.jpg">
- </div>
 
+<p style="text-align:cente;">
+    
 ![HSR](Images/IMG1.jpg)
+    
+</p>
+
+
+
 
 <p align=justify>
 Pedal for Sidhu Moosewala – CML GNDEC 03-06-22, Ludhiana | On the occasion of World Bicycle Day and to pay tribute to its alumnus, Shubhdeep Singh Sidhu(Sidhu Moosewala), students of Guru Nanak Dev Engineering College organised a Silent Cycling March, “Pedal for Sidhu Moosewala”. Around 100 cyclists took park in the rally and completed the 15 km ride.Shubhdeep Singh (Sidhu Moosewala) was an alumnus of 2016 batch of Electrical Engineering from Guru Nanak Dev Engineering College, Ludhiana. Students pedalled their way through the route and chanted, “Live Forever, Sidhu(“Sidhu Moosewala Amar Rahe”). The whole event was to mark the never giving up and never stopping attitude of the departed Punjabi Singer and College alumnus. The cyclist including students and other active cyclists from Ludhiana showed intense sorrow for the departed soul and pledged to be as enthusiastic as he was to make Sidhu Moosewala always alive in all. 
