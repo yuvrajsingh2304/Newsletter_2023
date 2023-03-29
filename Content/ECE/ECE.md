@@ -43,7 +43,7 @@ Dr. Narwant Singh Grewal
 -----------------------------------------
 **<div align="center">ECE Student developed website for esteemed Engineering Institute in Maharashtra</div>**
 
-**Mohammad Yasir(URN:2104400)** worked on paid project that is development of college’s official website(dynamic) and Alumni portal of Shri Sant Gajanan Maharaj College of Engineering, Shegaon, Buldhana District, Maharashtra.
+<div align = "justify">**Mohammad Yasir(URN:2104400)** worked on paid project that is development of college’s official website(dynamic) and Alumni portal of Shri Sant Gajanan Maharaj College of Engineering, Shegaon, Buldhana District, Maharashtra.</div>
 
 College Website link: https://ssgmce.ac.in/
 
@@ -53,7 +53,7 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 
 -----------------------------------------
 **<div align="center">ECE Students during GNEAPEX on 8, Apr, 2022</div>**
--Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
+<div align = "justify">-Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
 
 -Team Members:
 -Ali Ahmad Ansari
@@ -61,7 +61,7 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 -Anant Vijay
 -Rahul Kumar
 -Gurnoor Singh
--Guransh Singh
+-Guransh Singh</div>
 
 ![Students](Images/ABC.jpg)
 
@@ -72,111 +72,112 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 
 ## Faculty Achievements  
 
-- **Preeti Pannu** earned Elite and Topper certificate for NPTEL 4 week Course on Stress Management from July-Dec, 2022.
+- <div align = "justify">**Preeti Pannu** earned Elite and Topper certificate for NPTEL 4 week Course on Stress Management from July-Dec, 2022.</div>
 
-- **Preeti Pannu** recognised as mentor for the NPTEL online certification course "Stress Management"(July 2022- Dec 2022).
+- <div align = "justify">**Preeti Pannu** recognised as mentor for the NPTEL online certification course "Stress Management"(July 2022- Dec 2022).</div>
 
-- **Harminder Kaur D/o S. Avtar Singh** recognised as mentor for the NPTEL online certification course(July 2022- Dec 2022).
+- <div align = "justify">**Harminder Kaur D/o S. Avtar Singh** recognised as mentor for the NPTEL online certification course(July 2022- Dec 2022).</div>
 
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Joint Conference on Advances in Computational Intelligence(IJCACI 2022) organised by SCRIL, South Asian University, New Delhi, India and Jahangir nagar University, Bangladesh on 15-16 October, 2022.
+- <div align = "justify">**Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Joint Conference on Advances in Computational Intelligence(IJCACI 2022) organised by SCRIL, South Asian University, New Delhi, India and Jahangir nagar University, Bangladesh on 15-16 October, 2022.</div>
 
-- **Gurjot Kaur Walia** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.
+- <div align = "justify">**Gurjot Kaur Walia** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.</div>
 
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Conference on Computational Intelligence(ICCI 2022) organised by Indian Institute of Information Technology, Pune on 29-30 December, 2022.
+- <div align = "justify">**Gurjot Kaur Walia** was Program Committee Member and Reviewer of International Conference on Computational Intelligence(ICCI 2022) organised by Indian Institute of Information Technology, Pune on 29-30 December, 2022.</div>
 
-- **Gurjot Kaur Walia** was Program Committee Member and Reviewer in IEEE World Conference on Applied Intelligence and Computing(AIC 2022) held from 17-19, June 2022.
+- <div align = "justify">**Gurjot Kaur Walia** was Program Committee Member and Reviewer in IEEE World Conference on Applied Intelligence and Computing(AIC 2022) held from 17-19, June 2022.</div>
 
-- **Gurjot Kaur Walia, Chahat Jain, Navneet Kaur** won the Best Oral Presentation Award in AICTE Sponsored International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities, organised by Shri Vishnu Engineering College for Women, Bhimavaram, Andhra Pradesh from 29-31 March, 2022.
+- <div align = "justify">**Gurjot Kaur Walia, Chahat Jain, Navneet Kaur** won the Best Oral Presentation Award in AICTE Sponsored International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities, organised by Shri Vishnu Engineering College for Women, Bhimavaram, Andhra Pradesh from 29-31 March, 2022.</div>
 "
-- **Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.
+- <div align = "justify">**Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.</div>
 
-- **Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
+- <div align = "justify">**Gurjot Kaur Walia** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.</div>
 
-- **Navneet Kaur** was Reviewer of 3rd International Conference on Computing, Analytics and Networks (ICAN2022) organised by Chitkara University with technical sponsorship from IEEE during 18-19, November 2022.
+- <div align = "justify">**Navneet Kaur** was Reviewer of 3rd International Conference on Computing, Analytics and Networks (ICAN2022) organised by Chitkara University with technical sponsorship from IEEE during 18-19, November 2022.
+</div>
 
-- **Navneet Kaur** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.
+- <div align = "justify">**Navneet Kaur** was Reviewer of International Conference on Innovations in Communication Computing and Sciences(ICCS 2022) organised by CEC, Landran on 15-16 September, 2022.</div>
 
-- **Navneet Kaur** was Reviewer of Journal of Optical Communications.
+- <div align = "justify">**Navneet Kaur** was Reviewer of Journal of Optical Communications.</div>
 
-- **Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
+- <div align = "justify">**Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.</div>
 
-- **Navneet Kaur** was presented with Top Performing Mentor certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.
+- <div align = "justify">**Navneet Kaur** was presented with Top Performing Mentor certificate for NPTEL 4 week Course on Effective Writing from Jan-May, 2022.</div>
 
-- **Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022
+- <div align = "justify">**Navneet Kaur** earned Elite and Topper certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022</div>
 
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 4 week Course on Effective Writing from Jan-Feb, 2022.
+- <div align = "justify">**Gurpurneet Kaur** earned Elite certificate for NPTEL 4 week Course on Effective Writing from Jan-Feb, 2022.</div>
 
-- **Gurpurneet Kaur** earned Elite and silver certificate for NPTEL 8 week Course on Introduction to Soft Computing from Jan-March, 2022.
+- <div align = "justify">**Gurpurneet Kaur** earned Elite and silver certificate for NPTEL 8 week Course on Introduction to Soft Computing from Jan-March, 2022.</div>
 
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 12 week Course on Digital Circuits from July-October, 2022.
+- <div align = "justify">**Gurpurneet Kaur** earned Elite certificate for NPTEL 12 week Course on Digital Circuits from July-October, 2022.</div>
 
-- **Gurpurneet Kaur** earned Elite certificate for NPTEL 8 week Course on System Design Through VERILOG from July-September, 2022.
+- <div align = "justify">**Gurpurneet Kaur** earned Elite certificate for NPTEL 8 week Course on System Design Through VERILOG from July-September, 2022.</div>
 
-- **Shivmanmeet Singh** was reviewer of SCIE journal named “frontiers in public health” for paper entitled "The landscape of Photoaging”.
+- <div align = "justify">**Shivmanmeet Singh** was reviewer of SCIE journal named “frontiers in public health” for paper entitled "The landscape of Photoaging”.</div>
 
-- **Shivmanmeet Singh** received a certificate of appreciation from AICTE for validating the lectures of following SWAYAM course chemical Reaction Engineering-I in the Punjabi language.
+- <div align = "justify">**Shivmanmeet Singh** received a certificate of appreciation from AICTE for validating the lectures of following SWAYAM course chemical Reaction Engineering-I in the Punjabi language.</div>
 
-- **Shivmanmeet Singh** was reviewer of Scopous (Elsevier) journal named “International Journal of Electrical and Computer Engineering Systems” for paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems”.
+- <div align = "justify">**Shivmanmeet Singh** was reviewer of Scopous (Elsevier) journal named “International Journal of Electrical and Computer Engineering Systems” for paper entitled "Performance Optimization of Universal Filtered Multicarrier Technique for Next Generation Communication Systems”.</div>
 
-- **Simranjit Kaur** organised a one day IP awareness program in collaboration with NIPAM, Govt. of India in GNDEC Ludhiana on 15, March 2022.
+- <div align = "justify">**Simranjit Kaur** organised a one day IP awareness program in collaboration with NIPAM, Govt. of India in GNDEC Ludhiana on 15, March 2022.</div>
 
-- **Simranjit Kaur** presented a research paper in the IEEE international conference, MAPCON 2022 (IEEE-MTT/AP) held in Bangalore, India from 13-15, Dec 2022.
+- <div align = "justify">**Simranjit Kaur** presented a research paper in the IEEE international conference, MAPCON 2022 (IEEE-MTT/AP) held in Bangalore, India from 13-15, Dec 2022.</div>
 
-- **Chahat Jain** earned Elite certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.
+- <div align = "justify">**Chahat Jain** earned Elite certificate for NPTEL 4 week Course on Leadership from Jan-May, 2022.</div>
 
-- **Chahat Jain** was Reviewer of Journal of Experimental and theoretical artifical intelilgence.
+- <div align = "justify">**Chahat Jain** was Reviewer of Journal of Experimental and theoretical artifical intelilgence.</div>
 
 
 ## Publications  
 
-- 𝐉𝐚𝐬𝐩𝐫𝐞𝐞𝐭 𝐊𝐚𝐮𝐫, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥, 𝐍𝐚𝐯𝐧𝐞𝐞𝐭 𝐊𝐚𝐮r**, "A Review On Antenna Array Failure Correction Using Optimization Techniques"" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975)".
+-<div align = "justify"> 𝐉𝐚𝐬𝐩𝐫𝐞𝐞𝐭 𝐊𝐚𝐮𝐫, **𝐍𝐚𝐫𝐰𝐚𝐧𝐭 𝐒.𝐆𝐫𝐞𝐰𝐚𝐥, 𝐍𝐚𝐯𝐧𝐞𝐞𝐭 𝐊𝐚𝐮r**, "A Review On Antenna Array Failure Correction Using Optimization Techniques"" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975)".</div>
 
-- Munaza Yousf, **Narwant Singh Grewal, Gurpurneet Kaur**, """Impact Of Work Function And Temperature Variation On Schottky-Barrier Hetero-Dielectric Gate All Around Nanowire Field Effect Transistor"" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975)".
+- <div align = "justify">Munaza Yousf, **Narwant Singh Grewal, Gurpurneet Kaur**, """Impact Of Work Function And Temperature Variation On Schottky-Barrier Hetero-Dielectric Gate All Around Nanowire Field Effect Transistor"" Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975)".</div>
 
-- **Navneet Kaur, Munish Rattan, Gurpurneet Kaur, Gurjot Kaur Walia**, """Marine Predators Algorithm for Performance Optimization of Nanoscale FinFET"", Materials Today Proceedings. DOI: https://doi.org/10.1016/j.matpr.2022.06.404".
+- <div align = "justify">**Navneet Kaur, Munish Rattan, Gurpurneet Kaur, Gurjot Kaur Walia**, """Marine Predators Algorithm for Performance Optimization of Nanoscale FinFET"", Materials Today Proceedings. DOI: https://doi.org/10.1016/j.matpr.2022.06.404".</div>
 
-- **Gurjot Kaur Walia**, "Estimation of optimized window size for hybridized kNN-Random Forest algorithm based Image Demosaicing", Materials Today Proceedings. DOI:https://doi.org/10.1016/j.matpr.2022.07.017".
+- <div align = "justify">**Gurjot Kaur Walia**, "Estimation of optimized window size for hybridized kNN-Random Forest algorithm based Image Demosaicing", Materials Today Proceedings. DOI:https://doi.org/10.1016/j.matpr.2022.07.017".</div>
 
-- **Gurjot Kaur Walia**, "Hybridised KNN-Random Forest Algorithm: Image Demosaicing with Reduced Artifacts"", National Academy Science Letters, DOI: https://doi.org/10.1007/s40009-022-01165-z".
+- <div align = "justify">**Gurjot Kaur Walia**, "Hybridised KNN-Random Forest Algorithm: Image Demosaicing with Reduced Artifacts"", National Academy Science Letters, DOI: https://doi.org/10.1007/s40009-022-01165-z".</div>
 
-- **Baljeet Kaur, Gurjot Kaur Walia**, "Performance Evaluation of PDM-256_QAM Inter-satellite Optical Wireless System(IsOWC) using DSP and Different Wavelength Windows"", journal of optical Communication, DOI:https://doi.org/10.1515/joc-2022-0119"
+- <div align = "justify">**Baljeet Kaur, Gurjot Kaur Walia**, "Performance Evaluation of PDM-256_QAM Inter-satellite Optical Wireless System(IsOWC) using DSP and Different Wavelength Windows"", journal of optical Communication, DOI:https://doi.org/10.1515/joc-2022-0119</div>
 
-- **Navneet Kaur**, "Performance Evaluation of Junctionless FinFET using Spacer Engineering at 15 nm Gate Length, Silicon, March 2022, Volume 14, 10989–11000 https://doi.org/10.1007/s12633-022-01820-6".
+- <div align = "justify">**Navneet Kaur**, "Performance Evaluation of Junctionless FinFET using Spacer Engineering at 15 nm Gate Length, Silicon, March 2022, Volume 14, 10989–11000 https://doi.org/10.1007/s12633-022-01820-6".</div>
 
-- **Navneet Kaur**, "Comparison of Electrical Characteristics of Si Homojunction and SiGe Heterojunction 14 nm SOI FinFET, Journal of The Institution of Engineers (India): Series B, August 2022, Volume 103, Issue 4, p.1061-1067".
+- <div align = "justify">**Navneet Kaur**, "Comparison of Electrical Characteristics of Si Homojunction and SiGe Heterojunction 14 nm SOI FinFET, Journal of The Institution of Engineers (India): Series B, August 2022, Volume 103, Issue 4, p.1061-1067".</div>
 
-- **Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "DEVELOPMENT AND ANALYSIS OF HIGH-SPEED SINGLE-CHANNEL ISOWC TRANSMISSION LINK USING A SPECTRALLY EFFICIENT HIGHER-ORDER MODULATION FORMAT (ISSN: 2229-6948(ONLINE) ICTACT JOURNAL ON COMMUNICATION TECHNOLOGY, DECEMBER 2022, VOLUME: 13, ISSUE: 04).
+- <div align = "justify">**Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "DEVELOPMENT AND ANALYSIS OF HIGH-SPEED SINGLE-CHANNEL ISOWC TRANSMISSION LINK USING A SPECTRALLY EFFICIENT HIGHER-ORDER MODULATION FORMAT (ISSN: 2229-6948(ONLINE) ICTACT JOURNAL ON COMMUNICATION TECHNOLOGY, DECEMBER 2022, VOLUME: 13, ISSUE: 04).</div>
 
-- **Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding (Optical and Quantum Electronics (2023) 55:70 https://doi.org/10.1007/s11082-022-04287-2)".
+- <div align = "justify">**Shivmanmeet Singh, Dr. Narwant Singh Grewal and Dr. Baljeet Kaur**, "Performance investigation and development of 112 gbit/s dual polarization 16 QAM transmission system using differential encoding (Optical and Quantum Electronics (2023) 55:70 https://doi.org/10.1007/s11082-022-04287-2)".</div>
 
-- Rajiv Khanna, **Dr. Narwant Singh Grewal, Harminder Kaur**, A Tree Seed Tuned Partial Transmit Sequence Approach For Improving Peak To Average Power Ratio In Universal Filter Multi Carrier For 5G Communication Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975).
+- <div align = "justify">Rajiv Khanna, **Dr. Narwant Singh Grewal, Harminder Kaur**, A Tree Seed Tuned Partial Transmit Sequence Approach For Improving Peak To Average Power Ratio In Universal Filter Multi Carrier For 5G Communication Journal of Emerging Technologies and Innovative Research (JETIR)(UGC approved: 63975).</div>
 
-- Neha  Sharma, **Baljeet  Kaur, and Narwant Singh Grewal**, "Performance enhancement of 8 channel SCM–WDM based RoF link using different type of transmission fibers along with different type of channel spacing "" Journal of Optical Communications, (De Gruyter)
- ISSN 2191-6322".
+- <div align = "justify">Neha  Sharma, **Baljeet  Kaur, and Narwant Singh Grewal**, "Performance enhancement of 8 channel SCM–WDM based RoF link using different type of transmission fibers along with different type of channel spacing "" Journal of Optical Communications, (De Gruyter)
+ ISSN 2191-6322".</div>
 
-- Harleen Kaur, **Narwant Singh Grewal**, " Ultra high-speed VLC system using polarization division multiplexed QPSK, DSP, and matched filters. " Optical and Quantum Electronics (Springer)  SCIE  ISSN 1572-817X.
+- <div align = "justify">Harleen Kaur, **Narwant Singh Grewal**, " Ultra high-speed VLC system using polarization division multiplexed QPSK, DSP, and matched filters. " Optical and Quantum Electronics (Springer)  SCIE  ISSN 1572-817X.</div>
 
-- **Gurjot Kaur Walia, Harminder Kaur**,"A multichannel Hermite Gaussian (HG) intensity profiles based inter-satellite optical wireless communication(IsOWC) using transmitter diversity",Optical and Quantum Electronics. DOI:10.1007/s11082-022-04383-3.
+- <div align = "justify">**Gurjot Kaur Walia, Harminder Kaur**,"A multichannel Hermite Gaussian (HG) intensity profiles based inter-satellite optical wireless communication(IsOWC) using transmitter diversity",Optical and Quantum Electronics. DOI:10.1007/s11082-022-04383-3.</div>
 
-- **Gurjot Kaur Walia**, "Adaptive Image Demosaicing Algorithm Based on K-Nearest Neighbor for Improved Visual Quality"", Samriddhi, DOI: https://doi.org/10.18090/samriddhi.v14i02.17"
+- <div align = "justify">**Gurjot Kaur Walia**, "Adaptive Image Demosaicing Algorithm Based on K-Nearest Neighbor for Improved Visual Quality"", Samriddhi, DOI: https://doi.org/10.18090/samriddhi.v14i02.17"</div>
 
-- **Harminder Kaur, Gurjot Kaur Walia**,"Impact of various multiplexing, modulation and coding techniques on ISOWC system: A Review",International conference on Tech trends in science and engineering (ICTTSE 2022), Suryodaya College of Engineering and Technology, Nagpur, 25-26 Feb,2022.
+- <div align = "justify">**Harminder Kaur, Gurjot Kaur Walia**,"Impact of various multiplexing, modulation and coding techniques on ISOWC system: A Review",International conference on Tech trends in science and engineering (ICTTSE 2022), Suryodaya College of Engineering and Technology, Nagpur, 25-26 Feb,2022.</div>
 
-- **Baljeet Kaur, Gurjot Kaur Walia**, "Performance and Distance Enhancement of 160GBps ISOWC System using Polarization Division Multiplexed 256-QAM", in 4th International Conference on Recent Innovations in Science and Technology(RIST 2022).
+- <div align = "justify">**Baljeet Kaur, Gurjot Kaur Walia**, "Performance and Distance Enhancement of 160GBps ISOWC System using Polarization Division Multiplexed 256-QAM", in 4th International Conference on Recent Innovations in Science and Technology(RIST 2022).</div>
 
-- **Gurjot Kaur Walia, Chahat Jain, Navneet Kaur**, "Pseudo User Interference for Security Enhancement in Co-existing asynchronous GPON/XG-PON System", in International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities.
+- <div align = "justify">**Gurjot Kaur Walia, Chahat Jain, Navneet Kaur**, "Pseudo User Interference for Security Enhancement in Co-existing asynchronous GPON/XG-PON System", in International Conference on Role of Artificial Intelligence and Sustainable Engineering in Driving Smart Cities.</div>
 
-- **Simranjit Kaur, Balwinder Singh Dhaliwal** and Sachin Maitthani,"A Compact Flexible Crown Rectangular Fractal Antenna on Low-Cost PET Substrate", in  2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON),  IEEE explore , doi: 10.1109/MAPCON56011.2022.10047139".
+- <div align = "justify">**Simranjit Kaur, Balwinder Singh Dhaliwal** and Sachin Maitthani,"A Compact Flexible Crown Rectangular Fractal Antenna on Low-Cost PET Substrate", in  2022 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON),  IEEE explore , doi: 10.1109/MAPCON56011.2022.10047139".</div>
 
-- Neeraj Kumar, **Ameeta Seehra and Simranjit Kaur**, "Multiple carrier optical frequencycomb generation based on cascading of three different types of modulator in an optical network " in ICRTEM 2022, 2nd international conference on research trends in engineering and management, Aug 2022, ISBN: 978-93-92105-01-2".
+- <div align = "justify">Neeraj Kumar, **Ameeta Seehra and Simranjit Kaur**, "Multiple carrier optical frequencycomb generation based on cascading of three different types of modulator in an optical network " in ICRTEM 2022, 2nd international conference on research trends in engineering and management, Aug 2022, ISBN: 978-93-92105-01-2".</div>
 
-- **Chahat Jain, Balwinder S. Dhaliwal** and Rupinder Singh, "On 3D-Printed Acrylonitrile Butadiene Styrene-Based Sensors: Rheological, Mechanical, Morphological, Radio Frequency, and 4D Capabilities" in Journal of Materials Engineering and Performance,2022,https://doi.org/10.1007/s11665-022-06884-4".
+- <div align = "justify">**Chahat Jain, Balwinder S. Dhaliwal** and Rupinder Singh, "On 3D-Printed Acrylonitrile Butadiene Styrene-Based Sensors: Rheological, Mechanical, Morphological, Radio Frequency, and 4D Capabilities" in Journal of Materials Engineering and Performance,2022,https://doi.org/10.1007/s11665-022-06884-4".</div>
 
-- **Chahat Jain,Balwinder S. Dhaliwal**, Rupinder Singh and Vinay Kumar, "Investigations on 3D printed primary recycled ABS for one-way programming"in Advances in Materials and Processing Technologies,2022, https://doi.org/10.1080/2374068X.2022.2109641".
+- <div align = "justify">**Chahat Jain,Balwinder S. Dhaliwal**, Rupinder Singh and Vinay Kumar, "Investigations on 3D printed primary recycled ABS for one-way programming"in Advances in Materials and Processing Technologies,2022, https://doi.org/10.1080/2374068X.2022.2109641".</div>
 
-- **Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Flexible and Wearable Patch Antennas Using Additive Manufacturing: A Framework" in Encyclopaedia of materials : plastics & polymers,2022,https://doi.org/10.1016/B978-0-12-820352-1.00093-6
+- <div align = "justify">**Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Flexible and Wearable Patch Antennas Using Additive Manufacturing: A Framework" in Encyclopaedia of materials : plastics & polymers,2022,https://doi.org/10.1016/B978-0-12-820352-1.00093-6</div>
 
-- **Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Development of Rectangular Patch Antenna on Primary Recycled ABS Substrate Using Additive Manufacturing for Wireless Communication Applications" in Encyclopaedia of materials : plastics & polymers,2022. https://doi.org/10.1016/B978-0-12-820352-1.00229-7.
+- <div align = "justify">**Chahat Jain,Balwinder S. Dhaliwal** and Rupinder Singh, "Development of Rectangular Patch Antenna on Primary Recycled ABS Substrate Using Additive Manufacturing for Wireless Communication Applications" in Encyclopaedia of materials : plastics & polymers,2022. https://doi.org/10.1016/B978-0-12-820352-1.00229-7.</div>
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
@@ -246,17 +247,17 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 ![Students](Images/g2.jpeg)
 ![Students](Images/n2.jpg)
 
-- **Harsimranjit Singh Gill**,	Information Security, Organized by ECE Dept., GNDP, Ludhiana, 05-01-2022.
+- <div align="justify"> **Harsimranjit Singh Gill**,	Information Security, Organized by ECE Dept., GNDP, Ludhiana, 05-01-2022.</div>
 
-- **Harsimranjit Singh Gill**,	Digital Security, Organized by IEEE GBPIET, Pauri, Uttarakhand, 25-05-2022.
+- <div align="justify"> **Harsimranjit Singh Gill**,	Digital Security, Organized by IEEE GBPIET, Pauri, Uttarakhand, 25-05-2022.</div>
 
-- **Shivmanmeet Singh**,	Adobe Photoshop: A tool for professional digital art, especially in raster graphics editing, organzied by CML on 08-02-2022.  
+- <div align="justify"> **Shivmanmeet Singh**,	Adobe Photoshop: A tool for professional digital art, especially in raster graphics editing, organzied by CML on 08-02-2022.</div>  
 
-- **Gurjot Kaur Walia**, VLSI Technology, organized by ECE Dept., GNDP, Ludhiana, 02-03-2022.
+- <div align="justify"> **Gurjot Kaur Walia**, VLSI Technology, organized by ECE Dept., GNDP, Ludhiana, 02-03-2022.</div>
 
-- **Gurjot Kaur Walia**, Image Processing and its Apllications in Agriculture, Organized by PAU, Ludhiana, 25-03-2022.
+- <div align="justify"> **Gurjot Kaur Walia**, Image Processing and its Apllications in Agriculture, Organized by PAU, Ludhiana, 25-03-2022.</div>
 
-- **Navneet Kaur**, MATLAB: A Tool for Data Analysis, Graphics & Optimization, organized by PAU Ludhiana  on 28-03-2022.
+- <div align="justify"> **Navneet Kaur**, MATLAB: A Tool for Data Analysis, Graphics & Optimization, organized by PAU Ludhiana  on 28-03-2022.</div>
 
 
 ## Student's Corner  
@@ -269,60 +270,60 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 ![Students](Images/s.jpeg)
 ![Students](Images/n.jpeg)
 
-**Jagjot Singh(URN:2104387)** got 3rd prize in Causmic Club Quiz Event "Fast and Curious" held under Applied Science Department Society on 08-12-2022
+<div align="justify"> **Jagjot Singh(URN:2104387)** got 3rd prize in Causmic Club Quiz Event "Fast and Curious" held under Applied Science Department Society on 08-12-2022</div>
 
-**Jaspal Singh(URN:2104391)** attended North India Inter-University Cricket Camp from 17-12-2022 to 22-12-2022.  
+<div align="justify"> **Jaspal Singh(URN:2104391)** attended North India Inter-University Cricket Camp from 17-12-2022 to 22-12-2022</div>
 
-**Riya Saluja(2104418)** Got silver in inter college handball (sangrur), second in heritage annual function and awarded in theater one act play annual function.
+<div align="justify"> **Riya Saluja(2104418)** Got silver in inter college handball (sangrur), second in heritage annual function and awarded in theater one act play annual function.</div>
 
-**Sonu Kumar(URN:2004860)**, selected in Inter-University Kabbadi team by Punjab Technical University on 01-12-2022.
+<div align="justify"> **Sonu Kumar(URN:2004860)**, selected in Inter-University Kabbadi team by Punjab Technical University on 01-12-2022.</div>
 
-**Pranav Ranjan(URN:2004841)**, was runner up in Inter-year cricket organized by GNDEC on 05-11-2022.
+<div align="justify"> **Pranav Ranjan(URN:2004841)**, was runner up in Inter-year cricket organized by GNDEC on 05-11-2022.</div>
 
 ----------------------------------------
 ![Students](Images/PP3.jpg)
 
-**Anchal verma(URN 2103949)**, participated in intercollege competition at Khalsa College of Engineering & Technology Amritsar. She got 2nd position in pot making competition on 12-05-2022.
+<div align="justify"> **Anchal verma(URN 2103949)**, participated in intercollege competition at Khalsa College of Engineering & Technology Amritsar. She got 2nd position in pot making competition on 12-05-2022.</div>
 
 ----------------------------------------
 ![Students](Images/anm.jpeg)
 
 ![Students](Images/anm1.jpeg)
 
-**Anmol Kumar Srivastav(URN:2134680)** assigned the event GNE APEX (2022) organized by GNDEC ON 08-04-2022.
+**Anmol Kumar Srivastav(URN:2134680)** assigned the event GNE APEX (2022) organized by GNDEC ON 08-04-2022.</div>
 
 -----------------------------------------
 ![Students](Images/am.jpg)
 
-**Adarsh Mishra(URN:2103943)** was Finalist in “Privatiza”, Cognizance 2022 at IIT Roorkee held a case study competition from 24th to 28-03-2022.
+<div align="justify"> **Adarsh Mishra(URN:2103943)** was Finalist in “Privatiza”, Cognizance 2022 at IIT Roorkee held a case study competition from 24th to 28-03-2022.</div>
 
--Selected as Virtual Lab Developer at IIT Roorkee in June 2022 (Created 3 working experiments at Lab).
+-<div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022 (Created 3 working experiments at Lab).</div>
 
--Organized an event “Science in our Daily life” at GNDEC on 30-01-2022.
+-<div align="justify"> Organized an event “Science in our Daily life” at GNDEC on 30-01-2022.</div>
 
--Freelance Intern at PhysicsWallah from April to May 2022.
+-<div align="justify"> Freelance Intern at PhysicsWallah from April to May 2022.</div>
 
 -----------------------------------------
 
 ![Students](Images/av.jpg)
 
-**Anant Vijay(URN:2103948)** was GK Quiz Head Organizer at GNE APEX 2022. Organized an inter school event at GNDEC Ludhiana on 08-042022.
+<div align="justify"> **Anant Vijay(URN:2103948)** was GK Quiz Head Organizer at GNE APEX 2022. Organized an inter school event at GNDEC Ludhiana on 08-042022.</div>
 
--Selected as Virtual Lab Developer at IIT Roorkee in June 2022.
+<div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022.</div>
 
--Organized an event “Science in our Daily life” on 30-01-2022.
+<div align="justify"> Organized an event “Science in our Daily life” on 30-01-2022.</div>
 
--Selected for MERA SWARAJ EDUCATION PROGRAM. A scholarship program run by MAHINDRA and MAHINDRA Swaraj division through “Manav Vikas Sansthan” in March, 2022.
+<div align="justify"> -Selected for MERA SWARAJ EDUCATION PROGRAM. A scholarship program run by MAHINDRA and MAHINDRA Swaraj division through “Manav Vikas Sansthan” in March, 2022.</div>
 
 -----------------------------------------
 
 ![Students](Images/w.jpeg)
 
-**Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited
+<div align="justify"> **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited
 more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
 i)Water Footprint Calculator
 ii)Wetlands in India
-iii)Traditional Water Management Practice.
+iii)Traditional Water Management Practice.</div>
 
 -----------------------------------------
 
@@ -339,7 +340,7 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF).
 
 ![Web development workshop](Images/b.jpg)
 
-<div align="jutify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session on 5, Feb, 2022 to give students detailed information about electronics circuits in a more practical way. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by speaker Gursidak Singh.
+<div align="jutify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session on 5, Feb, 2022 to give students detailed information about electronics circuits in a more practical way. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by speaker Gursidak Singh.</div>
 
 -----------------------------------------
 ### <div align="center">Tricky Circuits</div>
@@ -348,21 +349,22 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF).
 ![Tricky Circuits](iMAGES/d.jpg)
 
 ![Tricky Circuits](iMAGES/e.jpg)
-<div align="justify">IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.
+<div align="justify">IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.</div>
 
 -----------------------------------------
 ### <div align="center">One Day Workshop on Database automation</div>
 ![Database automation Workshop](Images/tt.jpeg)
 
 ![Database automation Workshop](Images/a.jpg)
-<div align="justify"> IETE Students’Forum(ISF),Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session to give students detailed information about database automation in a more practical way on 12, Oct, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), GuruNanak Dev Engineering College is thriven to deliver useful detailed information on various on going automation projects.
+<div align="justify"> IETE Students’Forum(ISF),Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session to give students detailed information about database automation in a more practical way on 12, Oct, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), GuruNanak Dev Engineering College is thriven to deliver useful detailed information on various on going automation projects.</div>
 
 -----------------------------------------
 ### <div align="center">Advisor Session (Team building and Motivation)</div>
 ![Advisor Session (Team building and Motivation)](Images/gg.jpeg)
 
 ![Advisor Session (Team building and Motivation)](Images/f.jpg)
-<div align="justify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by team of our ISF society.
+<div align="justify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by team of our ISF society.</div>
+
 
 
 **Editor: Dr. Preeti Pannu**
