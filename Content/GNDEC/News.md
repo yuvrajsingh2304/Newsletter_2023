@@ -4,14 +4,8 @@
 
 ###### |🕒 Published on June 6,2022
 
-<p style="text-align:cente;">
-    
+
 ![HSR](Images/IMG1.jpg)
-    
-</p>
-
-
-
 
 <p align=justify>
 Pedal for Sidhu Moosewala – CML GNDEC 03-06-22, Ludhiana | On the occasion of World Bicycle Day and to pay tribute to its alumnus, Shubhdeep Singh Sidhu(Sidhu Moosewala), students of Guru Nanak Dev Engineering College organised a Silent Cycling March, “Pedal for Sidhu Moosewala”. Around 100 cyclists took park in the rally and completed the 15 km ride.Shubhdeep Singh (Sidhu Moosewala) was an alumnus of 2016 batch of Electrical Engineering from Guru Nanak Dev Engineering College, Ludhiana. Students pedalled their way through the route and chanted, “Live Forever, Sidhu(“Sidhu Moosewala Amar Rahe”). The whole event was to mark the never giving up and never stopping attitude of the departed Punjabi Singer and College alumnus. The cyclist including students and other active cyclists from Ludhiana showed intense sorrow for the departed soul and pledged to be as enthusiastic as he was to make Sidhu Moosewala always alive in all. 
@@ -23,15 +17,7 @@ The initiative was taken by Center for Multifaceted, GNDEC which is a student ru
 ## E Cell of GNDEC organizes startup session
 
 ###### |🕒 Published on January 5,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-<imgsrc="IMG2.jpg">
-</div>
 
 ![HSR](Images/IMG2.jpg)
 
@@ -45,15 +31,6 @@ E Cell of GNDEC organizes startup session
 ## IGBC Student Chapter started at GNDEC School of Architecture
 
 ###### |🕒 Published on June 23,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
-
-<div>
-  <imgsrc="IMG3.jpg">
-</div>
 
 ![HSR](Images/IMG3.jpg)
 
@@ -66,15 +43,9 @@ Indian Green Building Council (IGBC) launched its student chapter at GNDEC Schoo
 ## SGPC President honors GNDEC students 
 
 ###### |🕒 Published on July 27,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-  <imgsrc="IMG4.jpg">
-</div>
+
+
 
 ![HSR](Images/IMG4.jpg)
 
@@ -92,15 +63,7 @@ Today during a meeting held in GNDEC, S. Harjinder Singh Dhami, President SGPC a
 ## Induction Programme "GENCO RAW 2022" starts at GNDEC
 
 ###### |🕒 Published on September 21,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
-
-<div>
-<imgsrc="IMG5.jpg">
-</div>
+<
 
 ![HSR](Images/IMG5.jpg)
 
@@ -117,15 +80,9 @@ Air Marshal (Retd.), Rajkiran Singh Shera, the Chief Guest who is 1980 batch alu
 ## GNDEC organizes 'Blood Donation Camp' in Campus
 
 ###### |🕒 Published on October 12,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-<imgsrc="IMG6.jpg">
-</div>
+
+
 
 ![HSR](Images/IMG6.jpg)
 
@@ -140,15 +97,7 @@ Lot of efforts for making this camp a success were put in by Sachpreet Singh, Pr
 ## Golden Jubilee Alumni Meet's organized at GNDEC
 
 ###### |🕒 Published on November 13,2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-<imgsrc="IMG7.jpg">
-</div>
 
 ![HSR](Images/IMG7.jpg)
 
@@ -165,15 +114,8 @@ The alumni shared their work experience and wisdom related to job and carrier op
 ## ਸਾਹਿਬਜ਼ਾਦਿਆਂ ਦੀ ਸ਼ਹੀਦੀ ਨੂੰ ਸਮਰਪਿਤ ਚੇਤਨਾ ਮਾਰਚ
 
 ###### |🕒 Published on December 25, 2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-<imgsrc="IMG8.jpg">
-</div>
+
 
 ![HSR](Images/IMG8.jpg)
 
@@ -189,15 +131,8 @@ The alumni shared their work experience and wisdom related to job and carrier op
 ## ਸ਼੍ਰੋਮਣੀ ਗੁਰੂਦੁਆਰਾ ਪ੍ਰਬੰਧਕ ਕਮੇਟੀ ਵੱਲੋਂ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਇੰਜ. ਕਾਲਜ ਵਿਖੇ ' ਗੁਰੂ ਕਾ ਬਾਗ ' ਅਤੇ ਸ਼ਹੀਦੀ ਸਾਕਾ ਸ੍ਰੀ ਪੰਜਾ ਸਾਹਿਬ ਨੂੰ ਸਮਰਪਿਤ ਸੈਮੀਨਾਰ ਕਰਵਾਇਆ ਗਿਆ
 
 ###### |🕒 Published on September 29, 2022
-<style>
-    div{
-        text-align:center;
-    }
-</style>
 
-<div>
-<imgsrc="IMG9.jpg">
-</div>
+
 
 ![HSR](Images/IMG9.jpg)
 
