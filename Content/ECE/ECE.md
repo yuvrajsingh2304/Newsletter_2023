@@ -270,56 +270,56 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 ![Students](Images/s.jpeg)
 ![Students](Images/n.jpeg)
 
-<div align="justify"> **Jagjot Singh(URN:2104387)** got 3rd prize in Causmic Club Quiz Event "Fast and Curious" held under Applied Science Department Society on 08-12-2022</div>
+- <div align="justify"> **Jagjot Singh(URN:2104387)** got 3rd prize in Causmic Club Quiz Event "Fast and Curious" held under Applied Science Department Society on 08-12-2022</div>
 
-<div align="justify"> **Jaspal Singh(URN:2104391)** attended North India Inter-University Cricket Camp from 17-12-2022 to 22-12-2022</div>
+- <div align="justify"> **Jaspal Singh(URN:2104391)** attended North India Inter-University Cricket Camp from 17-12-2022 to 22-12-2022</div>
 
-<div align="justify"> **Riya Saluja(2104418)** Got silver in inter college handball (sangrur), second in heritage annual function and awarded in theater one act play annual function.</div>
+- <div align="justify"> **Riya Saluja(2104418)** Got silver in inter college handball (sangrur), second in heritage annual function and awarded in theater one act play annual function.</div>
 
-<div align="justify"> **Sonu Kumar(URN:2004860)**, selected in Inter-University Kabbadi team by Punjab Technical University on 01-12-2022.</div>
+- <div align="justify"> **Sonu Kumar(URN:2004860)**, selected in Inter-University Kabbadi team by Punjab Technical University on 01-12-2022.</div>
 
-<div align="justify"> **Pranav Ranjan(URN:2004841)**, was runner up in Inter-year cricket organized by GNDEC on 05-11-2022.</div>
+- <div align="justify"> **Pranav Ranjan(URN:2004841)**, was runner up in Inter-year cricket organized by GNDEC on 05-11-2022.</div>
 
 ----------------------------------------
 ![Students](Images/PP3.jpg)
 
-<div align="justify"> **Anchal verma(URN 2103949)**, participated in intercollege competition at Khalsa College of Engineering & Technology Amritsar. She got 2nd position in pot making competition on 12-05-2022.</div>
+- <div align="justify"> **Anchal verma(URN 2103949)**, participated in intercollege competition at Khalsa College of Engineering & Technology Amritsar. She got 2nd position in pot making competition on 12-05-2022.</div>
 
 ----------------------------------------
 ![Students](Images/anm.jpeg)
 
 ![Students](Images/anm1.jpeg)
 
-**Anmol Kumar Srivastav(URN:2134680)** assigned the event GNE APEX (2022) organized by GNDEC ON 08-04-2022.</div>
+- **Anmol Kumar Srivastav(URN:2134680)** assigned the event GNE APEX (2022) organized by GNDEC ON 08-04-2022.</div>
 
 -----------------------------------------
 ![Students](Images/am.jpg)
 
-<div align="justify"> **Adarsh Mishra(URN:2103943)** was Finalist in “Privatiza”, Cognizance 2022 at IIT Roorkee held a case study competition from 24th to 28-03-2022.</div>
+- <div align="justify"> **Adarsh Mishra(URN:2103943)** was Finalist in “Privatiza”, Cognizance 2022 at IIT Roorkee held a case study competition from 24th to 28-03-2022.</div>
 
--<div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022 (Created 3 working experiments at Lab).</div>
+- <div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022 (Created 3 working experiments at Lab).</div>
 
--<div align="justify"> Organized an event “Science in our Daily life” at GNDEC on 30-01-2022.</div>
+- <div align="justify"> Organized an event “Science in our Daily life” at GNDEC on 30-01-2022.</div>
 
--<div align="justify"> Freelance Intern at PhysicsWallah from April to May 2022.</div>
+- <div align="justify"> Freelance Intern at PhysicsWallah from April to May 2022.</div>
 
 -----------------------------------------
 
 ![Students](Images/av.jpg)
 
-<div align="justify"> **Anant Vijay(URN:2103948)** was GK Quiz Head Organizer at GNE APEX 2022. Organized an inter school event at GNDEC Ludhiana on 08-042022.</div>
+- <div align="justify"> **Anant Vijay(URN:2103948)** was GK Quiz Head Organizer at GNE APEX 2022. Organized an inter school event at GNDEC Ludhiana on 08-042022.</div>
 
-<div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022.</div>
+- <div align="justify"> Selected as Virtual Lab Developer at IIT Roorkee in June 2022.</div>
 
-<div align="justify"> Organized an event “Science in our Daily life” on 30-01-2022.</div>
+- <div align="justify"> Organized an event “Science in our Daily life” on 30-01-2022.</div>
 
-<div align="justify"> -Selected for MERA SWARAJ EDUCATION PROGRAM. A scholarship program run by MAHINDRA and MAHINDRA Swaraj division through “Manav Vikas Sansthan” in March, 2022.</div>
+- <div align="justify"> -Selected for MERA SWARAJ EDUCATION PROGRAM. A scholarship program run by MAHINDRA and MAHINDRA Swaraj division through “Manav Vikas Sansthan” in March, 2022.</div>
 
 -----------------------------------------
 
 ![Students](Images/w.jpeg)
 
-<div align="justify"> **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited
+- <div align="justify"> **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited
 more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
 i)Water Footprint Calculator
 ii)Wetlands in India
@@ -329,7 +329,7 @@ iii)Traditional Water Management Practice.</div>
 
 ## IETE STUDENT FORUM
 
-The events were organized under the guidance of:</div>
+- The events were organized under the guidance of:</div>
 
 Dr. Munish Rattan (Coordinator, ISF)
 
@@ -340,7 +340,7 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF).
 
 ![Web development workshop](Images/b.jpg)
 
-<div align="jutify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session on 5, Feb, 2022 to give students detailed information about electronics circuits in a more practical way. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by speaker Gursidak Singh.</div>
+- <div align="jutify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session on 5, Feb, 2022 to give students detailed information about electronics circuits in a more practical way. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by speaker Gursidak Singh.</div>
 
 -----------------------------------------
 ### <div align="center">Tricky Circuits</div>
@@ -349,21 +349,21 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF).
 ![Tricky Circuits](iMAGES/d.jpg)
 
 ![Tricky Circuits](iMAGES/e.jpg)
-<div align="justify">IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.</div>
+- <div align="justify">IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.</div>
 
 -----------------------------------------
 ### <div align="center">One Day Workshop on Database automation</div>
 ![Database automation Workshop](Images/tt.jpeg)
 
 ![Database automation Workshop](Images/a.jpg)
-<div align="justify"> IETE Students’Forum(ISF),Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session to give students detailed information about database automation in a more practical way on 12, Oct, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), GuruNanak Dev Engineering College is thriven to deliver useful detailed information on various on going automation projects.</div>
+- <div align="justify"> IETE Students’Forum(ISF),Guru Nanak Dev Engineering College, Ludhiana organized a hands-on training session to give students detailed information about database automation in a more practical way on 12, Oct, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), GuruNanak Dev Engineering College is thriven to deliver useful detailed information on various on going automation projects.</div>
 
 -----------------------------------------
 ### <div align="center">Advisor Session (Team building and Motivation)</div>
 ![Advisor Session (Team building and Motivation)](Images/gg.jpeg)
 
 ![Advisor Session (Team building and Motivation)](Images/f.jpg)
-<div align="justify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by team of our ISF society.</div>
+- <div align="justify"> IETE Students’ Forum (ISF), Guru Nanak Dev Engineering College, Ludhiana organized a session to give students detailed information about team building and motivation towards joining IETE on 10, Nov, 2022. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver useful detailed information on various ongoing automation. Event was successfully managed by team of our ISF society.</div>
 
 
 
