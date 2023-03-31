@@ -1,0 +1,2 @@
+# Program on Financial Accounting
+A two days program on financial accounting procedures for staff of Guru Nanak Dev Engineering College, Ludhiana was organized 13 people took part in the training. CA Vijay Aneja & Mr. Manish Sharma were trainer the two-day session.

@@ -1,0 +1,2 @@
+# Visit of Team from PUM Netherland
+A team from PUM Netherlands led by Mr. Cess Schoenmakers, Sector coordinator incubators & Mr. K.R. Jain, Representative- India visited STEP-GNDEC to explore possibilities of collaboration to promote culture of entrepreneurship. Team was appreciative of their long-standing agreement with STEP-GNDEC. Possible areas of cooperative were explored.

@@ -1,0 +1,2 @@
+# Placement Drive
+Science & Technology Entrepreneurs’ Park, Guru Nanak Dev Engineering College organized a Placement Drive for Final Year B-Tech Students from GNE College. A glimpse of a placement drive at STEP GNDEC. Placement drive was very well Co-ordinated by Dr. Arvind Dhingra Sir (Executive Director) & MR. Ravinder Dev (TPO) on 30-12-2021. 
