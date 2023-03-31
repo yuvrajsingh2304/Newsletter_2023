@@ -33,7 +33,8 @@ HoD, Civil Engineering Department
 
 Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIERI Concrete Congress on **Sustainable Concrete Infrastructure** from March 14-17,2023 in virtual mode. Concrete, being the most powerful material for construction, should have minimal toxic impact on the environment. Keeping this in mind, abundant ideas with feasible solutions were presented by reseachers across world. Dr. Sehijpal Singh, Principal, GNDEC and Dr, H. S. Rai, Head of the Department of Civil Engineering, GNDEC acted as patron and co-patron for this 
 
-![Conf](Images/UKIERI.jpeg)
+![Conf](Images/UKIERI.jpeg) 
+
 
 ## Faculty Achievements  
 
@@ -48,11 +49,26 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 - Pooja Rani, **Dr. Gurdeepak Singh, Charnjeet Singh.** Load Settlement Characteristics of Strip Footing placed on piled sandy slope in PLAXIS 3D. In: International Research Journal of Engineering and Technology(IRJET) Volume:09 Issue:08 (e- ISSN:2395-0056)
 
 
-## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+## Conference Organized 
 
 | Sr. No. | Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
 |:------- |:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
 | 1       | Sustainable Concrete Infrastructure (UKIERI) |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
+
+## Events Organized by ACES
+
+| Sr. No. | Name of Event Organized             | Faculty Coordinator                            | Duration | Date(s)               |
+|:--------|:------------------------------------|:-----------------------------------------------|:---------|:----------------------|
+| 1.      | Rang De Basanti                     | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 2,2022	        |
+| 2.      | Wordpress for Beginners             | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | March 03-04, 2022     |
+| 3.      | Dumb Charades                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2022        |
+| 4.      | Basics of Designing a Flyer         | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | April 20,2022         |
+| 5.      | Let's have fun                      | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 09, 2022         |
+| 6.      | Design Frenzy                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | December 1-2,2022     |
+| 7.      | Technoplot	                        | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2023        |
+| 8.      | Sanrachna						    | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 17, 2023        |
+
+
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
@@ -73,8 +89,25 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 | 13	  | Manvinder Kingra  | Industry-Academia Perspective on Civil Engineering Problems									      | 5 days   | 19-23 March, 2022     | NIT Silchar												   |
 | 14	  | Manvinder Kingra  | Construction Management																		      | 1 day    | 4th January, 2023     | Oxford Online Study Course						           |
 
+### Students' Achievements
+
+</p align=justify>
+
+A group of 6 students went to CSIR-IIT Roorkee for their 6 months Industrial Training. The details are as given below:
+
+| Sr. No. | Name of Student | Name of Project |
+| -- | -- | -- |
+| 1|Sharanjit Singh | Evaluating 28 - Days Performance Of Rice Husk Ash Green Concrete Under Compression Gleaned From Neural Networks|
+| 2|Sidhant Jindal|Retrofitting Of Precode-Built Reinforced Concrete Sructues As Per Present Codes Of Practice Using Sap2000  |
+| 3| Yogesh Kumar|Neural Network Based Algorithm To Estimate The Axial Capacity Of Corroded Rc Columns  |
+| 4| Mool Chand|Evaluation Of Seismic Performanc Of Rcc Corroded Framed Structure And It’s Retrofitting Using Sap2000 |
+| 5|Rohan Singh |Enhancing Sustainability Of Corroded Rc Structures: Estimating Steel-To-Concrete Bond Strength With Ann And Svm Algorithms |
+| 6|Sarvanshdeeo Singh Sahota |Ml-Based Computational Model To Estimate The Compressive Strength Of Sustainable Concrete Intergrating Silica Fume And Steel Fiber |
 
 
-## [Association of Civil Engineering Students](ACES.md)
+![Conf](Images/CSIR.jpg)
+
+
+## [Association of Civil Engineering Students - Click Here](ACES.md)
 
 ![aces](Images/aq.jpg)
