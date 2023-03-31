@@ -34,9 +34,10 @@ HoD, Civil Engineering Department
 
 ## Department at Glimpse
 
-####  SDT on "Efficient, Trackable and Sustainable Workflow"
+####  **UKIERI Concrete Congress**
 
 <p align=justify>
+Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIERI Concrete Congress on **Sustainable Concrete Infrastructure** from March 14-17,2023 in virtual mode. Concrete, being the most powerful material for construction, should have minimal toxic impact on the environment. Keeping this in mind, abundant ideas with feasible solutions were presented by reseachers across world. Dr. Sehijpal Singh, Principal, GNDEC and Dr, H. S. Rai, Head of the Department of Civil Engineering, GNDEC acted as patron and co-patron for this mega-conference, respectively.
 To address the issues associated with poor workflow, and making sure that the computer resources are used efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering and Computer Science Engineering from December 02-08, 2020.
 </p>
 
@@ -67,35 +68,13 @@ To address the issues of increasing road accidents and other traffic related pro
 
 
 ## Publications  
+- [**Yuvraj Singh, Harvinder Singh.** (2022) The effect of Steel Fibers on Ductility of Reinforced Concrete Beams. In: Indian Structural Steel Conference. Indian Institute of Technology, Hyderabad, India
 
-- [**Yuvraj Singh, Harvinder Singh.** (2021) Applications of Fiber Reinforced Polymer Laminates in Strengthening of Structures. In: Ashish D.K., de Brito J., Sharma S.K. (eds) 3rd International Conference on Innovative Technologies for Clean and Sustainable Development. ITCSD 2020. RILEM Bookseries, vol 29. Springer, Cham. https://doi.org/10.1007/978-3-030-51485-3_17](https://link.springer.com/chapter/10.1007/978-3-030-51485-3_17)
+- [Gaurav Bhougal, **Prabhjot Singh, Dr. H. S. Rai** (2022) Study of Mechanical and Durability properties of Geopolymer concrete incorporated Waste Brick Powder as fine aggregate. In: International Research Journal of Engineering and Technology (IRJET), Volume:09 Issue:11 (p-ISSN:2395-0072)
 
-- [**Yuvraj Singh**, Sukhwant Singh, **Harvinder Singh**. (2021) Effect of Steel Fibers on the Sorptivity of Concrete. In: Seetharamu S., Jagadish T., Malagi R.R. (eds)Fatigue, Durability, and Fracture Mechanics. Lecture Notes in Mechanical Engineering. Springer, Singapore.https://doi.org/10.1007/978-981-15-4779-9_32](https://link.springer.com/chapter/10.1007/978-981-15-4779-9_32)
+- [Harmandeep Singh, **Mandeep Kaur, Manvinder Kingra.** Optimum Dosage of GGBFS, Broken Ceramic Tiles, and Copper Slag in the Production of Sustainable Concrete. In: International Research Journal of Engineering and Technology (IRJET) Volume: 09 Issue: 09 (p-ISSN:2395-0072)
 
-- [Sonia Puri,**Harpal Singh** & **Mandeep Kaur** (2021). Seismic Analysis of Multistorey Building Frame Resting on Plane and Sloping Ground. International Research Journal of Engineering and Technology (IRJET).](https://www.irjet.net/archives/V8/i9/IRJET-V8I973.pdf)
-
-- [Mehvish Bilal,**Navneet Singh**,Tabasum Rasool (2021). A model supported biomedical waste for the enhancement of mechanical properties of concrete. Modeling Earth Systems and Environment.](https://link.springer.com/article/10.1007/s40808-021-01215-3)
-
-- [Aakriti Sharma, **Prashant Garg**, **Amandeep Singh** (2021). An innovation for flat traditional conventional footing. Journal of University of Shanghai for Science and Technology, Volume 23, Issue 7 ](https://jusst.org/wp-content/uploads/2021/07/An-innovation-for-flat-traditional-conventional-footing.pdf)
-
-- [Saurabh Kumar, **Prashant Garg**, **Amandeep Singh** (2021) A study on the influence of sodium salt solution on the Atterberg limits and swelling of Bentonite Clay. Journal of University of Shanghai for Science and Technology. Volume 23, Issue 10, Oct 2021](https://jusst.org/wp-content/uploads/2021/10/A-Study-On-The-Influence-Of-Sodium-Salt-Solution-On-The-Atterberg-Limits-And-Swelling-Of-Bentonite-Clay.pdf)
-
-- [Madhu,**Harvinder Singh** (2021). Behaviour of simply supported RC skew slabs stiffened with shallow beams. Advance in Structural Engineering. doi:10.1177/13694332211022071](https://journals.sagepub.com/doi/10.1177/13694332211022071)
-
-- [**Harvinder Singh, Prashant Garg** (2021),Modeling the Response of a Piled-Raft Footing: Ultimate Bearing Capacity. Iranian Journal of Science and Technology, Transactions of Civil Engineering volume. doi:10.1007/s40996-020-00529-z](https://link.springer.com/article/10.1007%2Fs40996-020-00529-z)
-
-- [**Inderpreet Kaur, Harvinder Singh, H.S Rai** (2021),Development of rectangular hybrid-stiffened-plate structural system with fibre-reinforced polymer fabric composite in tension zone. SAdvance in Structural Engineering. doi: 10.1177/1369433220948755](https://journals.sagepub.com/doi/abs/10.1177/1369433220948755)
-
-- [Amanpreet Kaur, **Harvinder Singh**(2021). Numerical Study of Laterally Loaded Piles in Soft Clay Overlying Dense Sand”. Civil Engineering Journal. doi:10.28991/cej-2021-03091686](https://www.civilejournal.org/index.php/cej/article/view/2770/pdf)
-
-- [**Harvinder Singh** (2021) “Closed-Form Solution for Shear Strength of Steel Fiber Reinforced Concrete Beams”; ACI Structural Journal; 117(3), 261-272.](https://www.concrete.org/publications/internationalconcreteabstractsportal.aspx?m=details&ID=51721373)
-
-- [Hilal Ahmad Wani, **Sukhwinder Singh**, Tahir Mohammad Bhat.(2021)"Effect of Nano Titanium Dioxide and GGBS on Flexural Behaviour of Concrete Beam", International Research Journal of Engineering and Technology (IRJET); ](https://www.irjmets.com/uploadedfiles/paper/volume2/issue_12._december_2020/5276/1628083212.pdf)
-
-- [Er. Basit Mustaq,**Dr. H.S. Rai, Er.Bhupinder Singh** (2021)"Effect of Addition of Micro Silica And Fly Ash On Workability and durability of Concrete"; International Research Journal of Engineering and Technology (IRJET)](https://www.irjmets.com/uploadedfiles/paper/volume_3/issue_11_november_2021/16957/final/fin_irjmets1636090585.pdf)
-
-- [Sukhmani Kaur,**Pritpal Kaur, Inderpreet Kaur**(2021).Nonlinear analysis of two-layered SHCC and reinforced concrete composite slabs. Innovative Infrastructure Solutions.doi:/10.1007/s41062-021-00654-2](https://link.springer.com/article/10.1007/s41062-021-00654-2)
-
+- [Pooja Rani, **Dr. Gurdeepak Singh, Charnjeet Singh.** Load Settlement Characteristics of Strip Footing placed on piled sandy slope in PLAXIS 3D. In: International Research Journal of Engineering and Technology(IRJET) Volume:09 Issue:08 (e- ISSN:2395-0056)
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
@@ -113,31 +92,21 @@ To address the issues of increasing road accidents and other traffic related pro
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | Inderpreet Kaur   | "Artificial Intelligence & Machine Learning"                                                      | 15 days  | 7-17, December,2020   | IIT Indore                                                  |
-| 2       | Pritpal Kaur      | Energy innovative building construction practices                                                 | 6 days   | 23-29 August, 2021    | NITTR Chandigarh                                            |
-| 3       | Pritpal Kaur      | Scilab Workshop                                                                                   | 3 days   | 4-6, March, 2021      | NITTR Chandigarh                                            |
-| 4       | Pritpal Kaur      | Professional development training                                                                 | 3 days   | 8-10 February 2021    | IIM, Raipur                                                 |
-| 5       | Charnjeet Singh   | FDP on “ICT Initiatives in Technical Education’                                                   | 6 days   | 08-13,February 2021   | GNDEC, Ludhiana Roorkee                                     |
-| 6       | Sukhwinder Singh  | Development & Applications of Special Concrete.                                                   | 8 weeks  | Jan-Mar 2021          | SWAYAM IIT, Kanpur                                          |
-| 7       | Manvinder Kingra  | Online International Conference on Recent Development in Engineering & Technology                 | 2 days   | 26-27 February, 2021  | TEQIP III RTU (ATU)                                         |
-| 8       | Manvinder Kingra  | Financial Planning for Young Adults                                                               | 10 Days  | 15-25,April 2021      | University of Illinois                                      |
-| 9       | Ajitpal Singh     | Electronic Waste management                                                                       | 4 Weeks  | Jan -February, 2021   | IIT, Kharagpur                                              |
-| 10      | Ajitpal Singh     | Organisational Behaviour                                                                          | 5 Days   | 15-19,February 2021   | SANTHIGIRI INSTITUTE OF MANAGEMENT, KERELA                  |
-| 11      | Ajitpal Singh     | Waste Technology                                                                                  | 5 Days   | 20-24,February 2021   | Z. H. College of Engineering & Technology, UP               |
-| 12      | Ajitpal Singh     | Advanced Concrete Technologies                                                                    | 5 Days   | 8-12,November 2021    | OSMANIA UNIVERSITY, HYDERABAD                               |
-| 13      | Amandeep Singh    | Management Development Programme                                                                  | 6 Days   | 1-6, March, 2021      | IIM, Kozhikode                                              |
-| 14      | Amandeep Singh    | AICTE-Workshop on Examination Reforms                                                             | 3 Days   | 19th-21st July, 2021  | AICTE                                                       |
-| 15      | Balihar Singh     | QIP Sponsored Online STC on 'Energy Efficient and Innovative Building Construction Practices      | 5 days   | 23-28,August,2021     | CIVIL ENGINEERING DEPARTMENT, NITTTR                        |
-| 16      | Pushpinder  Singh | Development & Applications of Special Concrete.                                                   | 8 weeks  | January-March, 2021   | IIT KANPUR                                                  |
-| 17      | Pushpinder Singh  | Pavement Evaluation Techniques and applications for Maintenance and Rehabilitation                | 3 Days   | 27 -29, October,2021  | CSIR-CRRI, New Delhi                                        |
-| 18      | Navneet Singh     | Development & Applications of Special Concrete.                                                   | 8 weeks  | January-March, 2021   | IIT KANPUR                                                  |
-| 19      | Navneet Singh     | QIP Sponsored Online STC on 'Energy Efficient and Innovative Building Construction Practices      | 5 days   | 23-28,August,2021     | CIVIL ENGINEERING DEPARTMENT, NITTTR                        |
-| 20      | Avneet Kaur       | Green Technology & Sustainability Engineering                                                     | 5 days   | 8-12, December, 2020  | (ATAL) National Institute of Technology Raipur.             |
-| 21      | Avneet Kaur       | Global Navigation Satellite System (GNSS)                                                         | 5 days   | 18-22, December, 2020 | (ATAL) National Institute of Technology Mizoram             |
-| 22      | Avneet Kaur       | "STC on Advanced Engineering Optimization Techniques"                                             | 5 days   | 24-28, December, 2020 | NIT JALANDHAR                                               |
-| 23      | Avneet Kaur       | Environmental Geotechnology                                                                       | 5 days   | 4-8, January, 2021    | (ATAL) National Institute of Technology Karnataka Surathkal |
-| 24      | Avneet Kaur       | Waste Technology                                                                                  | 5 Days   | 18-22, January, 2021  | National Institute of Technology Durgapur                   |
-| 25      | Avneet Kaur       | Innovation in Civil Engineering Materials & Techniques for Sustainable Development (ICEMTSD-2021) | 5-days   | 18-22, November, 2021 | National Institute of Technology Silchar                    |
+| 1       | Yuvraj Singh      | Indian Structural Steel Conference																  | 2 days	 | 6-8 January, 2022	 | IIT Hyderabad											   |
+| 2       | Prabhjot Singh    | Workshop on "Wordpress for Beginners"															  | 2 days	 | 3-4 March, 2022	     | GNDEC, Ludhiana											   |
+| 3       | Gurdeepak Singh   | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 4       | Sandeep Kaur      | Technology Enabled Teaching Learning			                                                  | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 5       | Heena Malhotra    | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 6		  | Mandeep Kaur      | Technology Enabled Teaching Learning                                                              | 5 days   | 16-20 January,2023    | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 7       | Mandeep Kaur      | Free Software and Resources for Technical Education through ICT									  | 5 days   | 21-25 March, 2023	 | GNDEC, Ludhiana                                             |
+| 8       | Prashant Garg	  | Technology Enabled Teaching Learning		                                                      | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 9       | Amandeep Singh    | Technology Enabled Teaching Learning															  | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 10	  | Manvinder Kingra  | Technology Enabled Teaching Learning		                                                      | 5 days   | 16-20 January, 2023   | NITTTR Chandigarh, GNDEC Ludhiana                           |
+| 11	  | Manvinder Kingra  | Adoption of Green Construction Practices with Focus on Water Resource		                      | 2 days   | 11-12 February, 2022  | Indian Water Works Association Local Nagpur Centre, Nagpur  |
+| 12	  | Manvinder Kingra  | Emerging Trends in Science and Technology									                      | 4 days   | 14-18 February, 2022  | Regional College of Education Research & Technology, Jaipur |
+| 13	  | Manvinder Kingra  | Industry-Academia Perspective on Civil Engineering Problems									      | 5 days   | 19-23 March, 2022     | NIT Silchar												   |
+| 14	  | Manvinder Kingra  | Construction Management																		      | 1 day    | 4th January, 2023     | Oxford Online Study Course						           |
+
 
 
 ## [Association of Civil Engineering Students](ACES.md)
