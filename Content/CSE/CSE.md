@@ -1,9 +1,12 @@
 # Department of Computer Science and Engineering  
 
-## Message from HoD's Desk
+| <b style = "font-size:24px;color:#FDD771"> Message from HOD <br> </b>Dr. Parminder Singh <br>Head of Department Computer Science and Engineering | ![DPS](Images/DPS.jpg)   |
+|:--------|:------|
 
-![DPS](Images/DPS.jpg)
-
+<div align = "justify">
+I congratulate all involved for publication of newsletter. It is a matter of great pleasure and I would like to share few of my thoughts as the Head of Department of Computer Science and Engineering, which was established in 1994. Since then the department is flourishing and achieving new heights. We are offering undergraduate program – B.Tech. in Computer Science and Engineering, and post-graduate program – M.Tech. in Computer Science and Engineering. Department also have Ph.D. program running under autonomous status.<br>
+We are also actively involved in research and development activities. Our faculty members have published their research work in various reputed journals with good impact factors and carrying out research in diverse fields of Computer Science and Engineering. Students of department are also bringing laurel to the institute by participating in various curricular and extra-curricular activities from time-to-time at national and international levels. Department is supporting students in all domains for their overall personality development and organizing different events through societies and clubs managed by department including Computer Society of India and Data Science Club.
+</div>
 
 ## Department at Glimpse
 
