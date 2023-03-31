@@ -27,6 +27,10 @@ Principal, Dr. Sehijpal Singh assured placements to other students who wish to g
 </p>
 
 \
+![student1](Images/placed_students_2023/mzs.jpg)
+\
+![student1](Images/placed_students_2023/microsoft.jpg)
+\
 ![student1](Images/placed_students_2023/schneider_electric.jpg)
 
 \
@@ -67,5 +71,3 @@ Principal, Dr. Sehijpal Singh assured placements to other students who wish to g
 
 \
 ![student1](Images/placed_students_2023/bizmerlin_hr.jpg)
-
-\

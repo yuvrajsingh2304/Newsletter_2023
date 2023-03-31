@@ -1,4 +1,4 @@
-# Glimpses of Training and Placement Cell
+# Glimpses of HR's Visitis
 
 \
 ![Glimpses](Images/glimpses/glimpse1.jpg)

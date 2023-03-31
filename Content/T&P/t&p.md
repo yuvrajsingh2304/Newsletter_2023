@@ -72,47 +72,85 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Placement Insights
 
-| Company Name                               | Package(LPA) |
-| ------------------------------------------ | ------------ |
-| Samsung                                    | 14.5         |
-| Zscaler                                    | 13.94        |
-| Stylumia Intelligence Technology Pvt. Ltd. | 13           |
-| Xenonstack                                 | 7.5          |
-| Argusoft                                   | 7.2          |
-| TCS(Digital)                               | 7            |
-| Sapient                                    | 6.5          |
-| Larsen & Tourbo                            | 6.3          |
-| Modak Analystics LLP                       | 6            |
-| Paxcom                                     | 6            |
-| Pure Software Pvt. Ltd.                    | 6            |
-| Surya Software                             | 6            |
-| Volvo- Eicher(VE) Commercial Vehicles Ltd. | 6            |
-| Honda                                      | 6            |
-| Sml Isuzu                                  | 6            |
-| Accolite Digital India Private Limited     | 5            |
-| Alert Enterprise Inc                       | 5            |
-| ChicMic                                    | 5.5          |
-| Denso                                      | 5.5          |
-| BizMerlin HR.                              | 5.68         |
-| HCL Technologies Ltd.                      | 4.75         |
-| Schneider Electric                         | 4.75         |
-| Venture Pact, LLC                          | 4.62         |
-| Brillio                                    | 4.5          |
-| Clerisy Solutions Pvt Ltd.                 | 4.5          |
-| SafeAeon Inc.                              | 4.2          |
-| Capgemini                                  | 4            |
-| Cloud Analogy Softech Pvt. Ltd.            | 4            |
-| Cognizant                                  | 4            |
-| Orion eSolutions Pvt. Ltd.                 | 3.75         |
-| Shapoorji Pallonji                         | 3.75         |
-| Infosys Limited                            | 3.6          |
-| Bebo Technologies                          | 3.5          |
-| Wipro                                      | 3.5          |
-| BYJU's                                     | 3.36         |
-| TCS (Ninja)                                | 3.36         |
-| Brisk Logic Pvt. Ltd.                      | 3            |
-| Step2gen                                   | 2.6          |
-| Damsun Group                               | 2.1          |
+| Company Name                                     | Package(LPA) |
+| ------------------------------------------------ | ------------ |
+| Microsoft                                        | 51           |
+| Samsung                                          | 14.5         |
+| Microsoft                                        | 14           |
+| Hashedin                                         | 8.1          |
+| Honda Motorcycle & Scooter India Private Limited | 8            |
+| India Mart                                       | 8            |
+| TCS(Digital)                                     | 7            |
+| SML ISUZU LTD.                                   | 6.6          |
+| CDK Global India Private Limited                 | 6.5          |
+| Infor                                            | 6.5          |
+| Sapient                                          | 6.5          |
+| Wipro Turbo                                      | 6.5          |
+| Paxcom                                           | 6            |
+| Surya Software                                   | 6            |
+| Modak Analystics LLP                             | 6            |
+| CONTENT & MEDIA(Byjus)                           | 6            |
+| eNest Technologies Private Limited               | 6            |
+| Larsen & Toubro Limited                          | 6            |
+| Pure Software                                    | 6            |
+| Jaro                                             | 6            |
+| Argusoft                                         | 5.62         |
+| JSW                                              | 5.5          |
+| Saint-Gobain                                     | 5.16         |
+| Accolite Digital India Private Limited           | 5            |
+| Oriental Outsourcing                             | 5            |
+| HCL                                              | 4.75         |
+| Venture Pact                                     | 4.62         |
+| ChicMic                                          | 4.5          |
+| Clerisy Solutions Pvt Ltd.                       | 4.5          |
+| Brillio                                          | 4.5          |
+| Xenonstack                                       | 4.5          |
+| HCL Technologies                                 | 4.25         |
+| Denso Haryana Pvt. Ltd.                          | 4.24         |
+| ICS                                              | 4.2          |
+| Academic Specialist (Byjus)                      | 4            |
+| KPIT                                             | 4            |
+| Capgemini                                        | 4            |
+| Cloud Analogy Softech Pvt. Ltd.                  | 4            |
+| Cognizant                                        | 4            |
+| Frontrow                                         | 4            |
+| Anmol India Ltd                                  | 4            |
+| MWIDM India Private Limited                      | 4            |
+| Schneider Electric                               | 3.75         |
+| Orion eSolutions Pvt. Ltd.                       | 3.75         |
+| Tata International Limited                       | 3.7          |
+| SafeAeon Inc.                                    | 3.6          |
+| Infosys Limited                                  | 3.6          |
+| TCS                                              | 3.53         |
+| ACC Limited                                      | 3.5          |
+| Bebo Technologies                                | 3.5          |
+| Tata Elxsi                                       | 3.5          |
+| UpGrad                                           | 3.5          |
+| Wipro                                            | 3.5          |
+| Arora Iron & Steel Rolling Mills Pvt. Ltd.       | 3.36         |
+| BYJU's                                           | 3.36         |
+| TCS (Ninja)                                      | 3.36         |
+| BizMerlin HR.                                    | 3.3          |
+| Vardhman                                         | 3.3          |
+| Indo MIM                                         | 3.12         |
+| Kangaroo IndistriesLtd.                          | 3.1          |
+| Auxiliobits Technologies Pvt Ltd.                | 3            |
+| CrossML Pvt.Ltd.                                 | 3            |
+| Brisk Logic Pvt. Ltd.                            | 3            |
+| Manikaran Power Limited                          | 3            |
+| Binary Semantics                                 | 3            |
+| Frick India Limited                              | 3            |
+| Mahindra & Mahindra Ltd.                         | 3            |
+| RDC Concrete (India) Pvt. Ltd.                   | 2.76         |
+| GNA Auto Enterprises Ltd.                        | 2.64         |
+| Step2gen                                         | 2.6          |
+| JayaswalNeco Industries Ltd                      | 2.4          |
+| Things Go Social                                 | 2.4          |
+| ITL-Sonalika                                     | 2.14         |
+| Damsun Group                                     | 2.1          |
+| Impact Bajaj                                     | 1.92         |
+| Eco Laboratories &Consultants Pvt. Ltd.          | 1.8          |
+| Saguna Consulting Services                       | 1.68         |
 
 ## Internship Insights
 
@@ -153,13 +191,11 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 ## Events
 
-- [Events held in collaboration with Infosys](Events_Infosys.md)
-
 - [Events held in collaboration with TCS](Events_TCS.md)
 
 - [Events held in collaboration with Mahindra & Mahindra](Events_MM.md)
 
-- [Events held in collaboration with Axis Bank](Events_AXIS_BANK.md)
+- [Events held in collaboration with Axis Bank](Events_Axis_Bank.md)
 
 - [Events held by the Training and Placement Cell](Events_T&P.md)
 

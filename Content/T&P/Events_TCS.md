@@ -1,5 +1,7 @@
 ## TCS HackQuest
+
 ---
+
 <p align = justify>
 TCS HackQuest season 6 organized by TCS, the competition presents a series of challenges to be completed in 6 hours. Each challenge assesses participant skills in ethical hacking and their particular skill in finding vulnerabilities. TCS Cyber ​​Security Practice is seeking students and enthusiasts who are passionate about ethical hacking and, in general, securing the digital future of organizations engaged in the transaction of millions of data points around the world.
 </p>
@@ -10,7 +12,9 @@ TCS HackQuest season 6 organized by TCS, the competition presents a series of ch
 <br />
 
 ## Techfest
+
 ---
+
 <p align = justify>
 Techfest, Researcher Discovery Platform competition to help accelerate the culture of academic-industry collaborations. 
 </p>
@@ -20,31 +24,22 @@ Techfest, Researcher Discovery Platform competition to help accelerate the cultu
 
 <br />
 
-## TCS Ninja Hiring
+## TCS SKILL-DEVELOPMENT FOR TCS NATIONAL QUALIFIER TEST (NQT)
+
 ---
 
 <p align = justify>
-TCS offers recruitment oppurtunities to the college passouts as a part of Ninja profile. 
+Launchpad is their exclusive shared skill-development space that features a comprehensive collection of resources to help campus students prepare for their professional debut. It is a community of thousands of talented youngsters aspiring to begin their career at TCS. Students get the opportunity to work on not just various technologies but also their communication skills and they get to connect with experts. TCS has invested a lot of their sincere effort in conceptualizing Launchpad just to ensure that the students find themselves ready when it is time for them to make the big move from Campus to Corporate, via a promising career at TCS! To be more specific, Launchpad prepares young aspirants to do well when they take the TCS National Qualifier Test (NQT) which is the single most crucial step towards scoring a TCS career. TCS has, in fact, already started accepting TCS NQT registrations and will continue doing so till 29th July 2022. 
 </p>
 
 \
-![tcsninja](Images/tcsninja.png)
+![tcsCareer](Images/tcs_Career.jpg)
+![tcsCareer](Images/tcs_launchpad.jpg)
 
 <br />
 
-## TCS EngiNX
----
+## TCS CodeVita
 
-<p align = justify>
-EngiNx is an Engineering Innovation Contest conducted by TCS - Engineering & Industrial Services Unit every year. It is primarily an IOT based competition which requires the contestants to develop products by consolidating their core engineering knowledge and IOT concepts.
-</p>
-
-\
-![tcsEnginx](Images/tcsEnginx.png)
-
-<br />
-
-## TCS CodeVita 
 ---
 
 <p align = justify>
@@ -57,4 +52,4 @@ It is an annual Hackathon conducted by TCS Cognitive Business Operations (CBO) w
 </p>
 
 \
-![codevita](Images/codevita.png)
+![codevita](Images/tcs_codeVita.jpg)
