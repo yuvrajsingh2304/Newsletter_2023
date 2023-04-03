@@ -10,50 +10,10 @@ The Department of Business Administration has experienced and competent faculty 
 </p>
 
 
-## Department at Glimpse
-
-- **AICTE Sponsored under(AQIS) Scheme Two Weeks FDP on "Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education from 26th October to 7th November,2020 through online mode.”**
-
-![SDT](Images/FDP1.jpeg)
-***Organising Team -AICTE Sponsored Ist FDP***
-
-<p align=justify>
-AICTE (New Delhi), AICTE Quality improvement scheme (AQIS) sponsored Faculty Development Program organized by Department of Business Administration Guru Nanak Dev Engineering College, Ludhiana on “Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education” from 26th October, 2020 to 7th November, 2020 through online mode. Go to meeting app has been purchased for this faculty development program and 150 participants PAN India were participated in this program.  
-</p>
-
-**[Click Here to View Inaugural Session](https://youtu.be/uMKn29iBRlQ)**  
-**[Click Here to View Valedictory Session](https://youtu.be/ZDI1Tff4LLE)**
-
-
-- **AICTE Sponsored under(AQIS) Scheme Two Weeks FDP on "Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education from 07th December,2020 to 21st December,2020” through Online mode."**
-
-![SDT](Images/FDP2.jpeg)
-***Organising Team -AICTE Sponsored 2nd FDP***
-
-<p align=justify>
-AICTE (New Delhi), AICTE Quality Improvement Scheme (AQIS) sponsored Faculty Development Program organized by Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana on “Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education” from 07th December, 2020 to 21st December, 2020 through online mode. Go to meeting app has been purchased for this Faculty Development Program and 80 participants from PAN India participated in this Faculty Development Program (FDP).</p>
-<p align=justify>
-First day i.e., on 07th December, 2020, Inaugural session has been taken by Dr. K. Srinivas Head ICT & Project Management Unit, National Institute of Educational Planning and Administration (NIEPA), Deemed to be University, Ministry of Education, Govt. of India. He opened his session with a quote from Alvin Toffler and  highlighting the ways in which the lockdown period can be utilized by the faculties and students to the optimum level in enhancing their technology and digital capabilities. He laid ample stress on building the competencies of Teachers for the online teaching by encouraging them to adapt to the new technological pedagogies as well as by releasing control of learning to the students. Dr.Srinivas concluding remarks emphasized on the necessity that instructor must take the role of facilitator of information while giving the solutions.
-</p>
-
-**[Click Here to View Inaugural Session](https://youtu.be/hbua5XdQi9U)**
-
-**[Click Here to View Valedictory Session](https://youtu.be/NYSlHHW4UFM)**  
-
-- **Technical Education Quality Improvement Programme (TEQIP)-III) Guru Nanak Dev Engineering College, Ludhiana sponsored Two Weeks Student Development Programme on "Enhancing Students' Employability through Interdisciplinary Engagement” from 1st February - 13th February,2021 ”**
-
-![SDT](Images/SDP.jpeg)
-***Chief Guest SDP Ms.Sandeep Riat, MD Akal Spring Ltd., Mr.G.S.Sidhu,Head IT,Cremica Food Industries & Principal Dr.Sehijpal Singh,GNDEC Ludhiana***
-
-<p align=justify>
-TEQIP-III sponsored Student Development Program organized by Department of Business Administration & Department of Computer Applications, Guru Nanak Dev Engineering College, Ludhiana on “Enhancing Students' Employability through Interdisciplinary Engagement” from 1st February, 2021 to 15th February,2021 through offline mode. The program was held at Campus in Testing and Consultancy Cell at GNDEC Campus. Nearly 80 students of Final year of B.Tech (All Branches)/MBA/MCA has been participated in this program.
-</p>
-
-**[Click Here to View SDP](https://youtu.be/28bUjZCYyGw)**
 
 ## Publications  
 
-- [**Ripudaman Kaur**, **Parampal Singh**. (2020) Emotional Intelligence and its impact on the Job Performance among frontline bank employees.In: Suraj Punj Journal For Multidisciplinary Research  ISSN NO: 2394-28860.](https://drive.google.com/file/d/1YEz5ui25GiGyXKXQGnIWLNDBR7c5vwUJ/view)
+- [**Dr.Parampal Singh**.] (Feb2023) Published paper in YMER, titled,"Perception of Consumers towards Fixed line Broadband Services Adoption: A Study of Indian Consumers".Vol 22,Issue 02,Feb 2023, ISSN-0044-0477,Scopus Indexed.
 
 
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
@@ -61,37 +21,43 @@ TEQIP-III sponsored Student Development Program organized by Department of Busin
 
 | Sr. No. | Name of Event                                                                                          | Faculty Coordinator                  | Duration  | Date(s)                                  | Sponsor(s)        |
 |:------- |:------------------------------------------------------------------------------------------------------ |:------------------------------------ |:--------- |:---------------------------------------- |:----------------- |
-| 1       | FDP on Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education” | Dr. Navdeep Kaur                     | Two Weeks | 26th October, 2020 to 7th November, 2020 | AICTE, New Delhi. |
-| 2       | FDP on Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education” | Dr. Navdeep Kaur                     | Two Weeks | 07th December-21st December,2020.        | AICTE, New Delhi. |
-| 3       | SDP on Enhancing Students' Employability through Interdisciplinary Engagement                         | Dr.Navdeep Kaur & Prof. Dinesh Anand | Two Weeks | 1st February, 2021 to 15th February, 2021 | TEQIP-III         |
+| 1       | Presented Series on "Time Management"                                                                  | Dr. Parampal Singh                    | Three Days | 10th October, 2022 to 12th November, 2022 | Center For Multi-Faceted Learning,GNDEC,Ludhiana. |
+|                                                                                                                                                                                                                                           
+
+# Professional Activities
+
+|Activities:  | Speakers:                                                                                    | Dates:                  |
+|:------- |:------------------------------------------------------------------------------------------------------ |:------------------------------------ |
+|Entrepreneurship Cell & Department of Business Administartion organized a session on Business StartUp Program| Mr.Bernard Curren(Programme Director)and Mr.S.K. Rai(Vice Chairman Hero Cycle)| 2nd June,2022    |
+| Guest lecture on World Investor’s week	|CS Pooja Kohli, SEBI, India	|11 October,2022             |
+|Industrial visit |Avon Cycles Ltd , Ludhiana|	27 October,2022|
+|Industrial Visit  |	Neva Garments Ltd, Phagwara Road.     |	09 November,2022                |
+|CII SKILL -WILL- LEAD 2ND EDITION	|   Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana.     |	10,11,12 November,2022
+
+# Cultural and Sports Activities
+
+Activities: |  Department:                                                                                     |  dates:                 |
+|:---------| :----------------------------------------------------------------------------------------------------|--------------|                          
+Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
+|Deepawali DIVA competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
+|Volley ball& Tug of war Competition for  MBA &BBA	|Held in Sports Complex , Guru Nanak Dev Engineering College, Ludhiana	| 31 October,2022       |
+<P align=justify>
+The students of Department of Business Administration organized the langar on November7,2022 in connection with the worth of Jagat Guru, "Guru Nanak Dev Ji's". The motive was to instill the principles of Vand Shako among the students.
+</P>
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                                                                                             | Duration        | Date(s)              | Organizing Institute           |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------- |:-------------------- |:------------------------------ |
-| 1       | Amanjot Kaur Gill | Professional Development Training Programme for Faculty & Administrators of Project Institutions of Technical Education Quality Improvement Programme – III (TEQIP – III) | 3 Days          | 7-9 Dec 2020         | NPIU-IIMV                      |
-| 2       | Amanjot Kaur Gill | Curriculum Implementation                                                                                                                                                 | 4 Days          | 20-24 April 2020     | NITTTR CHD                     |
-| 3       | Amanjot Kaur Gill | Teaching and Learning for Accreditation in Technical Education                                                                                                            | 5 Days          | 27 April- 1 May 2020 | NITTTR CHD                     |
-| 4       | Amanjot Kaur Gill | Academic Leadership Enhancement in Technical Institutions                                                                                                                 | 5 Days          | 4-8 May 2020         | NITTTR CHD                     |
-| 5       | Amanjot Kaur Gill | Modes of Teaching and Learning in Lockdown                                                                                                                                | One Day           | 11 May 2020          | NPTEL                          |
-| 6       | Dr. Navdeep Kaur  | How to conduct evidence-based research                                                                                                                                    | One Module      | 17 April,2020        | Elsevier Research Academy      |
-| 7       | Dr. Navdeep Kaur  | Discover how metrics can boost funding and networking opportunities                                                                                                       | One Module      | 11 May,2020          | Elsevier Research Academy      |
-| 8       | Dr. Navdeep Kaur  | Funding Hacks for Researchers                                                                                                                                             | One Module      | 11 May,2020          | Elsevier Research Academy      |
-| 9       | Dr. Navdeep Kaur  | The key to successful academic collaborations                                                                                                                             | One Module      | 14 May,2020          | Elsevier Research Academy      |
-| 10      | Dr. Navdeep Kaur  | How to manage and publish your research data                                                                                                                              | One Module      | 17 April,2020        | Elsevier Research Academy      |
-| 11      | Dr. Navdeep Kaur  | How to produce highly visible research: Useful tips for researchers                                                                                                       | One Module      | 14 May,2020          | Elsevier Research Academy      |
-| 12      | Dr. Navdeep Kaur  | Research collaborations                                                                                                                                                   | One Module      | 14 May,2020          | Elsevier Research Academy      |
-| 13      | Dr. Navdeep Kaur  | How researchers store, share and use data                                                                                                                                 | One Module      | 17 April,2020        | Elsevier Research Academy      |
-| 14      | Dr. Navdeep Kaur  | How to secure funding - ECR edition                                                                                                                                       | One Module      | 11 May,2020          | Elsevier Research Academy      |
-| 15      | Dr. Navdeep Kaur  | The Fundamentals of Digital Marketing                                                                                                                                     | One Module      | 10 May,2020          | Google Digital Garage          |
-| 16      | Dr. Navdeep Kaur  | Industry 4.0                                                                                                                                                              | 36 hours course | 5 July,2020          | Globsyn Business School Online |
-| 17      | Dr. Navdeep Kaur  | Assertiveness Skills for Professional Development.                                                                                                                        | One Module      | 09 June,2020         | St. Xavier's P.G. College      |
-| 18  |Prof.Amarpreet Kaur    |Building Your Research Acumen                                                                                                                                                                           | One Week                | 30 May,2020-11 July,2020 (on every consecutive Saturday)                     | GNSU, Jamuhar, Bihar                               |
-| 19 | Prof.Amarpreet Kaur                  |Research Methodology                                                                                                                                                |  One Day               |  11 June,2020                    |  Bhaktavatsalam Memorial College for Women, Chennai                              |
-| 20  |Prof.Amarpreet Kaur |  Academic Enhancement on Research Methodology                                                                                                               | 4 Days                 |26-29 June,2020                      |  IRA, Jaipur                              |
-| 21 | Prof.Amarpreet Kaur                  | Supply Chain Management:Challanges & Strategies                                                                                                            | One Week                | 13-17July,2020                    |Dr.B.R.AmbedkarNational Institute of Technology,Jalandhar                                |
-
+  1       | Dr.H.S Dhall       | Attended International Conference and Presented Paper on ,"Comaprison of Financial Performance of selected Mutual Funds of Private Sector sponsored AMC's and Public Sector sponsored AMC's|2 days           | 11th and 12th Novemver,2022 | Bhai Gurdas Institute of Engineering & Technology,Sangrur|                                                                                                | 3 Days          | 7-9 Dec 2020         | NPIU-IIMV                      |
+| 2       | Dr. H.S Dhall      | Presented Paper on , "How to create effective Power Point Presentation"                                                                                                                    | One Day         | 29th November, 2022         | Government Senior Secondary School, Koom Kalan|                    |
+| 3       | Prof. Mandeep      | Attended National Level Workshop on, "Insights on Publishing Multidisciplinary Edited & Authored Books with International Publishers"2                                                     | 5 Days          | 30 th - 31st July 2022      | Research Culture Society |                   
+| 4       | Prof. Mandeep      | Online attended International FDP at , "Igniting Young Researchers mind"                                                                                                                   | 7 Days          | 12th -18 Sept. 2020         | CT Group of Institutions, Shahpur Campus, Jalandhar                     |
+| 5       | Prof. Mandeep      | Presented Paper in International Conference titled , "National Strategy and Reforms for Digital financial inclusions                                                                       | One Day           | 10th March 2023         | CT University , Ludhiana.                         |
+| 6       | Dr. Kshma Kaushal  | Paper presented in National Seminar, titled ,"Features and Significance of National Education Policy 2020"                                                                                  | 1 day          |  24th September,2022            |   PG Dept. of Commerce and Managemnet , Guru Nanak Khalsa College for Women, Ludhiana.    |         
+| 7       | Dr. Prabhpreet Kaur|  Guest Lecture delivered on, "Emerging retail formats and strategies"                                                                                                       |  One day   |           |       Government School, Habowalbet                                     |
+|        |                   |                                                                                                                                            
 
 
 ## Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)  
@@ -102,27 +68,35 @@ TEQIP-III sponsored Student Development Program organized by Department of Busin
 
 ## Student's Corner  
 
-![CII -STUDENTCHAPTER](Images/CII.jpg)
-**Participating MBA Team in CII-Majestic Skill-Will-Lead at GNDEC, Ludhiana.**
+
+![SDT](Images/CS.jpg)
+
+![SDT]( Images/StartUp.jpg)
+
+**Business Start Up Programme organized by Department of Business Administration, Guru nanak Dev Engineering College, Ludhiana, for MBA students.**
+
+![SDT](Images/Avon.jpg)
+
+**Industrial Visit to Avon Cycles , Ludhiana on 27th October,2022 organized by Department of Business Administration for BBA Semester I**
+
+![SDT](Images/neva.jpg)
+
+**Industrial Visit to Neva Garmnets Ltd. Phagwara Road on November9, 2022organised by Department of Business Administration for MBA Semester I**
+
+![SDT](Images/CII.jpg)
+
+**Participants of other colleges and students of department of Business Administration MBA Team in CII Majestic Skill-Will-Lead at 2nd Edition at GNDEC, Ludhiana on 10-12 November ,2022**
+
+![SDT](Images/Deepawali1.jpeg)
+
+**Deepawali Diya Competition held in Department of Business Administration on October 20, 2022**
+
+![SDT]( Images/Deepawali2.jpeg)
 
 
-![aha](Images/SKILL.png)
-***Chief Guest Mr.Mahesh Munjal CEO Majestic Autos Ltd. along with Industry Experts & Principal Dr.Sehijpal Singh GNDEC, Ludhiana.***
+![SDT](Images/Langar.jpeg)
 
-![LMA](Images/LMA.jpg)
-***LMA-Student Form-Interactive Expert Talk held in GNDEC,Ludhiana.***
-
-![kamal](Images/Kamal.jfif)
-***Interactive Expert Talk by Dr.Kamal K.Jain  Professor, IIM Indore held in GNDEC,Ludhiana.***
-
-![road](Images/road.jpeg)
-***31st Road Safety Week Interactive Expert Talk by Sh.Rajan Sharma ACP Traffic Zone II Ludhiana held in GNDEC,Ludhiana.***
-
-![avon](Images/avon.jfif)
-***Industrial Visit at Avon Cycles Pvt.Ltd, Ludhiana.***
+**The students of Department of Business Administration organised the langar on November 7, 2022**
 
 
 
-#### Student's Achievements
-![ncc](Images/ncc.jpeg)
-***MBA student Harshveer Singh Sekhon  Roll No.2028024 won two (2) Gold and one (1) Bronze Medal in 25th National Road Cycling Championship.***
