@@ -1,0 +1,2 @@
+# Medical Camp
+ A medical camp for software industry located in knowledge park, STEP GNDEC Ludhiana was organized with Dr.Swati Khuarana. Over 60 employees of software’s incubates including Digi mantra labs, My Virtual teams n employees from STEP GNDEC were examined by Dr.Swati Khuarana. #Incubatee health # digimantra labs #myvirtualteams #step gndec

@@ -1,0 +1,2 @@
+# Visit of Guru Hargobind Sahib Public School
+Students of Shri Guru Hargobind Sahib Public Senior Secondary School, Gaispura, Ludhiana visited Science and Technology Entrepreneurs Park, Ludhiana. Students were given inputs regarding how to become entrepreneur. They were shown around the premises and Students interacted with budding Entrepreneurs who explained them nitty gritty of incubation.  

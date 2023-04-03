@@ -1,0 +1,2 @@
+# Visit of ME & Civil dept. of CTU
+Students of Mechanical & CIVIL department, CT University, Jagraon visited Science and Technology Entrepreneurs Park, Ludhiana. Students were given inputs regarding how to become entrepreneur. They were shown around the premises and Students interacted with budding Entrepreneurs who explained them nitty gritty of incubation.

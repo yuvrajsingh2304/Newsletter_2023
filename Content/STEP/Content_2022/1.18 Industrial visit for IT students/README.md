@@ -1,0 +1,2 @@
+# Industrial visit for IT students.
+Science & Technology Entrepreneurs Park Guru Nanak Dev Engineering College Organized Industrial Visit for IT Students. It gives good option to interact with workers/managers and understand their industry. This will be very useful for students who wish to take up similar career. We would like to Thanks to Mr. Vinod Arya sir & Mr. Madhav sir & entire your team for your kind gesture, allowing us to visit your IT Company (Xenon stake) Mohali CHD on 2nd April, 2022.

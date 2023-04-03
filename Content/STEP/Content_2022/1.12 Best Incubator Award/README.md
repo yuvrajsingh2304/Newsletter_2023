@@ -1,0 +1,2 @@
+# Best Incubator Award
+Team STEP GNDEC - TBI is proud recipient of BEST INCUBATOR AWARD at Indian innovation and startups award 2022 organized by Mentox and Shardha University at Greater Noida. Each members & stake holders’ contribution is highly appreciated.
