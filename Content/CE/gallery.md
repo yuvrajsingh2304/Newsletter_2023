@@ -2,20 +2,17 @@
 
 | [Events Organied](ACES.md) | [Gallery](gallery.md) | [ACES Website](https://gndecaces.wordpress.com/) |
 
-![aces](Images/GD.JPG)
 
-![aces](Images/GDD.JPG)
+![aces](Images/Sanrachna1.jpeg)
 
-![aces](Images/GH1.JPG)
+![aces](Images/Sanrachna2.jpeg)
 
-![aces](Images/GH2.JPG)
+![aces](Images/Sanrachna3.jpeg)
 
-![aces](Images/GH3.JPG)
+![aces](Images/Sanrachna4.jpeg)
 
-![aces](Images/INV.JPG)
+![aces](Images/Technoplot1.jpeg)
 
-![aces](Images/FREECAD.jpg)
+![aces](Images/Technoplot2.jpeg)
 
-![aces](Images/FAREWELL.JPG)
 
-![aces](Images/BRIDGE.jpg)
