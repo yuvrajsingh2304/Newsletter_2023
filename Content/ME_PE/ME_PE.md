@@ -107,8 +107,7 @@ It is great that institute is publishing the information regarding the academic 
 
 | Sr. No. | Name of Faculty          | Name of Event                                                                       | Date(s)                | Organizing Institute                                                           |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
-| 1       | Amrinder Singh Pannu    | Outcome Based Assessment                                                   | 31-01-2022 to 04-02-2022   | National Institute of Technical Teachers Training and Research, Bhopal
-                                                                    |
+| 1       | Amrinder Singh Pannu    | Outcome Based Assessment                                                   | 31-01-2022 to 04-02-2022   | National Institute of Technical Teachers Training and Research, Bhopal                                                                    |
 | 2       | Amrinder Singh Pannu  | Metal Additive Manufacturing (MAM)                                                   | December 12 - 17, 2022    | Dr. B.R. Ambedkar National Institute of Technology Jalandhar, Punjab
                                                                     
 ## Events Organized
