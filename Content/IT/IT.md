@@ -12,7 +12,7 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
 ## Department at Glimpse
 
-  IT department is NBA Accrediated since 2008. This year again **It department got the NBA Accrediation till June, 2025**.
+  IT department is NBA Accrediated since 2008. This year again **IT department got the NBA Accrediation till June, 2025**.
 
 
   ![HSR](Images/NBA.jpg)
@@ -20,30 +20,29 @@ The Department of Information Technology (DIT) imposes impact on both the urban 
 
 ## Faculty Achievements  
 
-- ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant professor(IT), got Indian Society for Technical Education(ISTE) bEST Teacher award.
+- ![HSR](Images/pankaj.jpeg) Dr. Pankaj Bhambri, Assistant Professor(IT), got Indian Society for Technical Education(ISTE) Best Teacher award.
 
-- ![HSR](Images/kamra.jpg) Dr. Amit Kamra, Assistant professor(IT), translated the Swayam course "Chemical Reaction Engineering-1" in Punjabi language.
+- ![HSR](Images/kamra.jpg) Dr. Amit Kamra, Assistant Professor(IT), translated the Swayam course "Chemical Reaction Engineering-1" in Punjabi language.
 
-- ![HSR](Images/Bagga.jpg) Pf. Sachin Bagga, Assistant professor(IT), got	badge as a AWS Academy Educator.
+- ![HSR](Images/bagga.jpg) Pf. Sachin Bagga, Assistant Professor(IT), got	badge as a AWS Academy Educator.
  
-  ![HSR](Images/aws.jpeg)
   
 
 ## Publications  
 
-- S. Jain and K. Malik,“Bone Age Estimation using Machine Learning Algorithms: A Review and Open Research Challenges,” 9th International Conference on Advance Research and Innovation - 2022, Mar. 2022.
+- **S. Jain** and K. Malik,“Bone Age Estimation using Machine Learning Algorithms: A Review and Open Research Challenges,” 9th International Conference on Advance Research and Innovation - 2022, Mar. 2022.
 
-- S. Jain and K. Malik, “Pre-Processing Methods of Bone Age Estimation: A Review and Open Research Challenges,” 5th International Conference on Current trends in Engineering Sciences and Management, May 2022. 
+- **S. Jain** and K. Malik, “Pre-Processing Methods of Bone Age Estimation: A Review and Open Research Challenges,” 5th International Conference on Current trends in Engineering Sciences and Management, May 2022. 
 
-- S. Kumar Singla, “MDA and MDG Importance Measures of Random Forest for the selection of optimal parameters to predict the crop yield,” International Conference on Advance Trends in Computational Mathematics and Operations Research (ICCMSO-2022), Apr. 2022. 
+- **S. Kumar Singla**, “MDA and MDG Importance Measures of Random Forest for the selection of optimal parameters to predict the crop yield,” International Conference on Advance Trends in Computational Mathematics and Operations Research (ICCMSO-2022), Apr. 2022. 
 
-- R.  Kaur, R. Kumar, and S. Rani , “Piezoelectric materials in sensors: Bibliometric and visualization analysis,” Internal Conference on Material science and Sustainable Manufacturing Technology, May 2022. 
+- **R.  Kaur**, R. Kumar, and S. Rani , “Piezoelectric materials in sensors: Bibliometric and visualization analysis,” Internal Conference on Material science and Sustainable Manufacturing Technology, May 2022. 
 
-- M. Kaur Kang, “Bibliographic Survey of Wheat Research in India,” 9TH INTERNATIONAL CONFERENCE ON ADVANCE RESEARCH AND INNOVATION, Mar. 2022. 
+- **M. Kaur Kang**, “Bibliographic Survey of Wheat Research in India,” 9TH INTERNATIONAL CONFERENCE ON ADVANCE RESEARCH AND INNOVATION, Mar. 2022. 
 
-- Bhambri, P., ritu. (2022). A CAD System for Software Effort Estimation.  2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS). 
+- **Bhambri, P.**, ritu. (2022). A CAD System for Software Effort Estimation.  2022 2nd International Conference on Technological Advancements in Computational Sciences (ICTACS). 
 
-- BHAMBRI, P., SINGH, M., SINGH DHANOA, I; KUMAR, M. (2022). Deployment of ROBOT for HVAC Duct and Disaster Management. Oriental Journal of Computer Science and Technology. 
+- **Bhambri, P.**, SINGH, M., SINGH DHANOA, I; KUMAR, M. (2022). Deployment of ROBOT for HVAC Duct and Disaster Management. Oriental Journal of Computer Science and Technology. 
 
 
 
@@ -85,9 +84,8 @@ The ITIAN Club is a technology based club created in 2021. The club is open to a
 The Association for Computing Machinery (ACM) is a US-based international learned society for computing. It was founded in 1947 and is the world's largest scientific and educational computing society. The ACM is a non-profit professional membership group,claiming nearly 100,000 student and professional members as of 2019. Its headquarters are in New York City.
 
  ![HSR](Images/ACM.jpg)
- 
 
- ## Placements
+## Placements
 
 | Sr. No. | Name of Student     | Company      | Package |
 |:--------|:-----------------|:---------|:---------|
