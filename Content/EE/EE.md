@@ -19,29 +19,34 @@ Associate Professor and H.O.D.
 
 An industrial visit to NPTI (National Power Training Institute), Nagal by Electrical Engineering Department was organized for Third year Students. Around 85 students visited the Institute with EED faculty.Er. Saurabh Mahajan, Assistant Director of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The students were shown Simulator for the nearby Plant and experienced the practical application of the subjects, they studied in the college.
 
-![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://user-images.githubusercontent.com/78653670/229034108-47237ec3-faec-4e3a-8d7f-07dbee866a8e.jpeg)
+![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://user-images.githubusercontent.com/78653670/229406985-b9a75861-0307-4af6-9f95-2d27250ba3bf.jpeg)   
 **Pf. Samreet Kaur, Pf.Arshdeep Kaur and Pf. Puneet** along with Third year students at National Power Training Institute(NPTI)
 
 **Workshop on Virtual Reality and artificially intelligence: perspective for industry 4.0**
 
 A workshop was organised by E2S2 society of Electrical Engineering Department on 18th December 2022. The session was conducted by Er. Anubhi Khandewal (CEO, Terrafac Technology ).She explained the importance of VR and AI in industry. Students showed keen interest in the workshop. They were highly impressed with the hand on session by M/S TERRAFAC Technologies.
-![VR](https://user-images.githubusercontent.com/78653670/229035109-90963617-f249-4303-b545-5ffa839de9fa.jpeg)
 
-**Industrial Visit to SLDC , Patiala** :
-![SLDC](https://user-images.githubusercontent.com/78653670/229035715-815ab44a-d3ef-4327-8282-4b88b106e8e6.jpeg)
-**Pf.Arshdeep Kaur, Pf.Sukhpal Singh and Pf. Puneet** along with Second year students at SLDC , Patiala.
+![VR](https://user-images.githubusercontent.com/78653670/229407165-98626c21-235e-4cb9-bb68-011d5fd2bdd2.jpeg)
+
+**Industrial Visit to SLDC , Patiala**
+
+
+
+![SLDC](https://user-images.githubusercontent.com/78653670/229407219-224a734b-0628-4d97-8846-b09308ba7f36.jpeg)
+ 
+ **Pf.Arshdeep Kaur, Pf.Sukhpal Singh and Pf. Puneet** along with Second year students at SLDC , Patiala.
 
 **Glimpses of Teacher’s day celebration organised by Students of Electrical Engineering Department  on 5th of september,2022.**
-![teacher day](https://user-images.githubusercontent.com/78653670/229036217-3087a4b0-2797-4124-ad35-f16e3cb3ecea.jpeg)
+![teacher day](https://user-images.githubusercontent.com/78653670/229407810-2e518b77-515e-40b6-9dbd-38b9abfbbf68.jpeg)
 
 **Dr Arvind Dhingra and Mentor’s of First Year Students ** Welcomed first year student of Electrical Engineering department.**
-![mentor](https://user-images.githubusercontent.com/78653670/229036728-b367449f-61e3-4073-bfad-5fc69f0fd8c4.jpeg)
+![mentor](https://user-images.githubusercontent.com/78653670/229407912-f8398d9d-6af1-400c-b26d-82cf971eeabc.jpeg)
 
 **Organised expert lecture delivered by wonder automation training division on Industrial Drives and its usage on 30th November 2022**
-![automation](https://user-images.githubusercontent.com/78653670/229036928-355f4fe9-f88c-4e6f-96d6-597f194dbd06.jpeg)
+![automation](https://user-images.githubusercontent.com/78653670/229407994-6d3bd5c2-9b1f-4c71-96f6-18962694b6f5.jpeg)
 
 **Organised an expert lecture on power system deregulation on 6th September 2022**
-![PS der](https://user-images.githubusercontent.com/78653670/229037195-43e887df-80c2-45e9-8c91-4954d0436f15.jpeg)
+![PS der](https://user-images.githubusercontent.com/78653670/229408035-77f32fa3-a95c-4af1-be4b-fcd036808e22.jpeg)
 
 
 
@@ -175,14 +180,18 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 
 ![project](Images/PRJ.jpeg)
 
- **Sukhchain Singh** (D3EE) made project "**2 meter waring system** for staff who is on COVID -19 Government Duty under the guidance of **Pf. Gagandeep Singh Sodhi**
-![Aeman](https://user-images.githubusercontent.com/78653670/229044387-5b525734-42f8-4020-812d-5d47789bd00b.jpeg)
+**Sukhchain Singh** (D3EE) made project "**2 meter waring system** for staff who is on COVID -19 Government Duty under the guidance of **Pf. Gagandeep Singh Sodhi**
+
+![Aeman](https://user-images.githubusercontent.com/78653670/229408648-dfd013b0-e1c9-4651-a7c3-f307dc7d2ce8.jpeg)
+
 **Amempreet Singh, Daswinder Singh, Armaan Ali and Kaveesh Arora** (D4EE) made project ** A Self Balancing electric scooter ** under the guidance of **Dr.Arvind Dhingra**
 
-![project](Images/PROJECT1.jpeg)
+![scooter](https://user-images.githubusercontent.com/78653670/229408914-431cbccf-7fa5-4b30-b463-7abf2452fb0e.jpeg)
+
 **Arunjot, Rajat Tiyagi, Riaz Mohammad, Mayank Bakshi, Sukhpreet Singh, Puneet Singh** (D4EE) made project on **Electric Vehicle** under the guidance of **Pf. Kuldeep Singh and Pf. Baljeet Singh**
 
-![project](Images/PROJECT2.jpeg)
+![project o](https://user-images.githubusercontent.com/78653670/229409104-94bb6193-e7c2-48d5-b8f0-497f15c2904c.jpeg)
+
 **Simran Kaur Rajpal and Tania Sharma** post graduate students worked on smart grid project and got first prize at NITTTR Chandigarh under the guidance of **Pf.Kanwardeep Singh**
 ### Student's Achievements
 
@@ -192,7 +201,8 @@ Project filed for Patent in December 2020.
  made the project "Sky Robot" under the guidance of **Dr. Arvind Dhingra** .This robot is to help maintain a vigil against unwanted intruders. The robot is so designed so as to work effectively during day and night with same efficiency. The robot is capable of sending an alarm in case of any unwanted activity. This will help our soldiers guarding our borders to maintain effective vigil.
 
 - **Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
-  ![project](Images/ADK.jpg)
+![ADK](https://user-images.githubusercontent.com/78653670/229409567-9e887350-d9a6-43c1-a0d7-7d626c295186.jpg)
+  
   **Project: Palace Power Saver**
 
 ### Electrical Engineering Staff and Students (E2S2)
@@ -207,17 +217,18 @@ Project filed for Patent in December 2020.
   
   - Organised online quiz " **MIND MANTRA** " Coordinated by Dr.Arvind Dhingra, Pf.Gagandeep Kaur Gill and Pf.Amandeep Singh on July 2020.
 
-  - Organised event **Charter’s Day**on 8th of september,2021.
+  - Organised event **Charter’s Day** on 8th of september,2021.
 
-  ![Event](Images/11.jpeg)
+  ![11](https://user-images.githubusercontent.com/78653670/229409723-e9434021-1967-45f3-86e0-d6aaa4d159f2.jpeg)
 
  **Dr Arvind Dhingra** guided students for their career.
 
   - Organized Competition **Circuit Designing Using Simulation** on 15th September 2021 where Dr.Arvind Dhingra, Pf.Samreet Kaur and Pf.Arshdeep Kaur were judges in the event.
 
-   ![Event](Images/12.jpeg)
+   ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
 
-   ![Event](Images/13.jpeg)
+   ![13](https://user-images.githubusercontent.com/78653670/229410027-c3ebfbb1-2fca-447a-ad11-84b1d5a6fc5e.jpeg)
+
 **Deepak Kumar** of Electrical Engineering Department won First prize 2nd year.
 
 
