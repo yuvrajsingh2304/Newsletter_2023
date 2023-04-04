@@ -12,7 +12,7 @@ The Sports department works on promotion of personal and professional developmen
 
 ## Sport's Committee
 
-![1](Images/Committee.JPG)
+![1](Images/Committee.jpg)
 
 ## Sport's Department at Glimpse
 
