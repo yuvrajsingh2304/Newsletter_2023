@@ -51,9 +51,9 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 
 ## Conference Organized 
 
-| Sr. No. | Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
-|:------- |:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
-| 1       | Sustainable Concrete Infrastructure (UKIERI) |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
+| Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
+|:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
+| UKIERI Concrete Congree - Sustainable Concrete Infrastructure |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
 
 ## Events Organized by ACES
 
@@ -91,7 +91,6 @@ Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIER
 
 ### Students' Achievements
 
-</p align=justify>
 
 A group of 6 students went to CSIR-IIT Roorkee for their 6 months Industrial Training. The details are as given below:
 

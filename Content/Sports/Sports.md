@@ -12,42 +12,35 @@ The Sports department works on promotion of personal and professional developmen
 
 ## Sport's Committee
 
-![1](Images/Committee.jpg)
+![1](Images/Committee.JPG)
 
 ## Sport's Department at Glimpse
 
+- [Athletic Meet 2023](Meet.md)
 - [Infrastructure](Infra.md)
 - [Intra-murals](Intra.md)
 - [Extra-murals](Extra.md)
 
 ## News
 
-![News](Images/News/14.jpeg)
+![News](Images/News/1.jpg)
 
+![News](Images/News/2.jpg)
+
+![News](Images/News/3.jpg)
+
+![News](Images/News/4.jpg)
 
 ## Events Organized   
 
-
 | Sr. No. | Name of Event                                             | Faculty Coordinator           | Duration | Date(s)               | Sponsor(s) |
 |:--------|:---------------------------------------------------------------|:------------------------------|:---------|:----------------------|:-----------|
-| 1.       | GNE Female Staff Cricket Tournament| Dr Gunjan Bhardwaj & S.Suminder Singh | 1day | 30th March, 2021  | Sports Fund |
-| 2.       | GNE Teaching Male Staff Cricket Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh |1 day  | 31th March, 2021  | Sports fund |
-|3.         | GNE Teaching Male Staff Cricket Tournament|  S.Suminder Singh | One Day |1st April, 2021  |Sports Fund |
-|4.        | 15Km Cycling From GNE to KAIND PUll and back | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |7th April, 2021  | Sports Fund|
-|4.        | International Yoga Day | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |21th June, 2021  | Punjab Runners |
-|5.         |GNE Inter-year Football League Tournament  | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |28th to 30th September, 2021  |Sports Fund|
-|6.         |GNE Inter-year Basketball League Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |4th to 6th October, 2021  | Sports Fund |
-|7.         |GNE Inter-year Badminton League | Dr Gunjan Bhardwaj | Two Day |10th to 11th November, 2021  |Sports fund |
-|8.         |GNE Faculty V/S TIET, Patiala Cricket Match | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |14th November, 2021  |Sports fund |
-|9.         |"GPL"GNE PREMIER CRICKET LEAGUE| Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |19th to 21th November, 2021  |Sports fund |
-|10.         |GNE Inter-year Football Knockout Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |23rd to 25th November, 2021  |Sports fund |
-|11.         |GNE Inter-year Volleyball League |  S.Suminder Singh | Three Day |30th to 2th December, 2021  |Sports fund |
-|12.         |GNE Inter-year Basketball League Tournament | Dr Gunjan Bhardwaj | Two Day |1st to 2nd December, 2021  |Sports fund |
-
-
-
-## Infrastructure Upgradation
-
--  New Boys Gymnasium on ground floor of Sports Complex  
-
-- Purchase of 1.5 Ton Tandem Cricket Pitch Roller
+| 1.| International Yoga Day | Dr Gunjan Bhardwaj & S.Suminder Singh | One Day |21th June, 2022  |College FUND |
+| 2.| NON-TEACHING STAFF FITNESS CLASS | Dr Gunjan Bhardwaj | One Day |10th August, 2022  |College FUND |
+| 3.|GNE Inter-year Badminton League Tournament  | Dr Gunjan Bhardwaj | Two Day | 3rd  to 4th October, 2022  |Sports Fund|
+|4.|GNE Inter-year Volleyball League Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |10th to 12th October, 2022  | Sports Fund |
+|5.|PTU Inter-college Cycling Competition | Dr Gunjan Bhardwaj | One Day | 15th October, 2022  |IKGPTU fund |
+|6.   |"GPL"GNE PREMIER CRICKET LEAGUE| Dr Gunjan Bhardwaj & S.Suminder Singh | Six Day |4th to 9th November, 2022  |Sports fund |
+|7.  |GNE Inter-year Football Knockout Tournament | Dr Gunjan Bhardwaj & S.Suminder Singh | Three Day |9th  to 11th November, 2022  |Sports fund |
+|8.   |62nd Annual Athletic Meet|  Dr. Gunjan Bhardwaj & S.Suminder Singh | Two Day |2nd  to 3rd March, 2023  |Sports fund |
+|9.   |PTU Inter-college Zonal Cricket Tournament | Dr Gunjan Bhardwaj & S. Suminder Singh| Eight Day |20th Feb.203 to 4th  March, 2023  |IKGPTU fund |
