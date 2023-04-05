@@ -10,7 +10,7 @@
 Department of Applied Science is a multidisciplinary department and it is functioning with a team of dedicated faculty members who have been actively engaged in imparting quality teaching of the courses in basic science and humanities for graduating engineering students. The core courses offered being Physics, Chemistry, Mathematics, English and Principles of Engineering Economics and Management. Apart from these undergraduate courses, various other research activities are also going in these disciplines. Currently the department is having research scholars in various subjects. Committed minds are always welcome to join hands to build a strong dynamic and wholesome department. It is an endeavor of this department, so that students find applications of science to everyday life, moral and social understanding. 
  </p>
 
-*Dr. Harpreet Kaur Grewal*
+**Dr. Harpreet Kaur Grewal**
 
 HOD, Applied Science Department
 # Department at a Glimpse
@@ -41,18 +41,29 @@ HOD, Applied Science Department
  |Red Mic Grren Mic|30th November,2022|Dr. Rajvir Kaur|Live Wire club|
  |Fast and curious|8th december,2022|Dr. randhir Singh & Dr. rajvir Kaur|Causmic Club|
  |Power Point Presentation|13th December 2022|Pf. Nisha and Pf. Jasmine kaur|English Club|
+ |Poetry Competion- English, Punjabi and Hindi|9th Februry,2023|Dr. Rajvir kaur|Causmic Club|
  |Caption Contest|28th February,2023|Pf Nisha & Pf. Jasmine Kaur|English Club|
+ |Caption Writing Contest on the topic"Global Warming"|28th Februry,2023|Aadit|N/A|
  |Declamation Competition|28th February,2023|Pf Nisha & Pf. Jasmine kaur|English Club|
  |Poster Making Competition|28th February,2023|Dr. Rajvir Kaur|Causmic Club|
 
  ## Snipetts of Departmental activities  
  
  <img src="images/dept activities collage.jpeg" height="400">
+ </br>
+ <img src="images/1. Causmic Club.png" height="200">
+ </br>
+ <img src="images/3. livewire.png" height="200">
+ </br>
+ <img src="images/2 causmic club 1 (1).png" height="200">
+
  
 
 
  ## GNE's APEX 2022
  The event GNE’S APEX 2022 was part of 66th Foundation Day celebrations of ‘Guru Nanak Dev Engineering College, Ludhiana’. The event was organised by Department of Applied Sciences was solely managed by students of B. Tech. 1st year (Batch 2021-2025). In this event, students from 21 schools of the state participated in activities like ‘Graffiti, Reel Formation, Colourful Expression, Poetry Composition & Recitation, Mime, G.K. Quiz, Sufi Singing, Young Entrepreneurs, Technovation. In addition to these activities, APEX Fair and Science in Motion were other attractions of the event.
+</br>
+</br>
 <img src="images/apex.jpeg" height="200">
 
 ## Teej Festival organised on 9th August,2022.
@@ -60,12 +71,10 @@ GNDEC, Dept.of Applied Sciences in collaboration with English Club celebrated Te
 Speaking on the ocassion, HOD, Dept. of Applied Sciences, Dr. Harpreet Kaur Grewal acquainted one and all with the lasting effect of punjabi culture.
 Dr. Sandeep kaur Gill, Asst. Professor of Mathematics was crowned as "Teej Queen" on this occassion Teej delicacy 'Kheer Pua' was also distributed among the gathering. The function ended with a vote of thanks proposed by HOD.
 
-
-
-
-
+</br>
 <img src="images/teej collage 2.jpeg" height="400" width="300">
-
+</br>
+</br>
 
 # Induction Programme 2022
  GENCO-RAW, an orientation program for the newly admitted students of Guru Nanak Dev Engineering College, Ludhiana, was organised by Dr. Amanpreet Kaur Sodhi. It was a 10 day programme which commenced on 19th September,2022.
@@ -73,30 +82,28 @@ Dr. Sandeep kaur Gill, Asst. Professor of Mathematics was crowned as "Teej Queen
  * Dr. Jaswant Singh and Dr. Kulwinder Singh Maan gave a detailed description of the Cultural Committee and 90.8 FM. Radio Community Respectively.
  * There was an interactive session by Shiksha Ratan, Dr. Jaswinder  Singh on physics and mathematics pillars of society. The event followed with Mr Davinder Singh Nagi, Calligraphy Artist's interactive session about the importance of Punjabi Language.
  * On the last day of Induction Programme Pf. Jasmine kaur and Pf Nisha organised a quiz activity on Quantitative aptitude for the B.tech first year students.It ended on a very positive note with the floral honor of the guests.
+ </br>
+
  ## Snippets Of the Induction Programme
+ </br>
  <img src="images/induction collage.jpeg" height="400">
  
 
 
+</br>
 
  # Extension Lectures and workshops, SDP's organised
+ </br>
+
  * Pf. Jasmine Kaur organised an extension lecture on the topic "Ukraine- Russia war and its imapct on Indian economy". Pf. Gurmeet Singh was the resource person.
+</br>
 
  <img src="images/u-r war collage.jpeg" height="400">
-  
-
-
-
+</br>
+</br>
 
  * Pf Sukhjovan Singh gill conducted workshop on LaTEx software in May 2022 for staff and students of the college.
-
-
-
- * To celebrate 75th Azadi ka Amrit Mahautsav , an
-initiative of the Government of India to
-commemorate 75 years of progressive India.
-
-
+</br>
 
 * Department of Applied Sciences organised a Public
 Speaking Workshop to boost confidence & enhance
@@ -110,31 +117,53 @@ language in the first round. In the second round
 they had to speak about the same topic in English
 language. They were judged by judges and
 observers on the basis of their speaking skills, body language.
-
-
+</br>
+</br>
 <img src="images/public workshop collage.jpeg" height="400">
- 
- * SDP for non-teaching staff was organised from 24th August,2022- 30st August, 2022. It was based on communication skills, life skills and quantitative aptitude. The Programme was Coordinated by Dr. Randhir Singh.
 
+ </br>
+
+ * SDP for non-teaching staff was organised from 24th August,2022- 30st August, 2022. It was based on communication skills, life skills and quantitative aptitude. The Programme was Coordinated by Dr. Randhir Singh.
+ 
+ </br>
 
  <img src="images/nt collage.jpeg" height="400">
 
- * Dr. Rajvir Kaur Conducted One day event on Extension Lecture on “Role of Nutrition in The Mental Well-being of Students” by Dr. Harshinder Kaur (Eminent Social Worker & Role Model) under the Aegies of AICTE-SPICES organized by Causmic Club, Department of Applied Sciences, Guru Nanak Dev Engineering College, Ludhiana on 20th September, 2022.
- * The event entitiled "Workshop on English Grammar", was organised by the English Club (Department of Applied Sciences) from Dec. 5, 2022 to Dec. 9 2022. It was conducted by Pf. Manjot Kaur and Pf. Harpreet Kaur under, the supervision of Dr. Harpreet Kaur Grewal (HOD of Applied Sciences) and Pf. Puneet Narang, wherein, Pf. Harpreet Kaur led the group in the morning from 10 A.M to 12:30 P.M in TCC Hall, and Pf. Manjot Kaur took the evening session from 3:00 P.M to 4:30 P.M in English lab.
+</br>
 
+ * Dr. Rajvir Kaur Conducted One day event on Extension Lecture on “Role of Nutrition in The Mental Well-being of Students” by Dr. Harshinder Kaur (Eminent Social Worker & Role Model) under the Aegies of AICTE-SPICES organized by Causmic Club, Department of Applied Sciences, Guru Nanak Dev Engineering College, Ludhiana on 20th September, 2022.
+ </br>
+
+ * The event entitiled "Workshop on English Grammar", was organised by the English Club (Department of Applied Sciences) from Dec. 5, 2022 to Dec. 9 2022. It was conducted by Pf. Manjot Kaur and Pf. Harpreet Kaur under, the supervision of Dr. Harpreet Kaur Grewal (HOD of Applied Sciences) and Pf. Puneet Narang, wherein, Pf. Harpreet Kaur led the group in the morning from 10 A.M to 12:30 P.M in TCC Hall, and Pf. Manjot Kaur took the evening session from 3:00 P.M to 4:30 P.M in English lab.
+</br>
 
  <img src="images/english workshop.jpeg" height="200">
+ </br>
 
+* An Interactive session on International women day by ‘Rupinder Sra, Superintendent of Police, CM Medal Awardee’ was organised by Dr. Rajvir Kaur on 9th March,2023.
+</br>
 
  # Teacher's Day Celebration
+
+ </br>
+
  Teacher's Day is dedicated to Dr. Sarvepalli Radhakrishnan-second President of India. A celebration conducted at our depafrtment by our students on 5th September,2022. The coordinator of the event was Pf. Nisha , Dr. Gagandeep Kaur Lottey, Dr. Rajvir Kaur and Pf. Jasmine Kaur. We decided that, the responsibility of teaching is taken up the students as an appreciation for their teachers.
+ </br>
 
 
 <img src="images/Teacher's day.jpeg" height="200">
+</br>
 
 # GNE'S ACME 2023
+
+</br>
+
 Causmic Club at Guru Nanak Dev Engineering College Ludhiana organised Intercollege multi- event competition on 14/03/2023.  The Event was Coordinated by Dr. Randhir Singh and Co-Coordinated by Pf. Nisha and Pf. Jasmine Kaur Students of various colleges from and around the city participated in these competitive events. Dr Sehijpal Singh, Principal GNDEC Ludhiana extended warm welcome to all participants and other esteemed guests. Mr Deepak Sharma Chanarthal was the chief guest of the day. He motivated students to feel proud of their mother tongue and asked them to promote Punjabi language along with learning other languages. He inspired them to always stay focused on their goals and to participate in such competitive events to learn leadership and team spirit qualities, which are must to excel in every field of life. Mr. Inderpal Singh, Director NSET, was also present on the occasion. He addressed the audience and stressed on the holistic growth of the students.
-## **Snippets of The ACME**
+</br>
+
+## Snippets of The ACME
+</br>
+
 <img src="images/acme collage.jpeg" height="300">
 
 
@@ -147,43 +176,75 @@ Causmic Club at Guru Nanak Dev Engineering College Ludhiana organised Intercolle
 
 
  # Students' Achievements
+ </br>
+
  ## Topper Of B.Tech First Year 2022
+
+ </br>
+
  Sangam Arora of CSE, URN: 2104181, CRN: 2115127 was the Topper of first year. He scored 9.9 sgpa in first semester and 9.57 in second semester.
+
+ </br>
+
  <img src="images/sangam 2.jpg" height="200">
+</br>
+
 
  * Sangam Arora of CSE Won third prize in Inter- College competition which was organised by MCM DAV College, Chandigarh on 10th February, 2022. The topic of PPT was Budget 2022. The students were required to upload the file on google form in which they had to upload only 10 slides. It was a national level competition, in which students from different parts of the country participated.
+
+ </br>
+
   <img src="images/sangam.jpeg" height="200">
 
+</br>
 
 
   * Punjabi University Patiala organised an inter college Scienece Quiz on 27th February,2022 in which a team of 3 students of CSE i.e. Gurdev Singh, Raghavjit and Ekuspreet Singh won Third Prize.
+  </br>
+
   <img src="images/Pbi collage.jpeg" height="400">
-  
+
+  </br>
  
 
  
  
  * Khalsa College of Engineering and Technology conducted Tech Urja on 12th May, 2022 in which Pratham scored third Prize in electronic poster making, Harsimran Singh scored first prize in Project Display, Aryan Garg scored first prize in preparation of mocktails, Sidhh Chhabra scored first position in Tech reels, Saksham Kohli scored first position in Quizpedia, Shikha scored third position in Rangoli competition, Somya Aggarwal scored first position in Towel Art, Ranbir Singh Scored first position in chit chat with biz ideas, Raghavjit scored first position in Quizpedia. 
 
+</br>
 
  <img src="images/kc amritsar.jpeg" height="400">
+
+ </br>
  
- >
 
  * An Inter College Science Competition was held at GGN Khalsa College, Civil lines on 14th October, 2022 in which first prize was bagged by Nitin of Mechanical in Sudoko, second prize was bagged by Rudraksh of mechanical in working model. Students won second prize in Rangoli competition and third prize in poster presentation.
- <img src="images/GGN khalsa.jpeg">
 
+ </br>
+
+ <img src="images/GGN khalsa.jpeg" height="200">
+
+</br>
 
 
  * Guru Nanak Khalsa College for Womem, Gujarkhan Campus, Model Town, Ludhiana organised an inter college multiple competitions on 11th March 2023. Ekuspreet Singh of CSE secured first position in declamation. First position was also secured by Gursimran kaur of CSe in file decoration.
- Inderpreet Singh from CSE bagged second Prize in Logo designing. Simarpreet, Sukhman and Tavleen of CSE bagged Third Prize in Ad-Mad Show. Gursharan Kaur of CSE bagged third prize in pot painting. Vanshika verma and Somya Aggarwal bagged third prize in puzzle of cyber security. 
+ Inderpreet Singh from CSE bagged second Prize in Logo designing. Simarpreet, Sukhman and Tavleen of CSE bagged Third Prize in Ad-Mad Show. Gursharan Kaur of CSE bagged third prize in pot painting. Vanshika verma and Somya Aggarwal bagged third prize in puzzle of cyber security.
+
+ </br> 
+
  <img src="images/collage.jpeg" height="400">
  
 
 
+</br>
 
  * Navkirat Singh of CSE won first prize in Problem Solving Competition at Thapar Maths Competition which was held on 26th March, 2023.
+
+ </br>
+
  <img src="images/Navkiart singh.jpeg" height="200">
+
+</br>
 
  # Events Attented (FDP's//STCs/SDTs/Conferences/Workshops/webinars etc.)
  |Sr.no|Name of Faculty|Name of Event|Duration|Date(s)|Organising Institute|Online/offline mode|
@@ -257,7 +318,7 @@ and technology”3,8,ISSN,No2454-695X IF,5.924 ,2022(Scopus)
 structural integrity and life (Scopus)
 * Published a research paper Evaluation of thermal stresses in transversely isotropic piezoelectric disc
 with rotation and internal pressure, structural integrity and life 2022(Scopus)
-* Published”Propagation of SH-waves in two layered piezoelectric/fiber- reinforced composite plate”
+* Published "Propagation of SH-waves in two layered piezoelectric/fiber- reinforced composite plate”
 (Scopus), 2022 IOP Publishing Morressier Berlin
 * Published a research paper- Thermal and mechanical interactions in fractional order microstretch
 thermoelastic half space,”J of mathematical problems, equations and statistics ISSN 2709-9393,V-3
