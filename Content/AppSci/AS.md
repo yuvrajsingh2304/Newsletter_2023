@@ -17,8 +17,11 @@ HOD, Applied Science Department
 
  <p align=justify>
  This department was established in the year 1957, whose role is to deliver excellent quality education in the subject of Applied Sciences and humanities for the future technocrats of all engineering streams. The department also endeavours to inculcate the scientific temper and the spirit of inquest in students. It inspires the students to realize and therefore apply the physical laws to the growth and development of their fields of study. We intensely think that an educational programme should be able to stimulate the development of a balanced and harmonious personality of the students. Hence, the educational program of GNDEC has been customised -to suit such necessities.
+</p>
+
  
  # Departmental Activities
+ 
  | Name of the Activity | Date |Faculty coordinator|CLUB|
  |----------------------| ----|--------------------|--------- |
  Caption writing Competition|19th January,2022|Pf. Nisha|English Club|
