@@ -66,7 +66,8 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 -----------------------------------------
 
 ### ECE Students during GNEAPEX on 8, Apr, 2022
-<div align = "justify">-Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
+
+-Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
 
 -Team Members:
 -Ali Ahmad Ansari
