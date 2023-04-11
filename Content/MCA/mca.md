@@ -48,11 +48,11 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 | 1       |  A One-day seminar on Drug De-addiction            | Prof. Jasbir Singh Saini and Prof. Dinesh Anand | 1 day | 09 December, 2022   | GNDEC |
 
 
-<div align="center">
-
 ![HSR](Images/seminar1.jpg)	 
-![HSR](Images/Seminar2.jpg)**<div align="center">Faculty and students attending the Seminar </div>**
-</div>
+
+![HSR](Images/Seminar2.jpg)  
+
+Faculty and students attending the Seminar 
 
 
 
@@ -70,21 +70,25 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 <p align=justify>
 Department of Computer Applications, GNDEC Ludhiana had organized an Industrial visit on 21 April,2022 to Nebero systems private limited located in Mohali, SAS nagar, Chandigarh. The visit was organized by HOD of Computer Applications, Prof. Jasbir Singh Saini and Programme coordinator Prof. Dinesh Anand.
 </p>
+
 <p align=justify>
 Prof. Kamalpreet Kaur and Prof. Gurjiwan Singh were the coordinator faculty of Industrial visit. Students of BCA 1st year, 2nd year and MCA 1st year along with two coordinators faculty were in the Journey.
 </p>
 
-<div align="center">
+
 
 ![HSR](Images/industrialtrip.jpeg)
-**<div align="center">Industrial Trip to Nebero Systems, Mohali</div>**
 
-</div>
+Industrial Trip to Nebero Systems
+
+
 
 ### Rangoli Competition
+
 <p align=justify>
 A rangoli competition in lieu of Diwali celebration was organized by the department of Computer Applications on 21/10/2022 for the students of BCA and MCA. Prof. Birpal Kaur and Prof. Amanpreet Kaur were the coordinator faculty for the event.
 </p>
+
 <p align=justify>
 Following are the Winners of the Competition:
 </p>
@@ -93,15 +97,13 @@ Following are the Winners of the Competition:
 - 2nd Prize- Jai Kaundal (BCA 3rd  year) and Mittali makkar(BCA 1st year)
 - 3rd Prize- Sukhpreet Kaur and Arshpreet Singh (MCA 1st year)
 
-<div align="center">
 
 ![HSR](Images/Rangoli1.jpg) 
 ![HSR](Images/Rangoli2.jpg)
 ![HSR](Images/Rangoli3.jpg) 
 ![HSR](Images/Rangoli4.jpg)
-</div>
 
-**<div align="center">Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners </div>**
+**Dr. Parminder Singh (Head, CSE) along with the faculty of Computer Applications giving away the prizes to the winners**
 
 
 ### Students' achievements
@@ -110,8 +112,6 @@ Following are the Winners of the Competition:
 #### **Sports Day 2022- Held on 8-9 March,2022**
 
 ***List of winners:***
-
-<div align="center">
 
 | Sr. No. | Name      | Roll No.   | Class | Event    | Prize    |
 |:--------|:----------|:-----------|:------|:---------|:---------|
@@ -122,9 +122,6 @@ Following are the Winners of the Competition:
 |5|Devinder Kumar|2191001|	BCA 1st	|1500 m race|	3rd| 
 |6|Girls	|	|	BCA & MCA |Tug of war	|1st|
 
-</div>
-
-<div align="center">
 
 ![HSR](Images/sports11.jpg) 
 ![HSR](Images/sports12.jpg)
@@ -133,16 +130,14 @@ Following are the Winners of the Competition:
 ![HSR](Images/sports16.jpg)
 ![HSR](Images/Sports13.jpg)
 
-**<div align="center"> Winners from Sports meet 2022 </div>**
-
-</div>
+ Winners from Sports meet 2022 
 
 
 #### **Sports Day 2023- Held on 2-3 March,2023**
 
 ***List of winners:***
 
-<div align="center">
+
 
 |S.No.|	Name                      |	Roll No.	|Class	|Event 	|Prize|
 |:--------|:----------|:-----------|:------|:---------|:---------|
@@ -153,23 +148,21 @@ Following are the Winners of the Competition:
 |5.	|Girls|	|BCA 1st	|4 X 400 Relay Race|	2nd|
 |6.	|Girls |			|BCA & MCA|Tug Of War	|1st|
 
-</div>
-
-<div align="center">
 
 ![HSR](Images/sports21.jpg)
 ![HSR](Images/sports24.jpeg)
 ![HSR](Images/sports23.jpg) 
 ![HSR](Images/sports22.jpg)
 ![HSR](Images/sports25.jpg)
-**<div align="center"> Winners from Sports meet 2023 </div>**
-</div>
+ 
+ Winners from Sports meet 2023 
+ 
 
 ### **Youth Festival**
 
 ***Positions held by students:***
 
-<div align="center">
+
 
 |S.No.|	Name                      |Class	|Event 	|Prize|
 |:--------|:----------      |:-----------|:------|:---------|
@@ -181,9 +174,10 @@ Following are the Winners of the Competition:
 |6.|Minaz	|BCA 1st	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
 |7.|Vikas Pal|	BCA 1st|	Mime (Zonal)|	1st|
 
-</div>
+
 
 ### Technical Events/Cultral Events
+
 |S.No.|Name of students |Class|Event|Organized by|Date|Prize|
 |---|----|---|-----|------|---|--|
 |1.|Surya Dev & Vishal|MCA 1st|Java Maestros(Coding using JAVA)|Tech Disha,Arya College, Ludhiana|16-02-23|2nd|
