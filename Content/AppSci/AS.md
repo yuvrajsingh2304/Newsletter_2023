@@ -77,7 +77,8 @@ Dr. Sandeep kaur Gill, Asst. Professor of Mathematics was crowned as "Teej Queen
 
 
 
-# Induction Programme 2022
+## Induction Programme 2022
+
  GENCO-RAW, an orientation program for the newly admitted students of Guru Nanak Dev Engineering College, Ludhiana, was organised by Dr. Amanpreet Kaur Sodhi. It was a 10 day programme which commenced on 19th September,2022.
  * It aimed at an open interaction between students and the speakers. A panel of 3 speakers, Mr. Jaswant Singh, Mr. Janmeja Singh Johal and Mr. Manjit Singh, formed by the proud alumni of the college, conducted the qna session, TABLE TALK. The topic for the same was “Ajj daa vidyaarthi”. Discussion around the topics like brain drain, careers, social life and academic life were conducted, and students got to learn a lot from the experienced guests. It ended on a very positive note with the floral honor of the guests.
  * Dr. Jaswant Singh and Dr. Kulwinder Singh Maan gave a detailed description of the Cultural Committee and 90.8 FM. Radio Community Respectively.
@@ -87,28 +88,24 @@ Dr. Sandeep kaur Gill, Asst. Professor of Mathematics was crowned as "Teej Queen
 
 ## Snippets Of the Induction Programme
  
- ![induction collage](https://user-images.githubusercontent.com/128128116/231372282-356c78f5-e246-4572-b1ce-4fd7d224eb1e.jpeg)
+ ![induction collage](https://user-images.githubusercontent.com/128128116/231372282-356c78f5-e246-4572-b1ce-4fd7d224eb1e.jpeg) 
 
+
+
+## Extension Lectures and workshops, SDP's organised
  
 
+- Pf. Jasmine Kaur organised an extension lecture on the topic "Ukraine- Russia war and its imapct on Indian economy". Pf. Gurmeet Singh was the resource person.
 
-
-# Extension Lectures and workshops, SDP's organised
- 
-
- * Pf. Jasmine Kaur organised an extension lecture on the topic "Ukraine- Russia war and its imapct on Indian economy". Pf. Gurmeet Singh was the resource person.
-</br>
 
  ![u-r war collage](https://user-images.githubusercontent.com/128128116/231372866-5ecd8fcb-3a0b-4ba6-90ce-d105d52f65b9.jpeg)
 
 
 
-
- * Pf Sukhjovan Singh gill conducted workshop on LaTEx software in May 2022 for staff and students of the college.
+- Pf Sukhjovan Singh gill conducted workshop on LaTEx software in May 2022 for staff and students of the college.
  
 
-* Department of Applied Sciences organised a Public
-Speaking Workshop to boost confidence & enhance
+- Department of Applied Sciences organised a Public Speaking Workshop to boost confidence & enhance
 public speaking skills of b.tech first year students on
 23 May,2022 at 2:30pm in TCC seminar hall. 21
 students from different branches participated in
@@ -124,8 +121,7 @@ observers on the basis of their speaking skills, body language.
 
 
 
-
- * SDP for non-teaching staff was organised from 24th August,2022- 30st August, 2022. It was based on communication skills, life skills and quantitative aptitude. The Programme was Coordinated by Dr. Randhir Singh.
+- SDP for non-teaching staff was organised from 24th August,2022- 30st August, 2022. It was based on communication skills, life skills and quantitative aptitude. The Programme was Coordinated by Dr. Randhir Singh.
  
  
 
@@ -133,32 +129,29 @@ observers on the basis of their speaking skills, body language.
 
 
 
-
- * Dr. Rajvir Kaur Conducted One day event on Extension Lecture on “Role of Nutrition in The Mental Well-being of Students” by Dr. Harshinder Kaur (Eminent Social Worker & Role Model) under the Aegies of AICTE-SPICES organized by Causmic Club, Department of Applied Sciences, Guru Nanak Dev Engineering College, Ludhiana on 20th September, 2022.
+- Dr. Rajvir Kaur Conducted One day event on Extension Lecture on “Role of Nutrition in The Mental Well-being of Students” by Dr. Harshinder Kaur (Eminent Social Worker & Role Model) under the Aegies of AICTE-SPICES organized by Causmic Club, Department of Applied Sciences, Guru Nanak Dev Engineering College, Ludhiana on 20th September, 2022.
  
-
- * The event entitiled "Workshop on English Grammar", was organised by the English Club (Department of Applied Sciences) from Dec. 5, 2022 to Dec. 9 2022. It was conducted by Pf. Manjot Kaur and Pf. Harpreet Kaur under, the supervision of Dr. Harpreet Kaur Grewal (HOD of Applied Sciences) and Pf. Puneet Narang, wherein, Pf. Harpreet Kaur led the group in the morning from 10 A.M to 12:30 P.M in TCC Hall, and Pf. Manjot Kaur took the evening session from 3:00 P.M to 4:30 P.M in English lab.
+- The event entitiled "Workshop on English Grammar", was organised by the English Club (Department of Applied Sciences) from Dec. 5, 2022 to Dec. 9 2022. It was conducted by Pf. Manjot Kaur and Pf. Harpreet Kaur under, the supervision of Dr. Harpreet Kaur Grewal (HOD of Applied Sciences) and Pf. Puneet Narang, wherein, Pf. Harpreet Kaur led the group in the morning from 10 A.M to 12:30 P.M in TCC Hall, and Pf. Manjot Kaur took the evening session from 3:00 P.M to 4:30 P.M in English lab.
 
 
  ![english workshop](https://user-images.githubusercontent.com/128128116/231374458-bb4bfae6-4f2c-4a53-a18f-71fc71217dbd.jpeg)
 
  
 
-* An Interactive session on International women day by ‘Rupinder Sra, Superintendent of Police, CM Medal Awardee’ was organised by Dr. Rajvir Kaur on 9th March,2023.
+- An Interactive session on International women day by ‘Rupinder Sra, Superintendent of Police, CM Medal Awardee’ was organised by Dr. Rajvir Kaur on 9th March,2023.
 
 
-# Teacher's Day Celebration
+## Teacher's Day Celebration
 
 
-
- Teacher's Day is dedicated to Dr. Sarvepalli Radhakrishnan-second President of India. A celebration conducted at our depafrtment by our students on 5th September,2022. The coordinator of the event was Pf. Nisha , Dr. Gagandeep Kaur Lottey, Dr. Rajvir Kaur and Pf. Jasmine Kaur. We decided that, the responsibility of teaching is taken up the students as an appreciation for their teachers.
+Teacher's Day is dedicated to Dr. Sarvepalli Radhakrishnan-second President of India. A celebration conducted at our depafrtment by our students on 5th September,2022. The coordinator of the event was Pf. Nisha , Dr. Gagandeep Kaur Lottey, Dr. Rajvir Kaur and Pf. Jasmine Kaur. We decided that, the responsibility of teaching is taken up the students as an appreciation for their teachers.
  
 
 ![Teacher's day](https://user-images.githubusercontent.com/128128116/231374669-25876123-cef6-4702-9755-c79dd33acee3.jpeg)
 
 
 
-# GNE'S ACME 2023
+## GNE'S ACME 2023
 
 
 
@@ -299,29 +292,35 @@ Causmic Club at Guru Nanak Dev Engineering College Ludhiana organised Intercolle
 |35|Pf. Amarjot Kaur|Seminar on“Implementation of National Education Policy (NEP-2020) in Technical Education & Technical Terminology in Punjabi”|2 days|10th march-11th march,2023|Guru Nanak Dev University, Amritsar|Offline|
 
 
-
-
 # Faculty Achievements
-## Dr. D.S Pathania
+
+### Dr. D.S Pathania
 * Under his Sukhvindr Singh Submitted his P.hd in 2023.
-## Pf. Karan Bhalla
+
+### Pf. Karan Bhalla
 * Pf. Karan Bhalla got certificate of appreciation from NPTEL as Discipline Star, Motivated Learner and Beliver in the year 2002 for different courses in Year 2022.
 * He recieved a gold medal and was a topper in "reactive Intermediates Carbene and Nitrene" course. He is a Siver medallist in "co-ordination Chemistry (Chemistry of Transition Elements)" course and in "Transition Metal Organometallics inCataysis and Biology" course in year 2022.
 * Elite category in "Stereochemistry and Metal Mediated Synthesis-I course.
 * He recieved a  silver medal and topper in Advanced Transition Metal Chemistry Course and Fundamentals of Protien Chemistry Course in year 2022.
-## Pf. Sukhminder Singh
+
+### Pf. Sukhminder Singh
 * Pf. Sukhminder Singh recieved Certificate of Appreciation from NPTEL for completing 60 weeks of learning in Mathematics discipline along with fulfilling rest of conditions and declared as NPTEL Discipline Star of Year 2022.
 * He recieved a silver medal in online course "Mathematical methods in physics 1" and "Matrix Analysis with Applications" in year 2022.
 * He recieved a gold medal in online course "Engineering Mathematics II" in year 2022.
 * He was a Topper in online Course "Differential Equations for Engineers." in Year 2022.
-## Dr. Rajvir Kaur
+
+### Dr. Rajvir Kaur
+
 * Delivered Expert Talk on ‘Lab Management’ in STC titled “Skill Development Program for Non-Teaching Staff: Attaining SDGs through Skill Enhancement and Training” under the aegis of IQAC, organized by Department of Applied Sciences and Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana on 29th August 2022
 * Bronze medalist (Women faculty Relay race) during the 61st Annual Athletic Meet held at Guru Nanak Dev Engineering College, Ludhiana on March 8-9, 2022.
-## Pf. Jasmine Kaur
+
+### Pf. Jasmine Kaur
 * Received an appreciation certifiacte by Government of India for successfully completing the National quiz on Financial Sector in the Year 2022.
 * Received an appreciation certificate from Government of India for participating in "Himachal Me Parytan" in the year 2022.
+
 # Publications
-# Dr. D.S Pathania
+
+### Dr. D.S Pathania
  Published a research paper "Intrusion Detection System Using Data Mining”, World journal of Engg research
 and technology”3,8,ISSN,No2454-695X IF,5.924 ,2022(Scopus)
 * Published a research paper" A hybrid approach for intrusion detection system using artificial neural network",Vol4,issue1
@@ -335,10 +334,11 @@ with rotation and internal pressure, structural integrity and life 2022(Scopus)
 * Published a research paper- Thermal and mechanical interactions in fractional order microstretch
 thermoelastic half space,”J of mathematical problems, equations and statistics ISSN 2709-9393,V-3
 pp25-30 (2022)
-# Dr. Amanpreet Kaur Sodhi
+
+### Dr. Amanpreet Kaur Sodhi
 * Published a Research paper- Partial replacement of cement with induction furnance dust for enhancing concrete properties with and without aspergillus niger fungus: a green building approach”in SCI Journal “ Environmental Science and Pollution Research” ISSN (Online): 1614-7499 DOI: 10.1007/s11356-022-21097-x
 
-## Pf. Puneet Narang
+### Pf. Puneet Narang
 * Published a paper, "An Analysis  ofTeachers’Perspectives on
 Students’ Gains
 and Challenges
@@ -361,12 +361,12 @@ Engineering and
 Technology(ICAE
 T-2022) organised by Bhai Gurdas Institute of Engineering and Technology.
 
-# Dr. Rajvir Kaur
+### Dr. Rajvir Kaur
 Kaur N., Rattan M., Gill S.S, Kaur G., Walia G.K., Kaur R. (2022) Marine predators
 algorithm for performance optimization of nanoscale FinFET, Materials Today:
 Proceedings. 66(8) (2022) 3529-3533. https://doi.org/10.1016/j.matpr.2022.06.404
 
-# Pf. Manjot Kaur
+### Pf. Manjot Kaur
 
 Pf. Manjot Kaur authored a book chapter entitled "Feminist Reverberation of Euripides' Medea: A Doll's House" in Gender Perspectives in Literary Context: Critical Responses, published by Read Tree International. 
  
