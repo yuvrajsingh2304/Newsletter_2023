@@ -3,9 +3,11 @@
 ![Principal](Images/Principal.png)  
 
 <p align=justify>
-I am delighted to see the latest version of college newsletter ready for circulation and that too with altogether a new makeover. I congratulate the entire editorial team for its continuous and sustained efforts in capturing an admirable kaleidoscopic view of collaborative journey of strivings and accomplishments of faculty and students.
-To my mind, education is not just a process of giving knowledge for a future job but a lifelong process which enriches minds and provides varied experiences that last a lifetime. GNDEC is dynamic place of learning where all endeavours are focused at transforming lives of our budding technocrats for evolving better worlds of their fulfilled dreams. The extensive list of our globally settled alumni speaks volumes about it. This newsletter is one such platform enabling us to showcase unswerving efforts put by our competent faculty and students while staying steadfast on their ongoing march of attaining excellence in their respective fields.
-I congratulate the entire editorial team for designing the newsletter in such an excellent way. Good Luck!
+  “Creative activity could be described as a type of learning process where teacher and pupil are located in the same individual”- Arther Koester.
+  </p>
+  <p align=justify>
+  As the next year unfolds, I would like to pause and reflect on a number of important and exciting developments of our college. The college has made tremendous progress in all areas-academic, non-academics, capacity building relevant to staff and students. It is a matter of great pride and satisfaction for Guru Nanak Dev Engineering College to bring out the Newsletter 2023 (volume11). It showcases how GNDEC is on continuous journey of knowledge enrichment and career growth. It is a reflection of our achievement in hitting the right notes for the multifaceted growth of our learning partners. The events that are organized in the departments concentrate on molding the caliber of the students. We also work on creating young active citizens who feels highly responsible towards society. The way to access this key is by participating actively. I am confident that the issue of Newsletter 2023 will send a positive signal to the faculty, staff and the students who are interested in the Technical education and Technology based activities. I congratulate the Editorial Board of Newsletter 2023 who have played wonderful role in accomplishing the task in record time. The multi-partner involvement of each and every one has shown a great result.
+  With these words, I wish you all would enjoy reading the Newsletter 2023 of GNDEC family!!
 </p>
 
 **Dr. Sehijpal Singh**
