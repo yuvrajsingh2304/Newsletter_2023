@@ -3,7 +3,7 @@
 
 | Sr. No. | Title                                                                    |
 |:--------|:-------------------------------------------------------------------------|
-| 1       | [Message from Principal's Desk](../Principal/Principal.md)               |
+| 1       | [Messages](../Messages/Messages.md)               |
 | 2       | [GNDEC at Glance](../GNDEC/GNDEC.md)                                     |
 | 3       | [Department of Civil Engineering](../CE/CE.md)                           |
 | 4       | [Department of Mechanical and Production Engineering](../ME_PE/ME_PE.md) |
