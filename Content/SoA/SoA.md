@@ -109,6 +109,19 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
   
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
 
+| Sr. No. | Student Name                        | Architectural Firm                             |
+|:--------|:------------------------------------|:-----------------------------------------------|
+| 1.      | Komalpreet Kaur                     | AL HILALEngg. & Arch. Consultancy,Dubai | 
+| 2.      | Goresh Saini                        | RSP Design Consultants Pvt. Ltd., Bangalore | 
+| 3.      | Jaya Verma, Gurleen Kaur & Kirat Kaur | Design Forum International,New Delhi | 
+| 4.      | Kanav Soni                          | Modarch India, Noida | 
+| 5.      | Jaismeen Kaur & Vinay Kumar         | Fountain Head New Delhi | 
+| 6.      | Anudesh Saini                       | Arch 10 Design Consultants, Gurugram | 
+| 7.      | Bhavjeet Singh	                     | Arvind Vivek & Associates,New Delhi |                                                                                                  
+| 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |
+
+
+
 
 
 
