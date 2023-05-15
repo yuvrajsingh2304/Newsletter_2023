@@ -102,7 +102,13 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a1255f5a-07c4-4328-b00d-35be95ff508b)
     
 ### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)  
+  
+## Collaboration  
+
+  
+## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
+
 
 
 
