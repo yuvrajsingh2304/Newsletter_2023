@@ -11,12 +11,11 @@
 ***Departmental Editors***
 
 - [Er. Mandeep Kaur (CE)](https://gndec.ac.in/faculty/?id=249)
-- [Er. Prem Singh (ME)](https://gndec.ac.in/faculty/?id=102)
-- [Er. Gulraj Singh (PE)](https://gndec.ac.in/faculty/?id=158)
 - [Er. Karanbir Singh (EE)](https://gndec.ac.in/faculty/?id=341) [and Er. Arshdeep Kaur (EE)](https://gndec.ac.in/faculty/?id=271)
 - [Er. Preeti Pannu (ECE)](https://gndec.ac.in/faculty/?id=267)
 - [Dr. Amit Jain (CSE)](https://gndec.ac.in/faculty/?id=332)
 - [Er. Harpreet Kaur (IT)](https://gndec.ac.in/faculty/?id=231)
+- [Er. Gulraj Singh](https://gndec.ac.in/faculty/?id=158) [and Er. Prem Singh (MPE)](https://gndec.ac.in/faculty/?id=102)
 - [Dr. Manreet Sohal](https://gndec.ac.in/faculty/?id=391) [and Er. Harmandeep Kaur (CA)](https://gndec.ac.in/faculty/?id=386)
 - [Dr. Kshma Kaushal (MBA)](https://gndec.ac.in/faculty/?id=394)
 - [Ms. Jasmine Kaur](https://gndec.ac.in/faculty/?id=375) [and Ms. Manjot Kaur (App. Sci.)](https://gndec.ac.in/faculty/?id=381)
