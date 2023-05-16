@@ -102,8 +102,11 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a1255f5a-07c4-4328-b00d-35be95ff508b)
     
 ### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)    
   
+### Mifzal won Gold medal in Inter year water polo tournament at GNDEC 
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/2ae87780-f249-4e2b-ba65-85365bad580c)
+
 ## Collaboration    
 - The Indian green building council (IGBC) student chapter   
 - Registered with Council of Architecture (COA)   
@@ -111,8 +114,37 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Active members in Indian Institute of Architects (IIA)  
 - Fire & Security Association of India (FSI)  
 - Member of Ludhiana Smart City Limited Technical Sub Committee
+  
+## Publications    
 
-## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
+### Ar. Akanksha Sharma  
+- “Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design” Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9
+- “A Way for Sustainable Living”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480   
+- “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 | UGC approved journal no 63975g./,.M  
+- “Strategies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org , Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf  
+  
+### Ar.Vivek Sehgal   
+- Anudesh Saini , Goresh Saini , Jaya Verma, Vivek Sehgal*(2022) Evaluating Criteria for Sustainable Development: A case of Qila Raipur, International Journal of Sustainable Building Technology, Volume 5, Issue 1.
+- Baweja Tavleen, Sehgal Vivek, Saini Sanjiv (2019). Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127 
+- Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
+- Sehgal Vivek, Kaur Harsimran (2020). Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Rehal Prashant, Chani Prabhjot, Sehgal Vivek (2020). Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Khandelia Shubham, Sehgal Vivek (2016). Kinetic Architecture: Designing with Movement. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara
+- Sehgal Vivek (2014). Kapurthala & Its Deteriorating Heritage. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara.  
+  
+### Ar.Simran Kaur  
+- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150  
+  
+### Ar.Gazal Soni        
+- Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni, Aasna Arora (ISSN-2349-5162) Volume 5, Issue 12 
+- Study of an Urban Area, Udaipur Gazal Soni, Pranav Prabhakar (ISSN-2349-5162) Volume 6, Issue 1  
+- Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni, Aasna Arora (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
+- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni, Aasna Arora ISSN:0971-1260 Vol-22-Issue-34     
+  
+### Ar.Parul Kaur  
+- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
+
+## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
 | Sr. No. | Student Name                        | Architectural Firm                             |
 |:--------|:------------------------------------|:-----------------------------------------------|
@@ -128,7 +160,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
 | 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana |    
   
-## Seminar's, Guest Lectures and Expert Talks 
+## Seminar's, Guest Lectures, Workshops and Expert Talks 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
@@ -147,7 +179,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 13.      | Impact of Electromagnetic Radiations on Built Spaces					    | Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |       | 
 | 14.      | Expert Lecture on Architecture ,						    | Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |       |  
   
-  
+ 
 
 
 
