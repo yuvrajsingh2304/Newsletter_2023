@@ -110,7 +110,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ## Collaboration    
 - The Indian green building council (IGBC) student chapter   
 - Registered with Council of Architecture (COA)   
-- LEAD Green Associate
+- LEED Green Associate
 - Active members in Indian Institute of Architects (IIA)  
 - Fire & Security Association of India (FSI)  
 - Member of Ludhiana Smart City Limited Technical Sub Committee
@@ -136,10 +136,10 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
    
 ### Ar.Gazal Soni    
-- Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni, Aasna Arora (ISSN-2349-5162) Volume 5, Issue 12 
+- Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni (ISSN-2349-5162) Volume 5, Issue 12 
 - Study of an Urban Area, Udaipur Gazal Soni, Pranav Prabhakar (ISSN-2349-5162) Volume 6, Issue 1  
-- Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni, Aasna Arora (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
-- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni, Aasna Arora ISSN:0971-1260 Vol-22-Issue-34      
+- Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
+- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni (ISSN:0971-1260 Vol-22-Issue-34)      
 
 ### Ar.Parul Kaur   
 - Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
