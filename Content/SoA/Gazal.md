@@ -19,15 +19,15 @@ Head, GNDEC School of Architecture
 - Registered with Council of Architecture (COA)   
 - Active members in Indian Institute of Architects (IIA)  
 - Fire & Security Association of India (FSI)  
-- Member of Ludhiana Smart City Limited Technical Sub Committee      
+- MOU with Club Network for People of Construction (NPC)
+- Member of Ludhiana Smart City Limited Technical Sub Committee        
 
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/b18dfdd8-2ac7-4193-873b-619e44bfa0f0)
-
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/01d063b1-3a4a-4b6f-9e90-07df5190a11d)
 
 ## Educational Site Visit’s    
   
 ### One day hands-on workshop of 1st Year students on concrete in collaboration with Ultra-tech Cement  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f68eb045-a0e1-47d6-9cf8-936cc8e9f1c3)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9962ab2d-4e3e-4bcc-8012-ce608b3ed577)
 
 <p align=justify>  
 GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana in March 2023. Students worked on different proportions of materials to prepare on various grades of concrete. Concrete tests like slump test, cone test, setting time test, etc were also conducted by the students. Er.Charanjit Singh-Plant Head,Mr.Rajeev Ranjan-Quality Incharge, Mr.GagandeepSharma-Technical Manager& Mr.Varinder Punj-Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents. Prof.Akanksha Sharma, Head-GNDEC School of Architecture stressed on the significance of material knowledge for the students. Dr. Sehijpal Singh, Principal GNDEC congratulated Team GNDEC-SOA and Ultra Tech Cement Limited for collaborating and creating awareness about concrete as a material. He encouraged the students and teachers for compiling such episodes of Knowledge and realization.  
