@@ -14,6 +14,16 @@ Also, we express our sincere gratitude to the Newsletter team for their commenda
 Ar. Akanksha Sharma  
 Head, GNDEC School of Architecture  
   
+## GNDEC SOA Collaboration    
+- The Indian green building council (IGBC) student chapter   
+- Registered with Council of Architecture (COA)   
+- Active members in Indian Institute of Architects (IIA)  
+- Fire & Security Association of India (FSI)  
+- Member of Ludhiana Smart City Limited Technical Sub Committee      
+
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/b18dfdd8-2ac7-4193-873b-619e44bfa0f0)
+
+
 ## Educational Site Visit’s    
   
 ### One day hands-on workshop of 1st Year students on concrete in collaboration with Ultra-tech Cement  
@@ -24,49 +34,49 @@ GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Co
  </p>  
    
  ### Village Dulay Documentation by B.ARCH 2rd Year Students
- ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a13ecb34-fc13-43d4-9913-1303389a2963)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9411ce32-585f-42d2-a556-ed9064157a80)
 
  <p align=justify>    
 Documentation of village Dulay, Ludhiana was done by students of 2nd year as their design curriculum. They documented the various determinants like topography, public realm, socio- cultural factors, demography, literacy rate, architectural features of buildings etc. Students also proposed architectural solutions to the problems identified in the village  
 </p>    
   
 ### Dr B P Pal Auditorium, College of Agriculture, PAU, Case study by B.ARCH 3rd Year Students.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/58d3b29c-8a9b-45fc-9804-eed8d41a93b7)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dc17ac43-2f7d-4fa8-93fc-263812e57695)
   
 <p align=justify>    
 3rd year B.Arch students of GNDEC School of Architecture visited Dr B P Pal Auditorium, College of Agriculture, PAU, Ludhiana.  for Case Study purpose. Students were made aware about details like proscenium, cyclorama, raking and staggering of seats, catwalk, acoustic materials, etc. Excellent Initiative by Prof. Gazal and her team.  
 </p>   
  
 ### Punjab Institute of Medical Sciences (PIMS), Jalandhar case  study by B.ARCH 4rd Year Students.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/7409ff1a-edec-4c17-9bc8-19552821d02c)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a3f6d1f3-60ee-4960-8ee0-fbffe65b2675)
   
 <p align=justify>  
 Students of B.Architecture 8th semester visited Punjab Institute of Medical Sciences (PIMS), Jalandhar for case study purpose. Prof. Simran Kaur & Prof. Vivek Sehgal accompanied the students for the same. Interaction with Ar.Rahul Ratra ji was organized there. Special thanks to Dr. Rajiv Arora, Director Principal-PIMS for his time and guidance  
 </p>   
   
 ### One Day Hands-on Workshop conducted for  B.Voc on Timber Doors in collaboration with Kenya Furniture.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9adb55e4-b682-4d74-bbc6-1a3134f84327)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/486b5599-f9f1-4711-9914-edf1f519a30b)
   
 <p align=justify>    
 GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Timber Doors in collaboration with Kenya Furniture at their workshop in Samrala Chowk, Ludhiana. We extend heartfelt gratitude to the owners who allowed our I year students in their workshop. Special thanks to Prof.Akanksha Sharma, Head-GNDEC School of Architecture and Dr.Sehijpal Singh, Principal-GNDEC for their support.  
 </p>   
   
 ### Interactive session with Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9665860e-b2cc-4b15-9b41-39971327aa1b)  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/d837f665-ce02-40c3-802a-2aa30bb1b7e5)  
   
 <p align=justify>      
 GNDEC School of Architecture feel privileged to offer gratitude to the learned scholar of the profession as well as life.Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh for his enlightening talk for our students. His words were like pearls of knowledge that we all need to string together and keep life long with us.The other intellectual to whom we are obliged is Dr Sangeeta Bagga, Principal-CCA, Chandigarh who has extended her utmost support to conduct this enlightening session for our students and faculty at CCA campus itself.  
 </p>    
   
 ### Interactive session onTechniques for better Climate Responsive Designs at ECBC Cell - Punjab  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/5ad3fcb8-99c9-4d86-b7a3-b51ce5229070)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/950d4730-0b09-4cb8-8040-8305ba4f3891)
   
 <p align=justify>       
 PEDA Solar Passive Complex in Chandigarh to understand about Solar Passive Techniques for better Climate Responsive Designs. We are really grateful to ECBC Cell - Punjab, Er Abhishek Pratap Singh , Building Cell Coordinator, Building Cell, PEDA, Er Rohit Kumar, Project Engineer, BEE and Er Money Khanna , Project Engineer, BEE for their support.  
 </p>      
   
 ### Educational Tour to Jaipur and Jodhpur  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f6a5a7ff-d337-40cf-9a54-2cd4a4de17a1)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/849589e2-8974-4962-bfdc-0155c3a161e8)
   
 <p align=justify>     
 School of Architecture organized one week long Educational Tour for the B.Architecture students of 2nd and 3rd year to Jaipur and Jodhpur. Heritage walk of the walled city Jaipur and Blue city Jodhpur was the prime learning experience for the students. Local architects Ar. Gaurav and Ar. Arjun, Principal Architects, Sawai Design Studio accompanied the students to the various heritage buildings of Jaipur which included Jal Mahal, Hawa Mahal, Amber Fort, Albert Hall Museum, Panna Meena Ka Kund, Birla Mandir, Jagat Shiromani Temple, City Palace, Jantar Mandir and Tripolia Gate. Students also analysed the planning aspects of Jawahar Kala Kendra designed by Charles Correa. Prof. Priyanka Mehta , Head – Faculty of Architecture, MBM University, coordinated well with the faculty and facilitated our students and it was a great experiential learning collaboration between the students of both the colleges as they studied different house typologies, street sections of Old Brahmpuri Area, Jodhpur and visited heritage buildings like Jaswant Thada, Mehrangarh Fort, Toorji Ka Jhalra Bavdi, Ghanta Ghar and Mandore Garden. Students and faculty also had an interactive session with the architects of IIA Rajasthan Chapter particularly Ar.Ankur Tanwar & Office of Ar. Tushar Sogani.
@@ -75,46 +85,38 @@ School of Architecture organized one week long Educational Tour for the B.Archit
 ## Students & Faculty Achievements    
     
 ### 67th Foundation Day Celebration at GNDEC
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/fa872544-541e-4028-a1c0-a7eeb849b983)  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/5f284d5a-d84f-4eba-8247-1ab193766288)  
   
 <p align=justify>    
 Students of GNDEC School of Architecture were acknowledged for their brilliance and achievements in academics/co-curricular/extra-curricular events during the 67th Foundation Day Celebration at GNDEC.  
 </p>   
   
 ### A3F sustainable design award bagged by Goresh saini of 4th Year B.Architecture student.    
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/315e4dba-d666-4312-9281-79c44c2a4e0c)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/8778bd98-50f4-42d4-bc49-25c4def29149)
  
 <p align=justify> 
 Goresh Saini, B.Arch 4th year student of GNDEC School of Architecture was declared the winner under the category A3F SD Sharma Sustainable Design Award. Goresh Proposed and designed a community center for the natives of the village Qila Raipur which consisted of a senior citizens centre, panchayat ghar, workshops and vocational training centre. The community centre depicted the rural vernacular architecture of Punjab. The competition was held by A3 Foundation which is an organization for research and promotion of sustainable and innovative architecture in India. The foundation is a brain child of Ar. Sangeet Sharma, practicing architect in Chandigarh which has given platform to many students and amateurs to explore in the field of architecture. The award ceremony was held on 18th March, 2023 in Auditorium, Government Museum, Sector 10, Chandigarh in the presence of many eminent architects from the industry.
 </p>  
   
 ### GNDEC School of Architecture bagged the First Runner Up Trophy in the Cultural Fest “The Anand Utsav” 2023 at GNDEC campus , Ludhiana.  
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/ed63bf10-c1f9-41e3-9fa3-f9acbd5086a0)
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a257f7b2-5b7f-43f2-a8fa-83b8a4c292c4)
   
 <p align=justify>   
 The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 at Guru Nanak Dev Engineering College. A huge participation was witnessed by GNDEC students and students from other institutions in various cultural and technical events. An exhibition of projects by various professional clubs of college students was also an attracting feature of the event. The panel of judges from diverse fields and esteemed institutes of the region were called upon for fair and viable results. Many deserving students achieved laurels in the field of academics and extracurricular activities at the fest.  
 </p>       
   
 ### ARCHUMEN 22-23; India’s biggest Architecture quiz, held on 10th February, 2023 in SPA, New Delhi   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/363d7876-7614-4024-94b1-bf48b7eacf3f)    
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
   
 ### Sunidhi, B.Architecture 2nd year student of GNDEC School of Architecture won BRONZE MEDAL in IKGPTU's Interzonal competition of Cartooning.
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a1255f5a-07c4-4328-b00d-35be95ff508b)
-    
-### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)    
-  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/be8a7b0e-e824-4019-b916-269186783cd9)
+        
 ### Mifzal won Gold medal in Inter year water polo tournament at GNDEC 
-![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/2ae87780-f249-4e2b-ba65-85365bad580c)
-
-## Collaboration    
-- The Indian green building council (IGBC) student chapter   
-- Registered with Council of Architecture (COA)   
-- LEED Green Associate
-- Active members in Indian Institute of Architects (IIA)  
-- Fire & Security Association of India (FSI)  
-- Member of Ludhiana Smart City Limited Technical Sub Committee
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/0bfe6463-8367-4ede-8d80-bd5f4b516684)  
   
+### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/59f1dcb6-345a-4f05-af38-6eac3a651ddc)
+
 ## Publications    
 
 ### Ar. Akanksha Sharma   
