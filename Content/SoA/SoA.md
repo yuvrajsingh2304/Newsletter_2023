@@ -104,9 +104,13 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
 ![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/f224355e-ad7e-4299-adbe-dabed2093539)  
   
-## Collaboration  
+## Collaboration    
+- The Indian green building council (IGBC) student chapter   
+- Registered with Council of Architecture (COA) 
+- Active members in Indian Institute of Architects (IIA)  
+- Fire & Security Association of India (FSI)  
+- HOD, GNDEC SOA- Member of Ludhiana Smart City Limited Technical Sub Committee
 
-  
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
 
 | Sr. No. | Student Name                        | Architectural Firm                             |
@@ -121,7 +125,22 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |  
 | 9.      | Ishika Arora             		         | Avinash Khosla & Associates,Ludhiana |  
 | 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
-| 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana | 
+| 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana |    
+  
+## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
+
+| Sr. No. | Name of Event Organized             | Delegate                             | Date | Learning Outcome               |
+|:--------|:------------------------------------|:-----------------------------------------------|:---------|:----------------------|
+| 1.      | Road Safety is no Accident'                     | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.    | June 2,2022	        |
+| 2.      | Wordpress for Beginners             | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | March 03-04, 2022     |
+| 3.      | Dumb Charades                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2022        |
+| 4.      | Basics of Designing a Flyer         | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | April 20,2022         |
+| 5.      | Let's have fun                      | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 09, 2022         |
+| 6.      | Design Frenzy                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | December 1-2,2022     |
+| 7.      | Technoplot	                        | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2023        |
+| 8.      | Sanrachna						    | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 17, 2023        |
+  
+  
 
 
 
