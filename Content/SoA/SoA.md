@@ -127,18 +127,23 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
 | 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana |    
   
-## Student Internships amongst India's Top 30 Architectural Consultancy Firms  
+## Seminar's,Guest Lectures and Expert Lectures 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date | Learning Outcome               |
 |:--------|:------------------------------------|:-----------------------------------------------|:---------|:----------------------|
-| 1.      | Road Safety is no Accident'                     | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.    | June 2,2022	        |
-| 2.      | Wordpress for Beginners             | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | March 03-04, 2022     |
-| 3.      | Dumb Charades                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2022        |
-| 4.      | Basics of Designing a Flyer         | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | April 20,2022         |
-| 5.      | Let's have fun                      | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | June 09, 2022         |
-| 6.      | Design Frenzy                       | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 2 days   | December 1-2,2022     |
-| 7.      | Technoplot	                        | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 16, 2023        |
-| 8.      | Sanrachna						    | Prof. Yuvraj Singh & Prof. Mandeep Kaur | 1 day    | March 17, 2023        |
+| 1.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.    | 	        |
+| 2.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana.       | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023   |      |
+| 3.      | Seminar on HVAC                       | Er. Sukwant Singh |  |         |
+| 4.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023    |         |
+| 5.      | Seminar on Water Proofing and Expansion Joints                     |  Iceland India & Dr.Fixit | 23rd Feb 2023   |          |
+| 6.      | Expert lecture on 'Building Management System'                       | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) |   |     |
+| 7.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023    |         |
+| 8.      | Expert lecture by SCHUCO Aluminum Windows,						    | SCHUCO | 30th Sept, 2022    |       |  
+| 9.      | '' Innovate Your World With Glass"						    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza |     |       |  
+| 10.      | Expert lecture and site Visit of Substation and Solar Power Plant						    | Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |     |       |  
+| 11.      | 'Electrical Services in Architecture',						    | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),|    |       |    
+| 12.      | Impact of Electromagnetic Radiations on Built Spaces					    | Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons |  |       | 
+| 13.      | Expert Lecture on Architecture ,						    | Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |       |  
   
   
 
