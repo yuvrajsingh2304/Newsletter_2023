@@ -118,7 +118,12 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 | 5.      | Jaismeen Kaur & Vinay Kumar         | Fountain Head New Delhi | 
 | 6.      | Anudesh Saini                       | Arch 10 Design Consultants, Gurugram | 
 | 7.      | Bhavjeet Singh	                     | Arvind Vivek & Associates,New Delhi |                                                                                                  
-| 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |
+| 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |  
+| 9.      | Ishika Arora             		         | Avinash Khosla & Associates,Ludhiana |  
+| 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
+| 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana | 
+
+
 
 
 
