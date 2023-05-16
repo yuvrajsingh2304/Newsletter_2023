@@ -117,12 +117,12 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
   
 ## Publications    
 
-### Ar. Akanksha Sharma  
+### Ar. Akanksha Sharma   
 - “Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design” Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9
 - “A Way for Sustainable Living”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480   
 - “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 | UGC approved journal no 63975g./,.M  
 - “Strategies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org , Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf  
-  
+   
 ### Ar.Vivek Sehgal   
 - Anudesh Saini , Goresh Saini , Jaya Verma, Vivek Sehgal*(2022) Evaluating Criteria for Sustainable Development: A case of Qila Raipur, International Journal of Sustainable Building Technology, Volume 5, Issue 1.
 - Baweja Tavleen, Sehgal Vivek, Saini Sanjiv (2019). Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127 
@@ -131,19 +131,19 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 - Rehal Prashant, Chani Prabhjot, Sehgal Vivek (2020). Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
 - Khandelia Shubham, Sehgal Vivek (2016). Kinetic Architecture: Designing with Movement. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara
 - Sehgal Vivek (2014). Kapurthala & Its Deteriorating Heritage. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara.  
-  
-### Ar.Simran Kaur  
-- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150  
-  
-### Ar.Gazal Soni        
+ 
+### Ar.Simran Kaur    
+- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
+   
+### Ar.Gazal Soni    
 - Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni, Aasna Arora (ISSN-2349-5162) Volume 5, Issue 12 
 - Study of an Urban Area, Udaipur Gazal Soni, Pranav Prabhakar (ISSN-2349-5162) Volume 6, Issue 1  
 - Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni, Aasna Arora (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
-- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni, Aasna Arora ISSN:0971-1260 Vol-22-Issue-34     
-  
-### Ar.Parul Kaur  
-- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
+- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni, Aasna Arora ISSN:0971-1260 Vol-22-Issue-34      
 
+### Ar.Parul Kaur   
+- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
+ 
 ## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
 | Sr. No. | Student Name                        | Architectural Firm                             |
