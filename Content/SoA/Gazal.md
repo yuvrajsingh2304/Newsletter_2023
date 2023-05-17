@@ -164,10 +164,10 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-| 1.      | Webinar on 'Site Planning'                       | Er. Sukwant SinghAr. Jit Kumar Gupta |  |         |
+| 1.      | Webinar on 'Site Planning'                       | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023|         |
 | 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.    | 	        |
 | 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana.       | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023   |      |
-| 4.      | Seminar on HVAC                       | Er. Sukwant Singh |  |         |
+| 4.      | Seminar on HVAC                       | Er. Sukwant Singh |  |   28th Jan, 2023      |
 | 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023    |         |
 | 6.      | Seminar on Water Proofing and Expansion Joints                     |  Iceland India & Dr.Fixit | 23rd Feb 2023   |          |
 | 7.      | Expert lecture on 'Building Management System'                       | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |     |
