@@ -122,7 +122,7 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 ### Ar. Akanksha Sharma   
 - “Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design” Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9
 - “A Way for Sustainable Living”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480   
-- “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 | UGC approved journal no 63975g./,.M  
+- “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 (UGC approved journal)
 - “Strategies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org , Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf  
    
 ### Ar.Vivek Sehgal   
@@ -164,20 +164,20 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
 
 | Sr. No. | Name of Event Organized             | Delegate                             | Date |
 |:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
-| 1.      | Webinar on 'Site Planning'                       | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023|         |
-| 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.    | 	        |
-| 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana.       | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023   |      |
-| 4.      | Seminar on HVAC                       | Er. Sukwant Singh |  |   28th Jan, 2023      |
-| 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023    |         |
-| 6.      | Seminar on Water Proofing and Expansion Joints                     |  Iceland India & Dr.Fixit | 23rd Feb 2023   |          |
-| 7.      | Expert lecture on 'Building Management System'                       | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |     |
-| 8.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023    |         |
-| 9.      | Expert lecture by SCHUCO Aluminum Windows,						    | SCHUCO | 30th Sept, 2022    |       |  
-| 10.      | '' Innovate Your World With Glass"						    | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza | 27th Aug,2022 |       |  
-| 11.      | Expert lecture and site Visit of Substation and Solar Power Plant						    | Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |  27th Aug,2022 |       |  
-| 12.      | 'Electrical Services in Architecture',						    | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),| 17th Aug, 2022   |       |    
-| 13.      | Impact of Electromagnetic Radiations on Built Spaces					    | Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |       | 
-| 14.      | Expert Lecture on Architecture ,						    | Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |       |  
+| 1.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
+| 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
+| 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |
+| 4.      | Seminar on HVAC    | Er. Sukwant Singh | 28th Jan, 2023 |  
+| 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023 |
+| 6.      | Seminar on Water Proofing and Expansion Joints  |  Iceland India & Dr.Fixit | 23rd Feb 2023   |
+| 7.      | Expert lecture on 'Building Management System' | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |
+| 8.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023 |
+| 9.      | Expert lecture by SCHUCO Aluminum Windows,	| SCHUCO | 30th Sept, 2022 |
+| 10.      | '' Innovate Your World With Glass"	| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza | 27th Aug,2022 |
+| 11.      | Expert lecture and site Visit of Substation and Solar Power Plant	| Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |  27th Aug,2022 |
+| 12.      | 'Electrical Services in Architecture', | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),| 17th Aug, 2022 |
+| 13.      | Impact of Electromagnetic Radiations on Built Spaces	| Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |
+| 14.      | Expert Lecture on Architecture ,| Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |
   
  
 
