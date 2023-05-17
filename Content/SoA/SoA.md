@@ -1,198 +1,196 @@
-# GNDEC_School of Architecture_NewsLetter
+# School of Architecture
+
+## Message from HoD’s Desk
+
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/801ba732-40bf-4e07-8376-c8de0e8a312a)
 
 <p align=justify>
-The School of Architecture, GNDEC announces an annual newsletter. Newsletter intent is to communicate the larger idea - 'Work done by students and faculty at SoA, Guru Nanak Dev Engineering college'. Hope you enjoy reading this!!
-</p>
+ As the Head GNDEC School of Architecture, I am honored to share with you our educational objective, which is to equip the younger generation with the skills and resilience needed to face life’s challenges. This belief forms the philosophy that drives the essence of our school. At GNDEC School of Architecture, we are committed to the path of success and constantly strive for improvement. We believe that academic excellence is just the beginning. Our aim is to provide a harmonious environment that nurtures all aspects of an individual, going beyond classroom learning to prepare our students to tackle the ever-changing world.
+Education is not just a profession for us, but a privilege to work closely with the youth, shaping them into competent and responsible citizens who can shape their own future and that of our country. Our team of skilled and resourceful faculty members is dedicated to taking up challenges and delivering creative and qualitative knowledge in various domains. Our goal is to make GNDEC School of Architecture a globally recognized Design Research institute, putting Ludhiana, Punjab on the world map. We are constantly working towards strengthening our school of architecture year by year, and we are proud to lead this endeavor.
+I would like to express my heartfelt gratitude to all our students, faculty, and staff for being a part of our journey towards excellence in architectural education. Together, we can continue to make GNDEC-School Of Architecture a center of academic excellence and innovation.
+Also, we express our sincere gratitude to the Newsletter team for their commendable efforts in compiling and publishing the important outcomes of our department. Your dedication and hard work are truly appreciated. Thank you for keeping our students, faculty and staff informed and engaged through the GNDEC-SOA Newsletter.  
+  </p>
+  
+Ar. Akanksha Sharma  
+Head, GNDEC School of Architecture  
+  
+## GNDEC SOA Collaboration    
+- The Indian green building council (IGBC) student chapter   
+- Registered with Council of Architecture (COA)   
+- Active members in Indian Institute of Architects (IIA)  
+- Fire & Security Association of India (FSI)  
+- MOU with Club Network for People of Construction (NPC)
+- Member of Ludhiana Smart City Limited Technical Sub Committee        
 
-## Online expert lecture - Design Thinking on 11th January, 2021
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/01d063b1-3a4a-4b6f-9e90-07df5190a11d)
 
-![HSR](Images/1.jpeg)
+## Educational Site Visit’s    
+  
+### One day hands-on workshop of 1st Year students on concrete in collaboration with Ultra-tech Cement  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9962ab2d-4e3e-4bcc-8012-ce608b3ed577)
 
-<p align=justify>
-Speaker – Ar. Rahul Saini, Architect & Author
-GNDEC School of Architecture, Ludhiana organized a thought-provoking online lecture on the topic Design Thinking. The event provided faculty and students, a space for learning and strengthening the virtual engagement towards the topic.
-</p>
+<p align=justify>  
+GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Concrete in collaboration with Ultratech Cement at their plant in Focal Point, Ludhiana in March 2023. Students worked on different proportions of materials to prepare on various grades of concrete. Concrete tests like slump test, cone test, setting time test, etc were also conducted by the students. Er.Charanjit Singh-Plant Head,Mr.Rajeev Ranjan-Quality Incharge, Mr.GagandeepSharma-Technical Manager& Mr.Varinder Punj-Technical Executive at Ultratech Cement Plant enlightened the students with their practical knowledge about concrete and its constituents. Prof.Akanksha Sharma, Head-GNDEC School of Architecture stressed on the significance of material knowledge for the students. Dr. Sehijpal Singh, Principal GNDEC congratulated Team GNDEC-SOA and Ultra Tech Cement Limited for collaborating and creating awareness about concrete as a material. He encouraged the students and teachers for compiling such episodes of Knowledge and realization.  
+ </p>  
+   
+ ### Village Dulay Documentation by B.ARCH 2rd Year Students
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/9411ce32-585f-42d2-a556-ed9064157a80)
 
+ <p align=justify>    
+Documentation of village Dulay, Ludhiana was done by students of 2nd year as their design curriculum. They documented the various determinants like topography, public realm, socio- cultural factors, demography, literacy rate, architectural features of buildings etc. Students also proposed architectural solutions to the problems identified in the village  
+</p>    
+  
+### Dr B P Pal Auditorium, College of Agriculture, PAU, Case study by B.ARCH 3rd Year Students.
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dc17ac43-2f7d-4fa8-93fc-263812e57695)
+  
+<p align=justify>    
+3rd year B.Arch students of GNDEC School of Architecture visited Dr B P Pal Auditorium, College of Agriculture, PAU, Ludhiana.  for Case Study purpose. Students were made aware about details like proscenium, cyclorama, raking and staggering of seats, catwalk, acoustic materials, etc. Excellent Initiative by Prof. Gazal and her team.  
+</p>   
+ 
+### Punjab Institute of Medical Sciences (PIMS), Jalandhar case  study by B.ARCH 4rd Year Students.  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a3f6d1f3-60ee-4960-8ee0-fbffe65b2675)
+  
+<p align=justify>  
+Students of B.Architecture 8th semester visited Punjab Institute of Medical Sciences (PIMS), Jalandhar for case study purpose. Prof. Simran Kaur & Prof. Vivek Sehgal accompanied the students for the same. Interaction with Ar.Rahul Ratra ji was organized there. Special thanks to Dr. Rajiv Arora, Director Principal-PIMS for his time and guidance  
+</p>   
+  
+### One Day Hands-on Workshop conducted for  B.Voc on Timber Doors in collaboration with Kenya Furniture.  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/486b5599-f9f1-4711-9914-edf1f519a30b)
+  
+<p align=justify>    
+GNDEC School of Architecture, Ludhiana conducted One Day Hands-on Workshop on Timber Doors in collaboration with Kenya Furniture at their workshop in Samrala Chowk, Ludhiana. We extend heartfelt gratitude to the owners who allowed our I year students in their workshop. Special thanks to Prof.Akanksha Sharma, Head-GNDEC School of Architecture and Dr.Sehijpal Singh, Principal-GNDEC for their support.  
+</p>   
+  
+### Interactive session with Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/d837f665-ce02-40c3-802a-2aa30bb1b7e5)  
+  
+<p align=justify>      
+GNDEC School of Architecture feel privileged to offer gratitude to the learned scholar of the profession as well as life.Dr SS Bhatti, Founder Teacher and Former Principal - CCA, Chandigarh for his enlightening talk for our students. His words were like pearls of knowledge that we all need to string together and keep life long with us.The other intellectual to whom we are obliged is Dr Sangeeta Bagga, Principal-CCA, Chandigarh who has extended her utmost support to conduct this enlightening session for our students and faculty at CCA campus itself.  
+</p>    
+  
+### Interactive session onTechniques for better Climate Responsive Designs at ECBC Cell - Punjab  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/950d4730-0b09-4cb8-8040-8305ba4f3891)
+  
+<p align=justify>       
+PEDA Solar Passive Complex in Chandigarh to understand about Solar Passive Techniques for better Climate Responsive Designs. We are really grateful to ECBC Cell - Punjab, Er Abhishek Pratap Singh , Building Cell Coordinator, Building Cell, PEDA, Er Rohit Kumar, Project Engineer, BEE and Er Money Khanna , Project Engineer, BEE for their support.  
+</p>      
+  
+### Educational Tour to Jaipur and Jodhpur  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/849589e2-8974-4962-bfdc-0155c3a161e8)
+  
+<p align=justify>     
+School of Architecture organized one week long Educational Tour for the B.Architecture students of 2nd and 3rd year to Jaipur and Jodhpur. Heritage walk of the walled city Jaipur and Blue city Jodhpur was the prime learning experience for the students. Local architects Ar. Gaurav and Ar. Arjun, Principal Architects, Sawai Design Studio accompanied the students to the various heritage buildings of Jaipur which included Jal Mahal, Hawa Mahal, Amber Fort, Albert Hall Museum, Panna Meena Ka Kund, Birla Mandir, Jagat Shiromani Temple, City Palace, Jantar Mandir and Tripolia Gate. Students also analysed the planning aspects of Jawahar Kala Kendra designed by Charles Correa. Prof. Priyanka Mehta , Head – Faculty of Architecture, MBM University, coordinated well with the faculty and facilitated our students and it was a great experiential learning collaboration between the students of both the colleges as they studied different house typologies, street sections of Old Brahmpuri Area, Jodhpur and visited heritage buildings like Jaswant Thada, Mehrangarh Fort, Toorji Ka Jhalra Bavdi, Ghanta Ghar and Mandore Garden. Students and faculty also had an interactive session with the architects of IIA Rajasthan Chapter particularly Ar.Ankur Tanwar & Office of Ar. Tushar Sogani.
+</p>    
+    
+## Students & Faculty Achievements    
+    
+### 67th Foundation Day Celebration at GNDEC
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/5f284d5a-d84f-4eba-8247-1ab193766288)  
+  
+<p align=justify>    
+Students of GNDEC School of Architecture were acknowledged for their brilliance and achievements in academics/co-curricular/extra-curricular events during the 67th Foundation Day Celebration at GNDEC.  
+</p>   
+  
+### A3F sustainable design award bagged by Goresh saini of 4th Year B.Architecture student.    
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/8778bd98-50f4-42d4-bc49-25c4def29149)
+ 
+<p align=justify> 
+Goresh Saini, B.Arch 4th year student of GNDEC School of Architecture was declared the winner under the category A3F SD Sharma Sustainable Design Award. Goresh Proposed and designed a community center for the natives of the village Qila Raipur which consisted of a senior citizens centre, panchayat ghar, workshops and vocational training centre. The community centre depicted the rural vernacular architecture of Punjab. The competition was held by A3 Foundation which is an organization for research and promotion of sustainable and innovative architecture in India. The foundation is a brain child of Ar. Sangeet Sharma, practicing architect in Chandigarh which has given platform to many students and amateurs to explore in the field of architecture. The award ceremony was held on 18th March, 2023 in Auditorium, Government Museum, Sector 10, Chandigarh in the presence of many eminent architects from the industry.
+</p>  
+  
+### GNDEC School of Architecture bagged the First Runner Up Trophy in the Cultural Fest “The Anand Utsav” 2023 at GNDEC campus , Ludhiana.  
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/a257f7b2-5b7f-43f2-a8fa-83b8a4c292c4)
+  
+<p align=justify>   
+The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 at Guru Nanak Dev Engineering College. A huge participation was witnessed by GNDEC students and students from other institutions in various cultural and technical events. An exhibition of projects by various professional clubs of college students was also an attracting feature of the event. The panel of judges from diverse fields and esteemed institutes of the region were called upon for fair and viable results. Many deserving students achieved laurels in the field of academics and extracurricular activities at the fest.  
+</p>       
+  
+### ARCHUMEN 22-23; India’s biggest Architecture quiz, held on 10th February, 2023 in SPA, New Delhi   
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/dfe9aad4-137c-4f19-bb77-9f2b9e1db115)
+  
+### Sunidhi, B.Architecture 2nd year student of GNDEC School of Architecture won BRONZE MEDAL in IKGPTU's Interzonal competition of Cartooning.
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/be8a7b0e-e824-4019-b916-269186783cd9)
+        
+### Mifzal won Gold medal in Inter year water polo tournament at GNDEC 
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/0bfe6463-8367-4ede-8d80-bd5f4b516684)  
+  
+### Int-Ext Expo & Lemniscate 2023 from 3-6 February at Ludhiana Exhibition Centre, Sahnewal.   
+![image](https://github.com/Gazalsoni/Newsletter_2023/assets/133624231/59f1dcb6-345a-4f05-af38-6eac3a651ddc)
 
-## Material exploration at Canadian wood & Kajaria tiles on 2nd February, 2021
-![HSR](Images/2.jpeg)  
-<p align=justify>
-A material visit was conducted, to pique an interest in the student to understand the importance of the knowledge about material and how do they realise their concepts and how their designs can see the light of the day.
-</p>
+## Publications    
 
-## Site Visit to Qila Raipur on 15th February, 2021
-![HSR](Images/3.jpg)  
-<p align=justify>
-The intent of visit was to introduce students to the varied flavour of small town and architecture. In the interest of broadening the framework and scope of architectural inquiry, students are encouraged to connect their investigations to larger ideas and cultural themes in areas such as philosophy, art, literature and popular culture.
-</p>
+### Ar. Akanksha Sharma   
+- “Emerging Need for Incorporating Sustainable Principles in Building and Habitat Design” Sustainable Innovative Techniques in Architecture, Civil and Environment Engineering, ISBN : 978-1-63248-030-9
+- “A Way for Sustainable Living”Descriptio An International Refrred Journal of Apeejy College of Fine Arts,Jalandhar,(India)ISSN No.22494480   
+- “Passive Construction Techniques: A Review on Residential Buildings of Ludhiana” JETIR, Volume 5, Issue 12,Journal of Emerging Technologies and Innovative Research (JETIR) www.jetir.or ISSN: 2349-5162 (UGC approved journal)
+- “Strategies for mitigating urban heat island in model town jalandhar punjab india” , IJRAR1BLP152 International Journal of Research and Analytical Reviews (IJRAR) www.ijrar.org , Volume 6, Issue 1 www.ijrar.org (E-ISSN 2348-1269, P- ISSN 2349-5138) http://www.ijrar.org/papers/IJRAR1BLP152.pdf  
+   
+### Ar.Vivek Sehgal   
+- Anudesh Saini , Goresh Saini , Jaya Verma, Vivek Sehgal*(2022) Evaluating Criteria for Sustainable Development: A case of Qila Raipur, International Journal of Sustainable Building Technology, Volume 5, Issue 1.
+- Baweja Tavleen, Sehgal Vivek, Saini Sanjiv . Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127 
+- Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
+- Sehgal Vivek, Kaur Harsimran . Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Rehal Prashant, Chani Prabhjot, Sehgal Vivek . Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
 
-## Women’s Day celebration with Online Expert Lecture on Women in Architecture on 8th March,2021
-![HSR](Images/4.jpeg)  
-<p align=justify>
-Speaker – Ar. Vidhu Malik, Principal Designer – BOTTEGA 9 Work+Shop & Design Mentor – Planners Group, Chandigarh.
-SoA, GNDEC hosted a webinar along with discuss about the Women in Architecture. Positioning the approach and thought process of a women in the architectural realm. The webinar aimed to support women in their professional development, provide career counselling and offer key insights into their professions in a post COVID world.
-</p>
+### Ar.Simran Kaur    
+- Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
+   
+### Ar.Gazal Soni    
+- Analysis of Housing Structure and Urban Form of Rajsamand Town, Rajasthan Gazal Soni (ISSN-2349-5162) Volume 5, Issue 12 
+- Study of an Urban Area, Udaipur Gazal Soni, Pranav Prabhakar (ISSN-2349-5162) Volume 6, Issue 1  
+- Study and analysis of Physical and Social Infrastructure of Katra Dulo, Amritsar Gazal Soni (E-ISSN 2348-1269, P- ISSN 2349-5138) Volume 5, Issue 4  
+- An Assessment of Road Markings, Signs and Signals around Schools in Amritsar City GazalSoni (ISSN:0971-1260 Vol-22-Issue-34)      
 
-## ONE DAY HANDS-ON WORKSHOP ON CONCRETE on 19th March, 2021
-![HSR](Images/5.jpeg)  
-<p align=justify>
-GNDEC School of Architecture, Ludhiana conducted one-day hands-on workshop on concrete in collaboration with Ultratech Cement at their plant in Focal point, Ludhiana. Students worked on different proportions of materials to prepare on various grades of concrete. Concrete tests like slump test, cone test, setting time test, etc were also conducted by the students. Resource persons at Ultratech enlightened the students with knowledge of various kinds of high performance concrete. Er.Krishan Kumar, Territory Technical Services Manager, Ultra Tech Cement Limited coordinated with the faculty for smooth conduct of the workshop. Prof.Akanksha Sharma, Head- GNDEC School of Architecture stressed on the significance of material knowledge for the students. Dr. Sehijpal Singh, Principal GNDEC congratulated Team GNDEC-SOA and Ultra Tech Cement Limited for collaborating and creating awareness about concrete as a material. He encouraged the Students and teachers for compiling such episodes of Knowledge and realization.
-</p>
+### Ar.Parul Kaur   
+- Theory of Biomimcry in Urbanscape. Journal of Civil Engineering and Environmental Technology (JCEET), Volume 4 Issue 3. 
+ 
+## Student Internships amongst India's Top 30 Architectural Consultancy Firms    
 
-## Architects Premier Cricket League on 4th April, 2021
-![HSR](Images/6.jpeg)  
-<p align=justify>
-Architects from Ludhiana, Jalandhar, Amritsar and Patiala visited GNDEC School of Architecture for IIA-Punjab chapter’s annual cricket tournament (APCL-3) where Amritsar team won. Architects interacted with the students and admired their work exhibited in the college. They praised the quality, knowledge and awareness of students about the field of Architecture. Ar.Harinder Boparai, Chairman IIA-Ludhiana Centre graced the occasion with his presence. Prof.Akanksha Sharma, Head-GNDEC School of Architecture was regarded with guest of honour award by Ar.Niranjan Kumar, Sports chairman IIA Punjab Chapter. Dr.Sehijpal Singh, Principal-Guru Nanak Dev Engineering college congratulated the team for organizing the event and highlighted the importance of sports as an integral part of today’s life style.
-</p>
+| Sr. No. | Student Name                        | Architectural Firm                             |
+|:--------|:------------------------------------|:-----------------------------------------------|
+| 1.      | Komalpreet Kaur                     | AL HILALEngg. & Arch. Consultancy,Dubai | 
+| 2.      | Goresh Saini                        | RSP Design Consultants Pvt. Ltd., Bangalore | 
+| 3.      | Jaya Verma, Gurleen Kaur & Kirat Kaur | Design Forum International,New Delhi | 
+| 4.      | Kanav Soni                          | Modarch India, Noida | 
+| 5.      | Jaismeen Kaur & Vinay Kumar         | Fountain Head New Delhi | 
+| 6.      | Anudesh Saini                       | Arch 10 Design Consultants, Gurugram | 
+| 7.      | Bhavjeet Singh	                     | Arvind Vivek & Associates,New Delhi |                                                                                                  
+| 8.      | Khusham & Kriti Singla					         | Habitat Architects Ludhiana |  
+| 9.      | Ishika Arora             		         | Avinash Khosla & Associates,Ludhiana |  
+| 10.     | Ranjod Singh & Mifzal    		         | Prolific Architects,Ludhiana |  
+| 11.     | Deshna Aggarwal    		               | Designex Architects,Ludhiana |    
+  
+## Seminar's, Guest Lectures, Workshops and Expert Talks 
 
-## Three-day Design and BIM Tools Exploration Workshop on 8th April, 2021
-![HSR](Images/7.jpg)  
-<p align=justify>
-The workshop provided understanding of Modelling and visualization, Reality Modelling, Civil Design, Bridge Analysis, Structural Analysis and Design, Hydraulics and Hydrology and Project Delivery and Infrastructure Asset Performance. Architecture, Engineering and Construction (AEC) industry across the globe has been embracing the lean philosophy as well as digital technologies like Building Information Modelling (BIM), Virtual Reality, Machine Learning and so on. Indian construction industry is as well treading along this path. Lean philosophy has made remarkable improvements in the manufacturing sector with focus on minimization of waste and value addition to the client or end user. The thought leaders in the construction sector in global arena decided to draw the lessons from application of lean in manufacturing sector and reinvent them in the context of construction industry.
-</p>
-
-## Online expert lecture on Green Buildings – The GRIHA Way on 14th April, 2021
-![HSR](Images/8.jpg)  
-<p align=justify>
-Speaker - Akash Deep, B. Arch. (Hons.), M. Arch. in Sustainable Urban Design and Creative Urban Practices (Glasgow University), has been working as Senior Program Manager with GRIHA Council since 2011.
-The session was focused on - GRIHA is an acronym for Green Rating for Integrated Habitat Assessment. GRIHA is a Sanskrit word meaning – ‘Abode’. Human Habitats (buildings) interact with the environment in various ways. Throughout their life cycles, from construction to operation and then demolition, they consume resources in the form of energy, water, materials, etc. and emit wastes either directly in the form of municipal wastes or indirectly as emissions from electricity generation. GRIHA attempts to minimize a building’s resource consumption, waste generation, and overall ecological impact to within certain nationally acceptable limits / benchmarks.
-</p>
-
-## Online Expert Lecture on Heritage – Complex Pasts & Diverse Futures on 17TH April, 2021
-![HSR](Images/9.jpg)  
-<p align=justify>
-Speaker - Ar. Gurmeet S. Rai set up the CULTURAL RESOURCE CONSERVATION INITIATIVE (CRCI), a conservation consultancy firm to enhance and strengthen creative approach to otherwise routine practices.
-Some of the noted projects of CRCI have been preparation of conservation and management plans for the world heritage sites of Red Fort, New Delhi; Ellora Cave, Maharashtra, urban conservation plans for historic settlements of Amritsar and Puri, sustainable strategies for development of cultural tourism in Jammu and Kashmir, integrated conservation and development of tangible and intangible heritage; for governments, private, bilateral and multi-lateral agencies. CRCI has provided expertise in South Asia in the countries of Nepal, Myanmar and in India in the states of Punjab, Rajasthan, Odisha, Madhya Pradesh, Gujarat, Delhi, Jammu and Kashmir and others. She was awarded ‘Award of Distinction’ for two projects by UNESCO under Asia Pacific Architectural Heritage Awards in the year 2002 and 2004 for demonstrating community inclusive conservation programs. She has been a specialist consultant to several UNESCO workshops Asia- Pacific. She is the only Indian who has been invited to be on the jury for the UNESCO Asia- Pacific heritage awards for culture heritage conservation every time from 2005 onwards and till date. She is currently the Vice President of ICOMOS India and an expert voting member on the International Scientific Committee on Cultural Tourism. She is involved in urban conservation in the recently launched program of Ministry of Urban Development called HRIDAY. She has been appointed as the HRIDAY city anchor for the two historic cities of Amritsar in Punjab and Puri in Odisha.
-</p>
-
-## Online Expert Lecture on Energy Efficiency in Buildings on 13th MAY, 2021
-![HSR](Images/10.jpg)  
-<p align=justify>
-Speaker - Money Khanna is BEE Certified ECBC Master Trainer, Green Rating for Integrated Habitat Assessment Certified Professional (GRIHA CP), Indian Green Building Council Accredited Professional (IGBC AP) and Green & Eco-Friendly Movement Certified Professional (GEM CP) & Solar PV TOT Certified Trainer.
-</p>
-
-## Online expert Lecture on Art, Architecture and Design on 6th June, 2021
-![HSR](Images/11.jpg)  
-<p align=justify>
-Online Expert Lecture on Ecosystem Restoration
-Speaker - Dr.Anil Prakash Joshi, Founder- Himalayan Environmental Studies and Conservation Organization (HESCO). We also acknowledge the presence of Ar.Sanjay Goel, Chairman-IIA Punjab Chapter & Director-Ludhiana Smart City Limited, Ar.Yogesh Singla-Treasurer-IIA Punjab Chapter, Ar.Harinder Boparai, Chairman-IIA Ludhiana Centre, Ar.Balbir Bagga, Vice Chairman-IIA Ludhiana Centre, Ar.Rajan Tangri, Treasurer-IIA Ludhiana Centre, Ar.Bimaldeep Singh- Honorary Secretary IIA Ludhiana Centre, Er RL Mahajan, Chairman- Institution of Engineers Ludhiana Centre, Er Surjit Singh, Honorary Secretary IoE Ludhiana Centre and other members of IIA & IoE.
-</p>
-
-## Online expert lecture on The Profession of Architecture on 16TH June, 2021
-![HSR](Images/12.jpg)  
-<p align=justify>
-Speaker – Jit Kumar Gupta, has experience spanning over 45 years in Urban Planning, Development, Management, Planning legislation, Policy Planning and Architectural Education.
-</p>
-
-## Stress management, Immunity boosting & Balancing life through Sahaja Yoga Meditation on 20th June, 2021
-![HSR](Images/13.jpeg)  
-<p align=justify>
-GNDEC School of Architecture, Ludhiana celebrated International Day of Yoga by organizing an online Yoga session in collaboration with The Indian Institute of Architects-Ludhiana Centre, The Institution of Engineers-Ludhiana Centre and Indian Society for Technical Education. Online session was conducted by Sahaja Yoga Meditation and Mr.Nitin Jindal was the resource person of the day. The theme for talk was ‘Stress Management and Immunity Boosting through Meditation and Yoga’.
-</p>
-
-## Independence Day Celebration on 15th August, 2021
-![HSR](Images/14.jpeg)  
-<p align=justify>
-Celebrated archi dependence , by documenting a few public/institutional / offices buildings of independent delhi since 1947 to end of 20th Century in the form of sketches.
-</p>
-
-## Fun and lively Caricature Workshop on 16th August, 2021
-![HSR](Images/15.jpeg)
-
-## Eco-Resort Site Visit on 9th September, 2021
-![HSR](Images/16.jpeg)
-
-## Hands-on Workshop on Architectural Photography on 15th September, 2021
-![HSR](Images/17.jpeg)  
-<p align=justify>
-GNDEC School of Architecture, Ludhiana organized hands-on workshop on Architectural photography for students of B.Architecture. Session was conducted in blended mode by very famous Author, Photographer Mr.Janmeja Singh Johal. Mr.Johal said that Architectural photography is as important as any well designed building that has to be presented and good photography skills can enhance the aesthetical value of the buildings. He gave various tips to students about skill development and hardware requirement about photography. Further, two softwares were also demonstrated by him to correct various errors in already clicked photographs. He also talked about significance of time lapse and drone photography in documentation of architectural projects.
-</p>
-
-## Online Expert lecture on The Idea of Architecture on 4th October, 2021
-![HSR](Images/18.jpg)  
-<p align=justify>
-Speaker - AR.SATHYA PRAKASH VARANASHI
-GNDEC School of Architecture, Ludhiana marked World Architecture Day and UN World Habitat day by conducting an online expert lectures on 4th October, 2021. Expert  from Bengaluru, Ar.Sathya Prakash Varanashi, Principal Architect, Sathya Consultants presented his maestro panorama on the topic. Architect Sathya Prakash said that creativity in Architecture doesn’t mean that we should design something new; which has not been done earlier, but it is to be Original and associated with origin of Architecture. He added that the most  Ar.Akanksha Sharma, Head- GNDEC School of Architecture not only conceived the idea of conducting the webinar but also underpinned the entire session with her support and continuous guidance to her team which lead to the whooping out-turn. Dr. Sehijpal Singh, Principal GNDEC congratulated Team GNDEC-SOA and prestigious guest for collaborating on such cardinal occasions and creating awareness about sensitive issues concerning environment, Architecture and our habitat. He encouraged the Students and teachers for compiling such episodes of Knowledge and realization.
-</p>
-
-## Ar. Vivek Sehgal was live on Climate Responsive Architecture at 100.1 FM studio on 5th October, 2021
-![HSR](Images/19.jpeg)
-
-## Online webinar on Reminiscing the Journey, Charles-Edouard Jeanneret on 6th October, 2021
-![HSR](Images/20.jpg)  
-<p align=justify>
-Speaker - Prof Supriya Kukreja
-GNDEC School of Architecture, Ludhiana celebrated 134th birth anniversary of Le Corbusier by organizing an online expert lecture on 6th October, 2021. Expert  from Ahmedabad, Ar.Supriya Kukreja, Associate Professor-Nirma University & Visiting Professor-CEPT university was the resource person of the day.  Prof Supriya Kukreja Spoke about the importance of reading, travelling and sketching in the making of an architect from his early days of education. She added that Corbusier’s life is an inspiration to challenge your own self and trying to get better each day. Ar.Akanksha Sharma, Head- GNDEC School of Architecture stayed determined  from conception of idea, to development of the substance till the completion of the event. Her firm efforts and hard work contributed to this successful online event. Dr.Sehijpal Singh, Principal - GNDEC congratulated School of Architecture and prestigious guest for collaborating on this day. He encouraged the Students and faculty to follow the professional footsteps of Master Architects like Le Corbusier.
-</p>
-
-## Student Induction Program on 26th October, 2021
-![HSR](Images/21.jpeg)  
-<p align=justify>
-Events conducted:Lamp Lighting, Shabad/Saraswati Vandana, Speech and Presentation, Vasturang, Kagji Gaganchumbi Imarat, Kalakriti, Andhadhundh, Veshbhusha, Khinchatani
-
-## Diwali Celebration & Reimagining Architectural studio – Halloween celebration exhibition on 2nd November, 2021
-![HSR](Images/22.jpeg)
-
-## The Brick Store – Site Visit on 8th November, 2021
-![HSR](Images/23.jpeg)
-
-## Jung-e-azadi Memorial - A case study on 18th November, 2021
-![HSR](Images/24.jpeg)
-
-## IPS Dr. Pragya Jain at SOA on International Day of the Elimination of Violence against Women on 24th November, 2021
-![HSR](Images/25.jpg)  
-<p align=justify>
-GNDEC School of Architecture conducted awareness program on Elimination of violence against women.     Dr. Pragya Jain IPS, ADCP Ludhiana was the Chief guest of the event. She sensitized one and all about Gender Neutrality & and made all aware about different crimes related to women & punishment pertaining to those. She advised all women to be educated & independent so that they should know about their rights. ‘Sanjh’ team from Punjab police was also present during the event & they demonstrated the Shakti Application developed by them. Col.Naresh Kumar, Commanding Officer 3, Punjab Battalion & his team along with NCC cadets were also present in the event. Ar. Sanjay Goel, one of the Directors- Ludhiana Smart City Limited, S. Inderpal Singh, Director Nankana Sahib Education Trust were also present as distinguished guests. Dr.Arvind Dhingra thanked all guests for being part of this event. Prof. Akanksha Sharma, Head- GNDEC School of Architecture motivated all to treat men & women with equality.        Dr.Sehijpal Singh, Principal-GNDEC said that women play equally important role in our society & also praised School of Architecture for organizing this very meaningful event.
-</p>
-
-## Sun View School – Site visit on 30th November, 2021
-![HSR](Images/26.jpeg)
-
-## International Day of persons with Disabilities on 3rd December, 2021
-![HSR](Images/27.jpg)
-
-## World energy Conservation Day on 14th December, 2021
-![HSR](Images/28.jfif)
-
-
-# AESTHETIC CORNER – School of Architecture
-
-## Ar. Gazal Soni, Architect and Artist
-![HSR](Images/29.jfif)  
-<p align=justify>
-Faculty of School of Architecture, Ar. Gazal Soni is working exceptionally on Surface Narrative painting and selling her paintings all across India. Surface Narrative art are those crafts which are essentially “two-dimensional” in nature and are applied to the surface of Architecture elements and components. This art has been developed by communities to express their imagination and culture, and represent a specific message. Along with that she has the expertise in modern painting, abstract art, Portrait making, acrylic pouring and raisin art.
-</p>
-
-## Gungeet Kaur, Photographer
-![HSR](Images/30.jpg)  
-<p align=justify>
-Gungeet Kaur, undergraduate student from School of Architecture GNDEC has captured fantastic moments in various events. She has explored her vision through architecture photography, interior photography, portrait photography, wildlife photography and macro photography. Apart from this, she also uses various camera techniques like light trails, panning, multiple exposure, panorama, star trails and cloning of subjects.
-</p>
-
-## Jaismeen Kaur, Sports Woman
-![HSR](Images/31.jfif)  
-<p align=justify>
-Shield and cash prize was awarded to Jaismeen Kaur, Student of School of Architecture as PTU best cyclist as she participated in all India Interversity Cycling Championships.
-</p>
-
-# Khushpreet, Cake Maker
-![HSR](Images/32.jfif)  
-<p align=justify>
-Student of School of Architecture, Khushpreet Kaur is skilled in handcrafting edible flowers and petals that are incredibly lifelike. Along with learning architecture, she is expertise in the ombré effect of the tiered masterpiece cakes.
-</p>
-
-## Sunidhi, Portrait Artist
-![HSR](Images/33.jfif)  
-<p align=justify>
-Of all the art styles, there is one genre that often gets the double-take. “Realism” has been prominent since the 1970s, and the talent we have curated represents some of the best Portrait Artists in India today. Sunidhi, student od School of Architecture, has explored her skill of making portraits at a very young age.
-</p>
+| Sr. No. | Name of Event Organized             | Delegate                             | Date |
+|:--------|:------------------------------------|:-----------------------------------------------|:----------------------|
+| 1.      | Webinar on 'Site Planning'  | Er. Sukwant SinghAr. Jit Kumar Gupta | 9th may, 2023 |
+| 2.      | Road Safety is no Accident'         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 2nd May, 2023.|
+| 3.      | ‘Sustainability in Architecture’ in Capacity Building Training, Energy Conservation Week on Gulzar Group of Institutions, Ludhiana. | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 30th March 2023 |
+| 4.      | Seminar on HVAC    | Er. Sukwant Singh | 28th Jan, 2023 |  
+| 5.      | A Critical thinking Workshop on Fire, Acoustics & Barrier Free Design in Buildings at Chitkara University, Rajpura.         | Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture | 25th Jan 2023 |
+| 6.      | Seminar on Water Proofing and Expansion Joints  |  Iceland India & Dr.Fixit | 23rd Feb 2023   |
+| 7.      | Expert lecture on 'Building Management System' | Dr. Arvind Dhingra, Executive Director - Science & Technology Entrepreneurs’ Park (STEP-GNDEC) | 1st May,2023  |
+| 8.      | Guest Lecture on Beyond Concrete & Glass: How Vernacular Architecture can contribute to a more Sustainable and just Built Environment   | Dr.(Ar.) Mainsh Chalana Professor – University of Washington, Seattle, USA | 20th March, 2023 |
+| 9.      | Expert lecture by SCHUCO Aluminum Windows,	| SCHUCO | 30th Sept, 2022 |
+| 10.      | '' Innovate Your World With Glass"	| Ar. Vivek Sehgal, Associate Professor, GNDEC School of Architecture at Park Plaza | 27th Aug,2022 |
+| 11.      | Expert lecture and site Visit of Substation and Solar Power Plant	| Dr. Arvind Dhingra, Professor - Electrical Engineering Department, GNDEC |  27th Aug,2022 |
+| 12.      | 'Electrical Services in Architecture', | Dr. Randhir Singh, Associate professor (Physics), Applied Sciences Department, GNDEC & Er. Ranjit Singh, Assistant professor (Electrical-Workshop),| 17th Aug, 2022 |
+| 13.      | Impact of Electromagnetic Radiations on Built Spaces	| Mr. Vikas Aggarwal & Dr. Deven Verma, both certified Geo professionals were the resource persons | 27th May, 2022 |
+| 14.      | Expert Lecture on Architecture ,| Ar. Kanav Khosla, Principal Architect - Avinash Khosla & Associates, Ludhiana | 30th Sept, 2022    |
+  
+ 
 
 
 
-# Publications, Conference and Awards
 
-- **Ar. Vivek Sehgal**, Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-- **Ar. Vivek Sehgal**, Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-- **Ar. Samriti Singh**, Charting the Identity of Shimla. The Journal of Heritage Management and SAGE Publication. ISSN: 24559296 and link - (https://journals.sagepub.com/doi/10.1177/24559296211047953)
-- **Ar. Samriti Singh**, Positioning Place- making in Urban Conservation, Presented research paper at Multidisciplinary International Conference on "Cultural, Urban & Environmental Landscapes: Geographical Perspectives".
-- **Ar. Samriti Singh**, Awarded Best Digital Innovation in Teaching on Teachers Day – 2021, at Chandigarh University, Gharuan.
+
+
+
+
+  
+
+
+
+  
+
