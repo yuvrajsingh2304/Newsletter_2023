@@ -127,13 +127,11 @@ The most exhilarating two-day Techno -Cultural fest was held on 16-17March 2023 
    
 ### Ar.Vivek Sehgal   
 - Anudesh Saini , Goresh Saini , Jaya Verma, Vivek Sehgal*(2022) Evaluating Criteria for Sustainable Development: A case of Qila Raipur, International Journal of Sustainable Building Technology, Volume 5, Issue 1.
-- Baweja Tavleen, Sehgal Vivek, Saini Sanjiv (2019). Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127 
+- Baweja Tavleen, Sehgal Vivek, Saini Sanjiv . Bioclimatic Architecture: Improvised Blend of Tradition and Innovation. IJRAR, Published Paper ID-IJRAR1BLP127 
 - Sehgal Vivek, Putta Vanitha (Propagating Smart from Beautiful.  IJRAR, Published Paper ID-IJRAR1BMP163 
-- Sehgal Vivek, Kaur Harsimran (2020). Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-- Rehal Prashant, Chani Prabhjot, Sehgal Vivek (2020). Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
-- Khandelia Shubham, Sehgal Vivek (2016). Kinetic Architecture: Designing with Movement. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara
-- Sehgal Vivek (2014). Kapurthala & Its Deteriorating Heritage. Proceedings of Neo-International Conference on Habitable Environments, organized by LPU, Phagwara.  
- 
+- Sehgal Vivek, Kaur Harsimran . Urban Heritage Conservation for Sustainable Development: A Case of Kapurthala. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+- Rehal Prashant, Chani Prabhjot, Sehgal Vivek . Ageing-Friendly Neighbourhoods: A Study of Mobility and Out-of-Home Activity. Proceedings of International Conference on Sustainable Development Through Engineering Innovations, organized by GNDEC, Ludhiana. ISSN 2366-2557 & ISBN 978-981-15-9553-0. Published by Springer.
+
 ### Ar.Simran Kaur    
 - Planning for informal commercial sector in Jalandhar city.International journal for research in engineering application & management (IJREAM). ISSN: 2454-9150    
    
