@@ -11,18 +11,6 @@ I heartily congratulate all the students and the faculty members of GNDEC on the
 **S. Harjinder Singh Dhami**  
 (President, SGPC and NSET, Ludhiana)
 
-# Message from Director's Desk
-
-![D](Images/Director.jpg)  
-
-<p align=justify>
-  I am delighted to announce the release of college Newsletter 2023 (Vol 11), which provides an overview of the accomplishments and achievements of students and faculty members of GNDEC. From academic achievements to extracurricular accomplishments, the newsletter highlights the hard work and dedication of the team “GNDEC”.
-I extend my gratitude and best wishes to all the bestowers who have contributed to the successful creation of this newsletter.
-   </p>
-
-**S. Inderpal Singh**   
-(Director, Nankana Sahib Education Trust)
-
 # Message from Secretary's Desk
 
 ![S](Images/Secretary.jpg)  
@@ -34,6 +22,18 @@ I congratulate the editorial team and all the contributors who worked diligently
 
 **Er. Sukhminder Singh**  
 (Secretary, Nankana Sahib Education Trust)
+
+# Message from Director's Desk
+
+![D](Images/Director.jpg)  
+
+<p align=justify>
+  I am delighted to announce the release of college Newsletter 2023 (Vol 11), which provides an overview of the accomplishments and achievements of students and faculty members of GNDEC. From academic achievements to extracurricular accomplishments, the newsletter highlights the hard work and dedication of the team “GNDEC”.
+I extend my gratitude and best wishes to all the bestowers who have contributed to the successful creation of this newsletter.
+   </p>
+
+**S. Inderpal Singh**   
+(Director, Nankana Sahib Education Trust)
 
 
 # Message from Principal's Desk
