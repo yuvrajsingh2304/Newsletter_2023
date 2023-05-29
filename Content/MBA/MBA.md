@@ -36,11 +36,12 @@ The Department of Business Administration has experienced and competent faculty 
 
 # Cultural and Sports Activities
 
-Activities: |  Department:                                                                                     |  dates:                 |
+| Activities |  Departmen |  Dates |
 |:---------| :----------------------------------------------------------------------------------------------------|--------------|                          
-Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
-|Deepawali DIVA competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
-|Volley ball& Tug of war Competition for  MBA &BBA	|Held in Sports Complex , Guru Nanak Dev Engineering College, Ludhiana	| 31 October,2022       |
+| Mehndi Competition	|Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana    | 	09 October,2022   |
+|Deepawali DIVA competition | Held in Department of Business Administration, Guru Nanak Dev Engineering College, Ludhiana     |	20 October,2022     |
+|Volley ball& Tug of war Competition for  MBA &BBA | Held in Sports Complex , Guru Nanak Dev Engineering College, Ludhiana	| 31 October,2022       |
+
 <P align=justify>
 The students of Department of Business Administration organized the langar on November7,2022 in connection with the worth of Jagat Guru, "Guru Nanak Dev Ji's". The motive was to instill the principles of Vand Shako among the students.
 </P>
@@ -48,16 +49,16 @@ The students of Department of Business Administration organized the langar on No
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
-| Sr. No. | Name of Faculty   | Name of Event                                                                                                                                                             | Duration        | Date(s)              | Organizing Institute           |
-|:------- |:----------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------- |:-------------------- |:------------------------------ |
-  1       | Dr.H.S Dhall       | Attended International Conference and Presented Paper on ,"Comaprison of Financial Performance of selected Mutual Funds of Private Sector sponsored AMC's and Public Sector sponsored AMC's|2 days           | 11th and 12th Novemver,2022 | Bhai Gurdas Institute of Engineering & Technology,Sangrur|                                                                                                | 3 Days          | 7-9 Dec 2020         | NPIU-IIMV                      |
+| Sr. No. | Name of Faculty   | Name of Event | Duration        | Date(s)              | Organizing Institute           |
+|:------- |:----------------- |:--- |:--------------- |:-------------------- |:------------------------------ |
+|  1       | Dr.H.S Dhall       | Attended International Conference and Presented Paper on "Comaprison of Financial Performance of selected Mutual Funds of Private Sector" | 2 days           | 11th and 12th Novemver,2022 | Bhai Gurdas Institute of Engineering & Technology,Sangrur|  
 | 2       | Dr. H.S Dhall      | Presented Paper on , "How to create effective Power Point Presentation"                                                                                                                    | One Day         | 29th November, 2022         | Government Senior Secondary School, Koom Kalan|                    |
 | 3       | Prof. Mandeep      | Attended National Level Workshop on, "Insights on Publishing Multidisciplinary Edited & Authored Books with International Publishers"2                                                     | 5 Days          | 30 th - 31st July 2022      | Research Culture Society |                   
 | 4       | Prof. Mandeep      | Online attended International FDP at , "Igniting Young Researchers mind"                                                                                                                   | 7 Days          | 12th -18 Sept. 2020         | CT Group of Institutions, Shahpur Campus, Jalandhar                     |
 | 5       | Prof. Mandeep      | Presented Paper in International Conference titled , "National Strategy and Reforms for Digital financial inclusions                                                                       | One Day           | 10th March 2023         | CT University , Ludhiana.                         |
 | 6       | Dr. Kshma Kaushal  | Paper presented in National Seminar, titled ,"Features and Significance of National Education Policy 2020"                                                                                  | 1 day          |  24th September,2022            |   PG Dept. of Commerce and Managemnet , Guru Nanak Khalsa College for Women, Ludhiana.    |         
-| 7       | Dr. Prabhpreet Kaur|  Guest Lecture delivered on, "Emerging retail formats and strategies"                                                                                                       |  One day   |           |       Government School, Habowalbet                                     |
-|        |                   |                                                                                                                                            
+| 7       | Dr. Prabhpreet Kaur|  Guest Lecture delivered on, "Emerging retail formats and strategies"   |  One day   | |  Government School, Habowalbet   |
+                                                                                                                                          
 
 
 ## Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)  
