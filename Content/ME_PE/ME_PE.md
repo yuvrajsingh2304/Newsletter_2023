@@ -88,13 +88,14 @@ It is great that institute is publishing the information regarding the academic 
 - P Singh, L Singh, **S Singh**(2022) “Mechanism of Material Removal in Magneto Abrasive Flow Machining” Machines, Mechanism and Robotics: Proceedings of iNaCoMM 2019, 225-238
 
 ## Book Chapters
-| Sr. No. | Authors          | Title                                                                      | Year               | Title of Book/ Publisher/ Page/ISBN No.                                                           |
+
+| Sr. No. | Authors          | Title      | Year      | Title of Book/ Publisher/ Page/ISBN No.    |
 |:--------|:-------------------------|:------------------------------------------------------------------------------------|:-----------------------|:-------------------------------------------------------------------------------|
-|1|Harish Kumar Banga, **Raman Kumar**, Harpreet Kaur Channi, Swapandeep Kaur|Design and Stress Analysis of 3D Printed Prosthetic Finger| Accepted 2022 In press| Innovative Processes and Materials in Additive Manufacturing/ Elsevier
-|2|**Raman Kumar**Swapandeep Kaur|Biocompatible and bioactive ceramics for biomedical applications: content analysis|2022|Additive Manufacturing of Polymer for Tissue Engineering: Fundamentals, Applications, and Future Scope/ CRC Press, Taylor & Francis Group, USA
-|3|Abhijeet Singh,  **Sukhinderpal Singh &  Raman Kumar**| Cost-Effective Design of Soft Robotic Prosthetic Arm Based on 3D Printing|2022/Online May 15 2022| pp. 115-127, Additive, Subtractive, and Hybrid Technologies. Mechanical Engineering Series. Springer, Cham. / ISBN: 978-3-030-99569-0/ 
-|4|**Raman Kumar, Paramjit Singh Bilga, Sehijpal Singh**|An Investigation of Active Cutting Energy for Rough and Finish Turning of Alloy Steel|2022|Additive and Subtractive Manufacturing Processes: Principles and Applications
-|5|**Raman Kumar**, Harpreet Kaur|3D Printing Technology: An Overview|2022|"Additive Manufacturing with Medical Applications"/ CRC Press, Taylor & Francis Group, USA ISBN 9781032110776 pp. 31-40
+|1|Harish Kumar Banga, **Raman Kumar**, Harpreet Kaur Channi, Swapandeep Kaur|Design and Stress Analysis of 3D Printed Prosthetic Finger| Accepted 2022 In press| Innovative Processes and Materials in Additive Manufacturing/ Elsevier |
+|2|**Raman Kumar**Swapandeep Kaur|Biocompatible and bioactive ceramics for biomedical applications: content analysis|2022|Additive Manufacturing of Polymer for Tissue Engineering: Fundamentals, Applications, and Future Scope/ CRC Press, Taylor & Francis Group, USA|
+|3|Abhijeet Singh,  **Sukhinderpal Singh &  Raman Kumar**| Cost-Effective Design of Soft Robotic Prosthetic Arm Based on 3D Printing|2022/Online May 15 2022| pp. 115-127, Additive, Subtractive, and Hybrid Technologies. Mechanical Engineering Series. Springer, Cham. / ISBN: 978-3-030-99569-0 |
+|4|**Raman Kumar, Paramjit Singh Bilga, Sehijpal Singh**|An Investigation of Active Cutting Energy for Rough and Finish Turning of Alloy Steel|2022|Additive and Subtractive Manufacturing Processes: Principles and Applications |
+|5|**Raman Kumar**, Harpreet Kaur|3D Printing Technology: An Overview|2022|"Additive Manufacturing with Medical Applications"/ CRC Press, Taylor & Francis Group, USA ISBN 9781032110776 pp. 31-40 |
 
 
 ## Conference attended
