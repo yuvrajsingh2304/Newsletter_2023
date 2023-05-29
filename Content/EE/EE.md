@@ -114,8 +114,6 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 - **Swapandeep Kaur** "Electric Vehicle Scenario in India: Evolution, Challenges and Opportunities" in  International Journal of Advances in Engineering and Management (IJAEM), 2021
 
 
-
-
 ## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
 
@@ -139,17 +137,17 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
 |1|Dr. Arvind Dhingra| SPARC course on Smart Grids: Future Intelligent electricity Distribution Grids | Five Days| (February 4-14,2022)| , MNIT Jaipur & Cardiff University, UK|
-|2|Dr. Arvind Dhingra |  FDP on Green and Intelligent Buildings |1 Week |April 14th-18th,2020  | NITTTR, Chandigarh |
-|  3   |      Dr. Arvind Dhingra           |    FDP on Technological Advancement in Power System Control, Power Controllers, drives & E- Vehicles- TAPPAD2020           |     1 Week     |   April 27th- May 1st,2020      |               Dr NGP Institute of Technology, Coimbatore       |   
+|2| Dr. Arvind Dhingra |  FDP on Green and Intelligent Buildings |1 Week |April 14th-18th,2020  | NITTTR, Chandigarh |
+|  3   |  Dr. Arvind Dhingra |    FDP on Technological Advancement in Power System Control, Power Controllers, drives & E- Vehicles- TAPPAD2020  |  1 Week     |   April 27th- May 1st,2020 | Dr NGP Institute of Technology, Coimbatore |   
 |4|Dr. Arvind Dhingra|IGEN PIT FDP on Renewable Energy Systems	|1 Week|June 8-12th , 2020|The Institution of Green Engineers, Panimalar Institute of Technology, Chennai|
-| 5 |          Dr. Arvind Dhingra         |     TEQIP-III sponsored Efficient, trackable and sustainable workflow, Examination Branch          |     1 Week    |      December 2nd -7th, 2020    |           GNDEC, Ludhiana           |
-|6|Dr. Navneet Singh Bhangu|Energy Conservation and Management, TEQIP-III sponsored ICT enabled FDP|1 week|April 27 to May 1, 2020|EED at GNDEC, Ludhiana|
+| 5 |          Dr. Arvind Dhingra         |     TEQIP-III sponsored Efficient, trackable and sustainable workflow, Examination Branch          |     1 Week    |      December 2nd -7th, 2020    |           GNDEC, Ludhiana       |
+| 6 | Dr. Navneet Singh Bhangu|Energy Conservation and Management, TEQIP-III sponsored ICT enabled FDP|1 week|April 27 to May 1, 2020|EED at GNDEC, Ludhiana|
 |7|Dr. Navneet Singh Bhangu|Online AICTE Recognized FDP On	Waste Management|1 week| May 11th -15th 2020| Mechanical Engg. Deptt., NITTTR Chandigarh|
-|8|Dr. Navneet Singh Bhangu|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|July 19th 2020 |School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai
-|9|Dr. Navneet Singh Bhangu|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam
+|8|Dr. Navneet Singh Bhangu|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|July 19th 2020 |School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai |
+|9|Dr. Navneet Singh Bhangu|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam |
 |10|Dr. Navneet Singh Bhangu|Digital Transformation of Institutions of Higher Learning|1 week| December 1st -6th 2020| National Academy of Human Resource Development,New Delhi|
-|11|Er. Rupinderjit Singh|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|19th July|School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai
-|12|Er. Rupinderjit Singh|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam
+|11|Er. Rupinderjit Singh|Education 4.0: Reliability Centered Maintenance, Webinar|1 day|19th July|School of Mechanical Engineering (SMEC) Vellore Institute of Technology, Chennai |
+|12|Er. Rupinderjit Singh|Professional Development Training Program for Faculty and Administrators of Project Institutions of TEQIP-III, National Project Implementation Unit, MHRD, Govt. of India|2 days|26 to 28 November 2020|Indian Institute of Management (IIM),Visakhapatnam|
 |13|Er. Ravinder Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
 |14|Er. Samreet Kaur|AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|Two Weeks |October 26th to November 7th, 2020| Department Of Business Administration,GNDEC,Ludhiana||
 |15|Er. Amandeep Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
@@ -158,22 +156,22 @@ of Evolution in Bio Medical Sector" in  Materials Today: Proceedings, 2021
 |18|Er. Amandeep Singh|Electric Vehicle:New Trends and Technologies|1 Week| 22-26 June 2020|ABES Engineering College, Ghaziabad|
 |19|Er. Karanbir Singh|FDP on “Advanced Optimization Techniques and hands-on with MATLAB/SCILAB”|2 Week|13 – 24 July 2020|Electronics and ICT Academies” by the Ministry of Electronics and Information Technology (MeitY), Government of India.|
 |20|Er. Karanbir Singh|Webinar on"Power Monitoring, Home Automation and Building Management System"|1 Week|June 29-3 July 2020|School of Electrical Engineering KIIT, Bubnehwar and Schneider electric india|
-|21|Er.Karanbir Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
+|21|Er.Karanbir Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
 |22|Er. Gagandeep Kaur Gill|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
-|23|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.
+|23|Er. Gagandeep Kaur Gill|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner.|
 |24|Er. Gagandeep Kaur Gill| Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration, GNDEC,Ludhiana|
 |25|Er. Bhawna|Innovative Pedagogical Methodologies and Tools for Effective Learning in Engineering Education |2 Weeks| December 7th to  December 21st, 2020|Department Of Business Administration,GNDEC,Ludhiana|
 |26|Er. Bhawna|  AICTE approved FDP course on "Electrical Vehicles ”|4 Week|January – March 2020| NPTEL Online Course.
-|27|Er. Bhawana|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
+|27|Er. Bhawana|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
 |28|Er. Arshdeep Kaur|TEQIP –III sponsored STTP on “PLC, Drives and Industrial Automation”|1 Weeks|March 2nd -6th,2020|Sant Longowal Institute of Engineering and Technology, Longowal|
 |29|Er. Arshdeep Kaur|Two Week Faculty Development Programme on “Digital Design and Emerging Trends in Signal Processing”|2 Weeks| August 10-22th, 2020|Department of Electronics & Communication Engineering, Government Engineering College Bikaner|
-|30|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab
+|30|Er. Arshdeep Kaur|One-week Online Short Term Training Program (STTP) on “Recent Trends in Instrumentation Engineering”|1 Week|September 7th-11th, 2020|Department of Electrical Engineering, NIT, Uttarakhand and Department of Electrical & Instrumentation Engineering, SLIET Longowal, Punjab |
 |31|Er. Arshdeep Kaur|Two Weeks AICTE Sponsored FDP Under AQIS:Innovative Pedagogical Methodologies And Tools For Effective Learning In Engineering Education|2 Weeks| October 26th to November 7th, 2020|Department Of Business Administration,GNDEC,Ludhiana|
-|32|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course
-|33|Er. Arshdeep Kaur|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
-|34|Er. Swapandeep|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
-|35|Er.Puneet|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
-|36|Er.Sukhpal Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana
+|32|Er. Arshdeep Kaur|  AICTE approved FDP course on "Introduction to smart grids ”|8 Week|September 14th-December 18th, 2020| NPTEL Online Course |
+|33|Er. Arshdeep Kaur|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana|
+|34|Er. Swapandeep|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
+|35|Er.Puneet|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
+|36|Er.Sukhpal Singh|  Workshop on Virtual Labs|1 Day| December 3rd, 2021| GNDEC,Ludhiana |
 
 
 ## Student's Corner  
