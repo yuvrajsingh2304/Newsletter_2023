@@ -67,15 +67,15 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 
 ### ECE Students during GNEAPEX on 8, Apr, 2022
 
--Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
+Project: Designed a working model of a hydraulic Excavator which works on the principle of of Pascal’s Law
 
--Team Members:
--Ali Ahmad Ansari
--Adarsh Mishra
--Anant Vijay
--Rahul Kumar
--Gurnoor Singh
--Guransh Singh</div>
+Team Members:
+- Ali Ahmad Ansari
+- Adarsh Mishra
+- Anant Vijay
+- Rahul Kumar
+- Gurnoor Singh
+- Guransh Singh
 
 ![Students](Images/ABC.jpg)
 
@@ -247,9 +247,9 @@ Alumni portal link: https://www.alumni.ssgmce.ac.in/alumni/
 	|27|Gurpurneet Kaur	|One week Faculty Development Programme on  Free Simulators for ECE Lab Practices (Module-1) |	One Week|	22-08-2022 to 26-08-2022|	NITTTR, Chandigarh|
 	|28|Shivmanmeet Singh|	5 Days National Conference on Creating Future Path of Scientific Development in 75th Year of Independence|	One Week|	18-04-2022 to 22-04-2022|	NITTTR, Chandigarh|
 	|29|Simranjit kaur|	One week Faculty Development Programme on Antenna Design using Soft Computing Algorithms organized|	One Week|	25-07-2022 to 29-07-2022|	NITTTR, Chandigarh|
-	|30|Simranjit kaur|	3 days international conference MAPCON 2022, organised by IEEE MTT/AP society, Bangalore|	3 days|	13-12-2022 to 15-12-2022	|Bangalore, India|
-	|31|Simranjit kaur|	1 day |IP awareness program organised by NIPAM, Govt. of India|	1 day	|15-03-2022|	GNDEC, Ludhiana|
-  |31|	Simranjit kaur|	IEEE lecture series on Igniting the Imagination Power|	One day	|03-03-2022|	Guru Nanak Dev Engineering College, Ludhiana|
+	|30|Simranjit kaur| international conference MAPCON 2022, organised by IEEE MTT/AP society, Bangalore|	3 days|	13-12-2022 to 15-12-2022	|Bangalore, India|
+	|31|Simranjit kaur| IP awareness program organised by NIPAM, Govt. of India|	1 day	|15-03-2022|	GNDEC, Ludhiana|
+  |32|	Simranjit kaur|	IEEE lecture series on Igniting the Imagination Power|	One day	|03-03-2022|	Guru Nanak Dev Engineering College, Ludhiana|
 
 
 ## Expert Lecture delivered
@@ -355,13 +355,14 @@ Prof. Shivmanmeet Singh (Faculty Incharge, ISF)
 -----------------------------------------
 ### Tricky Circuits
 
-![Tricky Circuits](iMAGES/c.jpg)
+![Tricky Circuits](Images/c.jpg)
 
-![Tricky Circuits](iMAGES/d.jpg)
+![Tricky Circuits](Images/d.jpg)
 
-![Tricky Circuits](iMAGES/e.jpg)
+![Tricky Circuits](Images/e.jpg)
 
-- IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.
+IETE Students Forum (ISF) , Guru Nanak Dev Engineering College , Ludhiana , organized acompetition based event ‘Tricky Circuits’ on 13-05-2022 at 11:30pm onwards. The main motive of this event was to aware the students regarding the technical circuits and build the confidence in solving numericals. Institution of Electronics and Telecommunication Engineers (IETE Students’ Forum), Guru Nanak Dev Engineering College is thriven to deliver information on the technical circuits and questions.
+
 -----------------------------------------
 ### One Day Workshop on Database automation
 
