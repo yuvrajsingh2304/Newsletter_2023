@@ -1,0 +1,2 @@
+# Visit of BBA
+Students of Bachelors of Business Administration department, Guru Nanak Dev Engineering College, Ludhiana visited Science and Technology Entrepreneurs Park, Ludhiana. Students were given inputs regarding how to become entrepreneur. They were shown around the premises and Students interacted with budding Entrepreneurs who explained them nitty gritty of incubation. #entrepreneurship #incubators

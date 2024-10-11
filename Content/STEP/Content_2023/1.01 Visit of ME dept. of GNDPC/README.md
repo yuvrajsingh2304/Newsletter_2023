@@ -1,0 +1,2 @@
+# Visit of ME dept. of GNDPC
+Students of Mechanical department, Guru Nanak Dev Polytechnic College, Ludhiana visited Science and Technology Entrepreneurs Park, Ludhiana. Students were given inputs regarding how to become entrepreneur. They were shown around the premises and Students interacted with budding Entrepreneurs who explained them nitty gritty of incubation.

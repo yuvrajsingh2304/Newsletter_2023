@@ -1,0 +1,2 @@
+# PMKVY Certification Exam
+PMKVY certification exam for data entry was also held. 28 students appeared & qualified for the certification admitted in the free of cost PMKY training program conducted in collaboration with NITCON, Chandigarh.
